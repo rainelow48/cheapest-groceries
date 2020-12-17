@@ -9,17 +9,17 @@ def validInput(selection):
         broken = True
 
     if (broken == True):
-        print("You have input a non-integer.\nAll csv files will be updated.\n")
+        print("\nYou have input a non-integer.\nAll categories will be selected.\n")
         cat = 0
 
     elif (cat > len(categories) or cat < 0):
-        print("You have input an out of range integer.\nAll csv files will be updated.\n")
+        print("\nYou have input an out of range integer.\nAll categories will be selected.\n")
         cat = 0
 
     else:
         if (cat == 0):
-            print("You have selected: All\nThe file(s) will be updated.")
+            print("\nYou have selected: All")
         else:
-            print("You have selected:", categories[cat], "\nThe file will be updated.\n")
+            print("\nYou have selected:", categories[cat])
 
     return cat

@@ -1,17 +1,18 @@
+# Import required variables
 from sainsessvar import categories, fileNames, mainurl, urlParams, categoryIDs, parentCatIDs
+
+# Import required libraries
 from bs4 import BeautifulSoup
 import requests
 import csv
 
 # Function to update csv for category of choice, update all by default
-def updateEssentials(cat = 0):
+def updateEssentials(cat):
 
     # Update all categories
     if (cat == 0):
         for i in categories:
             updateEssentials(i)
-
-        print("\nAll csv files has been updated!")
 
     # Update specific category
     else:
@@ -22,7 +23,7 @@ def updateEssentials(cat = 0):
         csv_writer = csv.writer(csv_file)
         
         # Write column names into csv file
-        csv_writer.writerow(['Description','Price per Unit','Unit','Price per Measure','Measure'])
+        csv_writer.writerow(['Description','Price/Unit','Unit','Price/Measure','Measure'])
 
         # Set page url params according to category
         # Set categoryID
@@ -84,6 +85,15 @@ def updateEssentials(cat = 0):
 
         # Close csv file
         csv_file.close()
+    return True
 
-        # Update user csv file has been updated
+# Update user csv file has been updated
+def updateSuccessful(cat):
+
+    if (cat == 0):
+        print("All csv files has been updated!")
+
+    else:
+        catName = categories[cat]
+        fileName = fileNames[catName]+'.csv'
         print(fileName, 'has been updated successfully.')
