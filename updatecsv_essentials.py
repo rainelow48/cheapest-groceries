@@ -8,7 +8,6 @@ def updateEssentials(cat = 0):
 
     # Dictionary of categories
     categories = {
-        0 : 'All',
         1 : 'Fruits and Vegetables',
         2 : 'Meat and Fish',
         3 : 'Dairy, eggs and Chilled',
@@ -76,7 +75,7 @@ def updateEssentials(cat = 0):
 
     # Update all categories
     if (cat == 0):
-        for i in range (1,8):
+        for i in categories:
             updateEssentials(i)
 
         print("\nAll csv files has been updated!")
@@ -155,6 +154,5 @@ def updateEssentials(cat = 0):
 
         # Update user csv file has been updated
         print(fileName, 'has been updated successfully.')
-
 
 updateEssentials(0)
