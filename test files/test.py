@@ -31,13 +31,14 @@ import csv
 url1 = 'https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=12518&parent_category_rn=&top_category=12518&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=12518&categoryFacetId2='
 url2 = 'https://www.sainsburys.co.uk/shop/gb/groceries/meat-fish/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=13343&parent_category_rn=&top_category=13343&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=13343&categoryFacetId2='
 url3 = 'https://www.sainsburys.co.uk/shop/gb/groceries/dairy-eggs-and-chilled/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=428866&parent_category_rn=&top_category=428866&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=428866&categoryFacetId2='
+url4 = 'https://www.sainsburys.co.uk/shop/CategorySeeAllView?pageSize=120&orderBy=FAVOURITES_FIRST&storeId=10151&categoryFacetId1=12518&promotionId=&listId=&catalogId=10241&searchTerm=&beginIndex=120&top_category=&langId=44&categoryId=12518&parent_category_rn='
 param1 = url1.split('&')
-param2 = url2.split('&')
+param2 = url4.split('&')
 print(param1)
 print(param2)
 
 params = {}
-for i in param1:
+for i in param2:
 
     hi = i.split('=')
     params[hi[0]] = hi[1]
