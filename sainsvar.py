@@ -21,7 +21,13 @@ allcategories = {
     5 : 'Frozen',
     6 : 'Food Cupboard',
     7 : 'Household',
-    8 : 'Drinks'
+    8 : 'Drinks',
+    9 : 'Beauty and Cosmetics',
+    10 : 'Toiletries',
+    11 : 'Home',
+    12 : 'Baby and Toddler',
+    13 : 'Pet',
+    14 : 'Price Lock'
 }
 
 # Dictionary of filenames
@@ -44,13 +50,19 @@ allfileNames = {
     'Frozen': 'allfrozen',
     'Food Cupboard': 'allfoodcupboard',
     'Household': 'allhousehold',
-    'Drinks': 'alldrinks'
+    'Drinks': 'alldrinks',
+    'Beauty and Cosmetics' : 'allbeautyandcosmetics',
+    'Toiletries' : 'alltoiletries',
+    'Home' : 'allhome',
+    'Baby and Toddler' : 'allbabyandtoddler',
+    'Pet' : 'allpet',
+    'Price Lock' : 'allpricelock'
 }
 
-# URL to be scrapped
+# URL for essentials
 essmainurl = 'https://www.sainsburys.co.uk/shop/CategoryDisplay'
 
-# URL for all items = allmainurl1 + allurlcat[category] + allmainurl2
+# URL for all items
 allmainurl = 'https://www.sainsburys.co.uk/shop/CategorySeeAllView'
 
 # URL parameters
@@ -79,28 +91,13 @@ allurlParams = {
     'catalogId': '10241',
     'searchTerm': '',
     'beginIndex': '',   # To adjust to get next page of items
-    'top_category': '',
+    'top_category': '', # To input from parentCatIDs
     'langId': '44',
     'categoryId': '',   # To input from parentCatIDs
     'parent_category_rn': ''
-
-    # 'fromMegaNav': '1',
-    # 'langID': '44',
-    # 'storeId': '10151',
-    # 'catalogId': '10241',
-    # 'categoryId': '',  
-    # 'parent_category_rn': '',
-    # 'top_category': '',      # To input from parentCatIDs
-    # 'pageSize': '120',
-    # 'orderBy': 'FAVOURITES_FIRST',
-    # 'searchTerm': '',
-    # 'catSeeAll': 'true',
-    # 'beginIndex': '',  # To adjust to get next page of items
-    # 'categoryFacetId1': '',      # To input from parentCatIDs
-    # 'categoryFacetId2': ''
 }
 
-# Category IDs
+# Category IDs (only used in updateEssentials)
 categoryIDs = {
     'Fruits and Vegetables': '474593',
     'Meat and Fish': '474595',
@@ -109,10 +106,9 @@ categoryIDs = {
     'Frozen': '474596',
     'Food Cupboard': '442361',
     'Household': '478352',
-    'Drinks': '' #drinks has no essentials
 }
 
-# Parent Category IDs
+# Parent Category IDs (used in both updateEssentials, updateAll)
 parentCatIDs = {
     'Fruits and Vegetables': '12518',
     'Meat and Fish': '13343',
@@ -121,5 +117,11 @@ parentCatIDs = {
     'Frozen': '218831',
     'Food Cupboard': '12422',
     'Household': '12564',
-    'Drinks': '12192'
+    'Drinks': '12192',
+    'Beauty and Cosmetics' : '448352',
+    'Toiletries' : '12448',
+    'Home' : '281806',
+    'Baby and Toddler' : '11651',
+    'Pet' : '12298',
+    'Price Lock' : '488855'
 }
