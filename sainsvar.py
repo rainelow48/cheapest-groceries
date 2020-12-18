@@ -51,8 +51,7 @@ allfileNames = {
 essmainurl = 'https://www.sainsburys.co.uk/shop/CategoryDisplay'
 
 # URL for all items = allmainurl1 + allurlcat[category] + allmainurl2
-allmainurl1 = 'https://www.sainsburys.co.uk/shop/gb/groceries/'
-allmainurl2 = '/seeall'
+allmainurl = 'https://www.sainsburys.co.uk/shop/CategorySeeAllView'
 
 # URL parameters
 essurlParams = {
@@ -70,32 +69,35 @@ essurlParams = {
     'parent_category_rn': '' # To input from parentCatIDs
 }
 
-allurlCat = {
-    'Fruits and Vegetables': 'fruit-veg',
-    'Meat and Fish': 'meat-fish',
-    'Dairy, eggs and Chilled': 'dairy-eggs-and-chilled',
-    'Bakery': 'bakery',
-    'Frozen': 'frozen-',
-    'Food Cupboard': 'food-cupboard',
-    'Household': 'household',
-    'Drinks': 'drinks'
-}
-
 allurlParams = {
-    'fromMegaNav': '1',
-    'langID': '44',
-    'storeId': '10151',
-    'catalogId': '10241',
-    'categoryId': '',  # To input from parentCatIDs
-    'parent_category_rn': '',
-    'top_category': '',      # To input from parentCatIDs
-    'pageSize': '60',
+    'pageSize': '120',
     'orderBy': 'FAVOURITES_FIRST',
+    'storeId': '10151',
+    'categoryFacetId1': '',    # To input from parentCatIDs
+    'promotionId': '',
+    'listId': '',
+    'catalogId': '10241',
     'searchTerm': '',
-    'catSeeAll': 'true',
-    'beginIndex': '',  # To adjust to get next page of items
-    'categoryFacetId1': '',      # To input from parentCatIDs
-    'categoryFacetId2': ''
+    'beginIndex': '',   # To adjust to get next page of items
+    'top_category': '',
+    'langId': '44',
+    'categoryId': '',   # To input from parentCatIDs
+    'parent_category_rn': ''
+
+    # 'fromMegaNav': '1',
+    # 'langID': '44',
+    # 'storeId': '10151',
+    # 'catalogId': '10241',
+    # 'categoryId': '',  
+    # 'parent_category_rn': '',
+    # 'top_category': '',      # To input from parentCatIDs
+    # 'pageSize': '120',
+    # 'orderBy': 'FAVOURITES_FIRST',
+    # 'searchTerm': '',
+    # 'catSeeAll': 'true',
+    # 'beginIndex': '',  # To adjust to get next page of items
+    # 'categoryFacetId1': '',      # To input from parentCatIDs
+    # 'categoryFacetId2': ''
 }
 
 # Category IDs
