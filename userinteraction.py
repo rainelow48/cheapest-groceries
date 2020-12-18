@@ -46,26 +46,35 @@ def searchCat(categories):
 # Check if user wants to update csv files, update only if user enters Y/y
 def updatecsvfile(searchall, cat):
     update = input("Do you wish to update csv files? (Y/N): ")
-
+    
     if (update.lower() == 'y'):
-        if (cat == 0):
-            print("All csv files are updating...")
-        else:
-            print("The csv file is updating...")
 
-        # Update required csv files
-        if (searchall == True):
-            update = updateAll(cat)
-
-        else:
+        # Update required essentials csv files
+        if (searchall == False):
+            if (cat == 0):
+                print("All csv files are updating...")
+            else:
+                print("The csv file is updating...")
             update = updateEssentials(cat)
 
-        if (update == True) :
-            # Update user that file update is successful
-            updateSuccessful(searchall, cat)
+        # Update required all csv files
+        else:
+            # Get user confirmation to update all searchall csv files
+            confirm = input("This might take a long while. Do you wish to proceed? (Y/N): ")
 
+            if (confirm.lower() == 'y'):
+                if (cat == 0):
+                    print("All csv files are updating...")
+                else:
+                    print("The csv file is updating...")
+                update = updateAll(cat)
+            else:
+                pass
+
+        # Update user status of csv file update
+        if (update == True) :
+            updateSuccessful(searchall, cat)
         else:
             print("The csv file update was unsuccessful.")
-
     else:
         print("No csv files will be updated.")
