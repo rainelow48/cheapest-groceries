@@ -61,11 +61,11 @@ def updateEssentials(cat):
             
             # Find product information
             for griditem in soup.find_all('li', class_='gridItem'):
-            
-            # Obtain name of item, remove non ASCII characters
-                name = griditem.h3.a.text.strip().encode('ascii', 'ignore').decode()
 
                 try:
+                    # Obtain name of item, remove non ASCII characters
+                    name = griditem.h3.a.text.strip().encode('ascii', 'ignore').decode()
+
                     # Obtain price details of item
                     price = griditem.find('div', class_='product')
                     
@@ -98,7 +98,6 @@ def updateEssentials(cat):
         # Close csv file
         csv_file.close()
     return True
-
 
 # Function to update all csv for category of choice, update all by default
 def updateAll(cat):
@@ -141,11 +140,11 @@ def updateAll(cat):
             
             # Find product information
             for griditem in soup.find_all('li', class_='gridItem'):
-            
-            # Obtain name of item, remove non ASCII characters
-                name = griditem.h3.a.text.strip().encode('ascii', 'ignore').decode()
 
                 try:
+                    # Obtain name of item, remove non ASCII characters
+                    name = griditem.h3.a.text.strip().encode('ascii', 'ignore').decode()
+
                     # Obtain price details of item
                     price = griditem.find('div', class_='pricing')
                     
