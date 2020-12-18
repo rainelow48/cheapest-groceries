@@ -1,7 +1,9 @@
-# This file contains variables relevant to Sainsburys Essentials
+# This file contains variables relevant to Sainsburys
+# ess: essentials items only
+# all: all items
 
 # Dictionary of categories
-categories = {
+esscategories = {
     1 : 'Fruits and Vegetables',
     2 : 'Meat and Fish',
     3 : 'Dairy, eggs and Chilled',
@@ -9,11 +11,21 @@ categories = {
     5 : 'Frozen',
     6 : 'Food Cupboard',
     7 : 'Household'
-    # 8 : 'Drinks'
+}
+
+allcategories = {
+    1 : 'Fruits and Vegetables',
+    2 : 'Meat and Fish',
+    3 : 'Dairy, eggs and Chilled',
+    4 : 'Bakery',
+    5 : 'Frozen',
+    6 : 'Food Cupboard',
+    7 : 'Household',
+    8 : 'Drinks'
 }
 
 # Dictionary of filenames
-fileNames = {
+essfileNames = {
     'Fruits and Vegetables': 'fruitandveg',
     'Meat and Fish': 'meatandfish',
     'Dairy, eggs and Chilled': 'dairyeggsandchilled',
@@ -24,11 +36,22 @@ fileNames = {
     'Drinks': 'drinks'
 }
 
+allfileNames = {
+    'Fruits and Vegetables': 'allfruitandveg',
+    'Meat and Fish': 'allmeatandfish',
+    'Dairy, eggs and Chilled': 'alldairyeggsandchilled',
+    'Bakery': 'allbakery',
+    'Frozen': 'allfrozen',
+    'Food Cupboard': 'allfoodcupboard',
+    'Household': 'allhousehold',
+    'Drinks': 'alldrinks'
+}
+
 # URL to be scrapped
-mainurl = 'https://www.sainsburys.co.uk/shop/CategoryDisplay'
+essmainurl = 'https://www.sainsburys.co.uk/shop/CategoryDisplay'
 
 # URL parameters
-urlParams = {
+essurlParams = {
     'listId': '',
     'catalogID': '10241',
     'searchTerm': '',

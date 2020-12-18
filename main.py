@@ -1,49 +1,31 @@
 # Import required variables
-from sainsessvar import categories
+from sainsvar import esscategories, essfileNames
+from sainsvar import allcategories, allfileNames
 
 # Import required file function
-from checkvalidinput import validInput
-from updatecsv_essentials import updateEssentials, updateSuccessful
-from searchcsv_essentials import searchEssentials
+from userinteraction import searchDomain, searchCat, updatecsvfile
+from updatecsv import updateEssentials, updateSuccessful, setcatandfile
+from searchcsv import searchitem
 
 
-# Instructions
+# Welcome message
 print("\n*** Welcome to Sainsbury's! ***\n")
-print("Please select a category to search item: ")
-print('0 : All')
-for i in categories:
-    print(i, ":", categories[i])
 
-# Obtain category from user
-selection = input("\nYour selection (0-7): ")
+# Obtain user's preferred search domain
+searchall = searchDomain()
 
-# Check for valid input (integer within range)
-cat = validInput(selection)
+# Set correct categories and filenames
+categories, fileNames = setcatandfile(searchall)
 
-# Check if user wants to update csv files, update only if user enters Y/y
-update = input("Do you wish to update csv files? (Y/N): ")
+# Obtain user'r preferred search category
+cat = searchCat(categories)
 
-if (update.lower() == 'y'):
-    if (cat == 0):
-        print("All csv files are updating...")
-    else:
-        print("The csv file is updating...")
-
-    # Update required csv files
-    update = updateEssentials(cat)
-    if (update == True) :
-
-        # Update user that file update is successful
-        updateSuccessful(cat)
-    else:
-        print("The csv file update was unsuccessful.")
-
-else:
-    print("No csv files will be updated.")
+# Update csv file if required
+updatecsvfile(searchall, cat)
 
 # Obtain search content from user
-query = input("Please enter item to search for: ")
+query = input("\nPlease enter item to search for: ")
 searchValues = query.lower().split()
 
 # Search for item
-searchEssentials(cat, searchValues)
+searchitem(cat, categories, fileNames, searchValues)

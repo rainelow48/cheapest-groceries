@@ -1,6 +1,3 @@
-# Import required variables
-from sainsessvar import categories, fileNames
-
 # Import libraries
 import pandas as pd
 
@@ -8,12 +5,12 @@ import pandas as pd
 # eg. item = 'taste the difference cookies'
 # searchValues = ['taste', 'the', 'difference', 'cookies']
 
-def searchEssentials(cat, searchValues):
+def searchitem(cat, categories, fileNames, searchValues):
 
     # Search all categories
     if (cat == 0):
         for i in categories:
-            searchEssentials(i, searchValues)
+            searchitem(i, categories, fileNames, searchValues)
 
     # Search specific category
     else:
@@ -21,7 +18,7 @@ def searchEssentials(cat, searchValues):
         filename = fileNames[categories[cat]] + '.csv'
         data = pd.read_csv(filename)
 
-        # Apply filter, case insensitive
+        # Apply filter, case insensitive (requires values in searchValues to be lower case too)
         filter = data['Description'].apply(lambda desc: all(word in desc.lower() for word in searchValues))
         
         # Obtain filtered items
