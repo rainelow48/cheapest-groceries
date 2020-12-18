@@ -37,11 +37,11 @@ def searchCat(categories):
         print(i, ":", categories[i])
 
     # Obtain category from user
-    selection = input("\nYour selection (0-7): ")
+    prompt = '\nYour selection (0-' + str(len(categories)) + '): '
+    selection = input(prompt)
 
     # Check for valid input (integer within range)
     return validInput(selection, categories)
-
 
 # Check if user wants to update csv files, update only if user enters Y/y
 def updatecsvfile(searchall, cat):
