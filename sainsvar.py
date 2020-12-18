@@ -50,6 +50,10 @@ allfileNames = {
 # URL to be scrapped
 essmainurl = 'https://www.sainsburys.co.uk/shop/CategoryDisplay'
 
+# URL for all items = allmainurl1 + allurlcat[category] + allmainurl2
+allmainurl1 = 'https://www.sainsburys.co.uk/shop/gb/groceries/'
+allmainurl2 = '/seeall'
+
 # URL parameters
 essurlParams = {
     'listId': '',
@@ -64,6 +68,34 @@ essurlParams = {
     'categoryId': '',   # To input from categoryIDs
     'promotionId': '',
     'parent_category_rn': '' # To input from parentCatIDs
+}
+
+allurlCat = {
+    'Fruits and Vegetables': 'fruit-veg',
+    'Meat and Fish': 'meat-fish',
+    'Dairy, eggs and Chilled': 'dairy-eggs-and-chilled',
+    'Bakery': 'bakery',
+    'Frozen': 'frozen-',
+    'Food Cupboard': 'food-cupboard',
+    'Household': 'household',
+    'Drinks': 'drinks'
+}
+
+allurlParams = {
+    'fromMegaNav': '1',
+    'langID': '44',
+    'storeId': '10151',
+    'catalogId': '10241',
+    'categoryId': '',  # To input from parentCatIDs
+    'parent_category_rn': '',
+    'top_category': '',      # To input from parentCatIDs
+    'pageSize': '60',
+    'orderBy': 'FAVOURITES_FIRST',
+    'searchTerm': '',
+    'catSeeAll': 'true',
+    'beginIndex': '',  # To adjust to get next page of items
+    'categoryFacetId1': '',      # To input from parentCatIDs
+    'categoryFacetId2': ''
 }
 
 # Category IDs
