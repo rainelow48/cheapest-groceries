@@ -26,7 +26,7 @@ Sainsbury's Easy Peelers 600g,80p,unit,1.33,kg
 Sainsbury's Baby Potatoes 1kg,1.00,unit,1.00,kg
 Sainsbury's Fairtrade Bananas x8,1.25,unit,16p,ea
 Sainsbury's Parsnips Loose,1.15,kg,1.15,kg
-Sainsbury's Cauliflower,1.00,unit,1.00,ea
+Sainsbury's Cauliflower,35p,unit,35p,ea
 Sainsbury's White Seedless Grapes 500g,1.75,unit,3.50,kg
 Sainsbury's Blueberries 150g,1.75,unit,11.66,kg
 Sainsbury's Braeburn Apples x6,1.60,unit,27p,ea
@@ -46,7 +46,7 @@ Sainsbury's Oranges,30p,unit,30p,ea
 "Sainsbury's Carrots, SO Organic 750g",1.25,unit,1.67,kg
 Sainsbury's Conference Pears x4,1.50,unit,1.50,ea
 Sainsbury's Onions 1kg,85p,unit,85p,kg
-Sainsbury's White Potatoes 2.5kg,99p,unit,40p,kg
+Sainsbury's White Potatoes 2.5kg,35p,unit,14p,kg
 "Sainsbury's Pomodorino Tomatoes, Taste the Difference 250g",1.50,unit,6.00,kg
 Sainsbury's Pink Lady Apples x6,2.60,unit,43p,ea
 Sainsbury's Aubergine,70p,unit,70p,ea
@@ -96,7 +96,7 @@ Sainsbury's Charlotte Potatoes 1kg,1.10,unit,1.10,kg
 "Sainsbury's Spinach, Watercress & Rocket Salad 80g",1.30,unit,1.63,100g
 "Sainsbury's Vivaldi White Potatoes, Taste the Difference 2kg",2.60,unit,1.30,kg
 Sainsbury's Fresh Packed Coriander 100g,1.25,unit,13p,10g
-Sainsbury's White Cabbage Loose,80p,kg,80p,kg
+Sainsbury's White Cabbage Loose,35p,kg,35p,kg
 Sainsbury's Sweet Leaf Salad 250g,75p,unit,30p,100g
 Sainsbury's Fresh Salad Cress 20g,30p,unit,15p,10g
 Sainsbury's Watercress 80g,1.00,unit,1.25,100g
@@ -157,7 +157,6 @@ Sainsbury's Lisianthus Bouquet (Colour may vary),4.50,unit,4.50,ea
 Sainsbury's Pea Shoot & Babyleaf Salad 80g,1.25,unit,1.56,100g
 Sainsbury's Freesia Posy Bouquet,3.00,unit,3.00,ea
 Sainsbury's Chrysanthemum Plant (Colour may vary),3.50,unit,3.50,ea
-Sainsbury's Merry Christmas Bouquet,5.00,unit,5.00,ea
 Sainsbury's Mixed Rose Posy,5.00,unit,5.00,ea
 Deck The Halls Bouquet,10.00,unit,10.00,ea
 Luxury Foliage Bouquet,10.00,unit,10.00,ea

@@ -1,10 +1,6 @@
-# Import required variables
-from sainsvar import esscategories, essfileNames
-from sainsvar import allcategories, allfileNames
-
 # Import required file function
 from userinteraction import searchDomain, searchCat, updatecsvfile
-from updatecsv import updateEssentials, updateSuccessful, setcatandfile
+from updatecsv import setcatandfile
 from searchcsv import searchitem
 
 # Import library
