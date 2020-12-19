@@ -1,5 +1,5 @@
 # Import required file function
-from userinteraction import searchDomain, searchCat, updatecsvfile
+from userinteraction import searchDomain, searchCat, updatecsvfile, oldcsv
 from updatecsv import setcatandfile
 from searchcsv import searchitem
 
@@ -11,8 +11,7 @@ print("\n*** Welcome to Sainsbury's search function! ***\n")
 
 # Obtain user's preferred search domain
 # searchall = searchDomain()
-# Set search domain to all items
-searchall = True
+searchall = True # Sets search domain to all items
 
 # Set correct categories and filenames
 categories, fileNames = setcatandfile(searchall)
@@ -21,11 +20,14 @@ categories, fileNames = setcatandfile(searchall)
 cat = searchCat(categories)
 
 # Time duration to update file, Takes 659 seconds to update all files
-start_time = time.time()
-# Update csv file if required
-updatecsvfile(searchall, cat)
-print("---- %s seconds ----" % (time.time()-start_time))
+# start_time = time.time()
+# print("---- %s seconds ----" % (time.time()-start_time))
 
+# Checks if csv file is old, update if required
+if (oldcsv == True):
+    updatecsvfile(searchall, cat)
+else:
+    pass
 
 # Obtain search content from user
 query = input("\nPlease enter item to search for: ")
@@ -43,4 +45,9 @@ else:
         print("Found ", len(result), "items in All")
     else:
         print("Found ", len(result), "items in", categories[cat])
-    print(result)
+    
+    # If result is <100 items, print all to user, else, print shortened table
+    if (len(result) > 100):
+        print(result)
+    else:
+        print(result.to_string())

@@ -1,12 +1,12 @@
 import pandas as pd
-import csv
-import time
-import os
+import csv, time, os, requests
 from bs4 import BeautifulSoup
-import requests
+from datetime import date, datetime, timedelta
+
 
 print("using csv now")
 start_time = time.time()
+print(start_time)
 csv_file = open(os.getcwd()+'\\test files\\test.csv', 'w')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Name','Age','Height','Weight'])
@@ -15,8 +15,20 @@ for i in range (0, 100000):
     csv_writer.writerow([i, i, i, i])
 print("--- %s seconds ---" % (time.time() - start_time))
 
-print("using pandas now")
-start_time = time.time()
+today = date.today()
+dtoday = today.strftime("%b %d %Y")
+print(dtoday)
+print(type(dtoday))
+# moddate = time.ctime(os.path.getmtime(os.getcwd()+"\\csv files\\bakery.csv"))
+# testmoddate = time.ctime(os.path.getmtime(os.getcwd()+"\\test files\\test.csv"))
+moddate = date.fromtimestamp(os.path.getmtime("D:\\Coding\\CPP edX\\1.CPP.txt"))
+print(today)
+print(moddate)
+datediff = today - moddate
+print(today < moddate)
+print(datediff)
+print(datediff < timedelta(7))
+print(type(moddate))
 
 # with open('test.csv', 'w+') as f:
 #     header = pd.DataFrame({'Name': [],'Age': [],'Height': [],'Weight': []})
@@ -26,8 +38,6 @@ start_time = time.time()
 #         col = pd.DataFrame([i, i, i, i])
 #         row = col.T
 #         row.to_csv(f, mode='a')
-
-print("--- %s seconds ---" % (time.time() - start_time))
 
 
 # name = ["hello", "bye", "die"]
@@ -44,7 +54,7 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 # print(result)
 
-
+# Remove non ascii characters
 # stringA = 'àa string withé fuünny charactersß.'
 
 # encodestring = stringA.encode('ascii', 'ignore')
@@ -52,6 +62,8 @@ print("--- %s seconds ---" % (time.time() - start_time))
 # print(encodestring)
 # print(decodedstring)
 
+
+# Get url params
 # url1 = 'https://www.sainsburys.co.uk/shop/gb/groceries/fruit-veg/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=12518&parent_category_rn=&top_category=12518&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=12518&categoryFacetId2='
 # url2 = 'https://www.sainsburys.co.uk/shop/gb/groceries/meat-fish/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=13343&parent_category_rn=&top_category=13343&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=13343&categoryFacetId2='
 # url3 = 'https://www.sainsburys.co.uk/shop/gb/groceries/dairy-eggs-and-chilled/seeall?fromMegaNav=1#langId=44&storeId=10151&catalogId=10241&categoryId=428866&parent_category_rn=&top_category=428866&pageSize=60&orderBy=FAVOURITES_FIRST&searchTerm=&catSeeAll=true&beginIndex=0&categoryFacetId1=428866&categoryFacetId2='
@@ -72,6 +84,7 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 
 
+# Waitrose scrape test
 # url = 'https://www.waitrose.com/ecom/shop/browse/groceries/food_cupboard'
 
 # csv_file = open(os.getcwd()+'\\test files\\waitrose.csv', 'w')
