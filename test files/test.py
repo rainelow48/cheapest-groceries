@@ -2,6 +2,8 @@ import pandas as pd
 import csv
 import time
 import os
+from bs4 import BeautifulSoup
+import requests
 
 print("using csv now")
 start_time = time.time()
@@ -67,3 +69,23 @@ print("--- %s seconds ---" % (time.time() - start_time))
 #     params[hi[0]] = hi[1]
 
 # print(params)
+
+
+
+# url = 'https://www.waitrose.com/ecom/shop/browse/groceries/food_cupboard'
+
+# csv_file = open(os.getcwd()+'\\test files\\waitrose.csv', 'w')
+# csv_writer = csv.writer(csv_file)
+# csv_writer.writerow(['Description'])
+
+# page = requests.get(url)
+# soup = BeautifulSoup(page.text, 'lxml')
+
+# counter = 0
+# print(len(soup.find_all('article')))
+# for i in soup.find_all('article'):
+#     name = i.h2
+#     print("hi:", name)
+#     counter += 1
+
+# print(counter)
