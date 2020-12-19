@@ -1,6 +1,6 @@
 Description,Price/Unit,Unit,Price/Measure,Measure
-Haagen-Dazs Belgian Chocolate & Hazelnut Ice Cream 460ml,3.00,unit,66p,100ml
 Haagen-Dazs Dark Chocolate & Caramelised Almond Ice Cream 460ml,3.00,unit,66p,100ml
+Haagen-Dazs Belgian Chocolate & Hazelnut Ice Cream 460ml,3.00,unit,66p,100ml
 Quorn Vegetarian Chicken Style Nuggets 300g,1.70,unit,5.67,kg
 Sainsbury's Garden Peas 910g,1.00,unit,1.10,kg
 The Ice Co. Party Ice Cubes 2kg,1.00,unit,5p,100g
@@ -18,8 +18,8 @@ Sainsbury's French Fries 900g,1.00,unit,1.11,kg
 McCain Crispy French Fries 900g,2.15,unit,2.39,kg
 Sainsbury's Chopped Onion 750g,1.30,unit,1.73,kg
 Linda McCartney Vegetarian Sausages x6 270g,2.20,unit,8.15,kg
-McCain Crispy French Fries 1.4kg,3.20,unit,2.29,kg
 Sainsbury's Frozen Blueberries 400g,2.00,unit,50p,100g
+McCain Crispy French Fries 1.4kg,3.20,unit,2.29,kg
 Aunt Bessie's Homestyle Chips 1.5kg,2.50,unit,1.67,kg
 Goodfella's Stonebaked Thin Pepperoni Pizza 340g,1.25,unit,3.77,kg
 McCain Ready Baked Jacket Potatoes x4 800g,2.00,unit,2.50,kg
@@ -36,15 +36,15 @@ Quorn Vegetarian Mince Family Pack 500g,2.50,unit,5.00,kg
 Quorn Vegetarian Mince 300g,2.00,unit,6.67,kg
 "Magnum Mini Ice Cream, Classic, Almond & White 6x55ml",2.50,unit,76p,100ml
 Birds Eye Large Battered Cod Fillets x4 440g,4.80,unit,10.91,kg
-Chicago Town Deep Dish Pepperoni Pizzas x2 (320g),2.00,unit,6.25,kg
 Birds Eye Chicken Dippers x38 697g,3.00,unit,4.31,kg
+Chicago Town Deep Dish Pepperoni Pizzas x2 (320g),2.00,unit,6.25,kg
 Chicago Town Deep Dish Four Cheese Pizzas x2 (310g),2.00,unit,6.45,kg
 Stamford St. Food Company Yorkshire Puddings x15 220g,50p,unit,2.27,kg
 "Sainsbury's Sweetcorn, Super Sweet 1kg",1.50,unit,1.50,kg
 Dr. Oetker Ristorante Mozzarella Pizza 335g,2.50,unit,7.46,kg
-Valley Foods Skinless Chicken Fillets 500g,2.50,unit,5.00,kg
-Sainsbury's Chopped Spinach 1kg,1.50,unit,1.50,kg
 "Sainsbury's Chargrilled Mediterranean Vegetables (Aubergine, Courgette, Red & Yellow Peppers) 500g",1.50,unit,3.00,kg
+Sainsbury's Chopped Spinach 1kg,1.50,unit,1.50,kg
+Valley Foods Skinless Chicken Fillets 500g,2.50,unit,5.00,kg
 Birds Eye Fish Fingers Cod x10 280g,3.00,unit,10.71,kg
 Sainsbury's Frozen All Butter Croissants x6 300g,2.25,unit,75p,100g
 "Max Twister Mini Ice Cream Lolly Pineapple, Strawberry & Lemon 8x50ml",1.50,unit,37p,100ml
@@ -64,9 +64,9 @@ Sainsbury's Cauliflower & Broccoli Floret Mix 1kg,1.00,unit,1.00,kg
 Kelly's Cornish Clotted Ice Cream 1L,3.00,unit,30p,100ml
 Sainsbury's Supersweet Mini Corn Cobs x8 1kg,1.50,unit,1.50,kg
 Young's Scampi 220g,2.00,unit,9.09,kg
-Valley Foods Chicken Fillets 750g,3.50,unit,4.67,kg
 Quorn Vegetarian Cocktail Sausages 180g,1.50,unit,8.33,kg
 Birds Eye Petits Pois 1.05kg,2.50,unit,2.38,kg
+Valley Foods Chicken Fillets 750g,3.50,unit,4.67,kg
 Quorn Vegetarian Sausages 336g,2.00,unit,5.95,kg
 Diet Coke 2L,1.50,unit,7p,100ml
 Birds Eye Chicken Burgers x4 200g,1.65,unit,8.25,kg
@@ -80,8 +80,8 @@ Sainsbury's Broad Beans 750g,1.30,unit,1.73,kg
 Wall's Solero Exotic Ice Cream Lolly 3 x 90ml,2.50,unit,93p,100ml
 Sainsbury's Button Sprouts 1kg,1.30,unit,1.30,kg
 Birds Eye Original Chicken Grills x2 170g,1.00,unit,5.88,kg
-Sainsbury's Petits Pois 1.8kg,2.50,unit,1.38,kg
 Aunt Bessie's Duck Fat Roast Potatoes 700g,1.40,unit,2.00,kg
+Sainsbury's Petits Pois 1.8kg,2.50,unit,1.38,kg
 Sainsbury's Stir Fry Vegetables 650g,1.50,unit,2.31,kg
 Sainsbury's Vanilla Soft Scoop Ice Cream 2L,1.80,unit,9p,100ml
 Birds Eye Chicken Quarter Pounders x2 227g,1.65,unit,7.27,kg
@@ -92,8 +92,8 @@ Sainsbury's Cauliflower Florets 1kg,1.00,unit,1.00,kg
 Cauldron Vegan Tofu Block 396g,2.00,unit,5.05,kg
 Linda McCartney Rosemary Vegetarian Sausages x6 270g,2.20,unit,7.33,kg
 Sainsbury's Garlic Slices x10 260g,1.00,unit,3.85,kg
-"Sainsbury's Straight Cut Oven Chips, Be Good To Yourself 900g",1.25,unit,1.39,kg
 Carte D'Or Classic Vanilla Ice Cream Dessert 1L,2.00,unit,20p,100ml
+"Sainsbury's Straight Cut Oven Chips, Be Good To Yourself 900g",1.25,unit,1.39,kg
 "Wall's Soft Scoop Ice Cream Dessert, Vanilla 1.8L",2.45,unit,14p,100ml
 The Greengrocer Mixed Vegetables 1kg,79p,unit,79p,kg
 Magnum Mini Ice Cream Double Caramel & Double Chocolate 6x60ml,2.50,unit,69p,100ml
@@ -101,34 +101,34 @@ Magnum Ice Cream Almond 4x100ml,3.20,unit,80p,100ml
 "Sainsbury's Carrots, Baby 1kg",1.00,unit,1.00,kg
 Fab Strawberry x6 348ml,2.20,unit,63p,100ml
 Linda McCartney Mozzarella Burger x2 227g,2.20,unit,9.69,kg
-"Sainsbury's Indulgence Ice Cream, Milk Chocolate 4x110ml",1.35,unit,31p,100ml
 Sainsbury's Sweet Potato Fries 500g,2.30,unit,4.60,kg
 Young's Chip Shop Large Cod Fillets 440g,3.50,unit,7.96,kg
-"Sainsbury's Ice Cream Cones, Chocolate & Nut 4x110ml",1.20,unit,27p,100ml
+"Sainsbury's Indulgence Ice Cream, Milk Chocolate 4x110ml",1.35,unit,31p,100ml
 Aunt Bessie's Home Bake Yorkshire Puddings x16 490g,1.55,unit,3.17,kg
+"Sainsbury's Ice Cream Cones, Chocolate & Nut 4x110ml",1.20,unit,27p,100ml
 Birds Eye Omega 3 Fish Fingers x10 280g,1.50,unit,5.36,kg
 Birds Eye Shortcrust Chicken Pies x4 620g,2.25,unit,3.63,kg
 Magnum Ice Cream White Chocolate 4x110ml,3.20,unit,73p,100ml
+Coca-Cola Zero Sugar 2L,1.50,unit,7p,100ml
 Sainsbury's Cod Fish Fingers x12 360g,2.25,unit,6.25,kg
 "Sainsbury's Indulgence Ice Cream, Almond Chocolate 4x110ml",1.35,unit,31p,100ml
-Coca-Cola Zero Sugar 2L,1.50,unit,7p,100ml
 Sainsbury's Frozen Strawberries & Blueberries 400g,2.00,unit,50p,100g
 Sainsbury's Frozen Dark Sweet Cherries 500g,2.00,unit,40p,100g
 Sainsbury's Large Cold Water Prawns 250g,3.50,unit,14.00,kg
 Sainsbury's Rocket Ice Lollies x8 464ml,1.10,unit,24p,100ml
 Sainsbury's Salmon Fillets 360g,3.25,unit,9.03,kg
-Birds Eye Large Breaded Cod Fillets x4 440g,3.50,unit,7.96,kg
 Coca-Cola Original Taste 1.5L,1.60,unit,10p,100ml
+Birds Eye Large Breaded Cod Fillets x4 440g,3.50,unit,7.96,kg
 Quorn Vegetarian Chicken Style Pieces 500g,2.50,unit,5.00,kg
-Young's Admirals Pie 300g,1.50,unit,5.00,kg
 Sainsbury's Lightly Spiced Wedges 900g,1.25,unit,1.39,kg
+Young's Admirals Pie 300g,1.50,unit,5.00,kg
 Sainsbury's Fruit Juice Ice Cream Splits 6x73ml,1.10,unit,25p,100ml
 Sainsbury's Cod Fillet Portion 380g,3.25,unit,8.55,kg
 Mackie's of Scotland Luxury Traditional Real Dairy Ice Cream 1L,3.00,unit,30p,100ml
 Sainsbury's Cod Fish Fingers x30 900g,5.00,unit,5.56,kg
 Sainsbury's Baby Whole Leaf Spinach 1kg,1.50,unit,1.50,kg
-Birds Eye Chicken Nuggets x50 790g,4.00,unit,5.06,kg
 Sainsbury's Potato Croquettes 700g,1.00,unit,1.43,kg
+Birds Eye Chicken Nuggets x50 790g,4.00,unit,5.06,kg
 Ben & Jerry's Ice Cream Cookie Dough 465ml,3.00,unit,65p,100ml
 Aunt Bessie's Homestyle Roast Potatoes 1.4kg,2.00,unit,1.43,kg
 Chicago Town Takeaway Large Stuffed Pepperoni Pizza 645g,2.75,unit,4.26,kg
@@ -141,8 +141,8 @@ Classic Vegetable Mix 1kg,1.30,unit,1.30,kg
 Sainsbury's British Skinless Chicken Fillets 1kg,5.50,unit,5.50,kg
 Sainsbury's Frozen Pain Au Chocolat x6 360g,2.25,unit,63p,100g
 Birds Eye Hot & Spicy Chicken Grills x2 180g,1.00,unit,5.56,kg
-Sainsbury's Sliced Green Beans 1kg,1.00,unit,1.00,kg
 "Swedish Glace Non Dairy Frozen Dessert, Smooth Vanilla 750ml",2.50,unit,33p,100ml
+Sainsbury's Sliced Green Beans 1kg,1.00,unit,1.00,kg
 Fanta Orange 2L,1.75,unit,9p,100ml
 Diet Coke Caffeine Free 2L,1.50,unit,7p,100ml
 Sainsbury's Battered Onion Rings 800g,1.50,unit,1.88,kg
@@ -153,21 +153,20 @@ Sainsbury's Ice Cream Roll 250g,1.30,unit,52p,100g
 "Sainsbury's Indulgence Ice Cream, White Chocolate 4x110ml",1.35,unit,31p,100ml
 "Sainsbury's Carrots, Broccoli & Sweetcorn Microwaveable Steam Bags x4 540g",1.50,unit,2.78,kg
 Quorn Best Of British Sausages 240g,2.75,unit,11.46,kg
-Quorn Vegetarian Chicken Style Nuggets 300g,1.70,unit,5.67,kg
 Mars Ice Cream 4x51ml,1.50,unit,74p,100ml
 Sprite No Sugar 2L,1.75,unit,9p,100ml
 Sainsbury's White Rice Microwavable Bags x4 200g,1.75,unit,2.19,kg
 Sainsbury's Sliced Mushrooms 750g,1.50,unit,2.00,kg
 Sainsbury's Spicy Bean Burgers x4 454g,1.75,unit,3.85,kg
-Birds Eye Steamfresh Hearty Farmhouse Vegetable Mix x4 540g,1.75,unit,3.24,kg
 Sainsbury's Cocktail Sausage Rolls x50 800g,1.25,unit,16p,100g
+Birds Eye Steamfresh Hearty Farmhouse Vegetable Mix x4 540g,1.75,unit,3.24,kg
 Chicago Town Sub Cheese & Tomato Pizzas x2 (250g),1.50,unit,6.00,kg
 "McCain Quick Chips, Crinkle Cut 4x100g",2.20,unit,5.50,kg
-Birds Eye Crispy Fish Fingers x8 224g,1.50,unit,6.70,kg
 "Sainsbury's Peas, SO Organic 750g",2.50,unit,3.33,kg
+Birds Eye Crispy Fish Fingers x8 224g,1.50,unit,6.70,kg
 Sainsbury's Garlic Baguette x2 310g,80p,unit,2.37,kg
-Del Monte 100% Orange Lollies 3x75ml,2.50,unit,1.11,100ml
 Sainsbury's Party Tempura Prawns x8 168g,1.80,unit,10.71,kg
+Del Monte 100% Orange Lollies 3x75ml,2.50,unit,1.11,100ml
 Birds Eye Beef Quarter Pounders x4 454g,3.00,unit,6.61,kg
 Linda McCartney Sausage Roll x6 342g,2.20,unit,6.43,kg
 Dr Pepper 2L,1.75,unit,9p,100ml
@@ -187,8 +186,8 @@ Sainsbury's Potato Waffles x12 680g,1.25,unit,1.84,kg
 Sainsbury's Cod Steaks 520g,4.25,unit,8.17,kg
 Sainsbury's Crinkle Cut Chips 1.5kg,1.50,unit,1.00,kg
 Dr. Oetker Ristorante Speciale Pizza 330g,2.50,unit,7.58,kg
-Sainsbury's British Chicken Breast Mini Fillets 500g,3.00,unit,6.00,kg
 Goodfella's Stone Baked Thin Chicken with a Herb Dressing 365g,1.25,unit,3.42,kg
+Sainsbury's British Chicken Breast Mini Fillets 500g,3.00,unit,6.00,kg
 Stamford St. Food Company Chips 900g,60p,unit,67p,kg
 Sainsbury's Frozen Whole Strawberries 500g,2.00,unit,40p,100g
 Sainsbury's Cauliflower Cheese 680g,2.00,unit,2.94,kg
@@ -213,8 +212,8 @@ Sainsbury's Cornish Dairy Ice Cream 2L,3.45,unit,17p,100ml
 Linda McCartney Quarter Pounder Burger x2 227g,2.20,unit,9.69,kg
 Quorn Vegetarian Southern Style Burger 252g,1.70,unit,6.75,kg
 Quorn Vegetarian  Mozzarella & Pesto Escalope x2 240g,3.00,unit,12.50,kg
-"Sainsbury's Rice, Broccoli, Sweetcorn & Peas Microwaveable Steam Bags x4 540g",1.50,unit,2.78,kg
 Linda McCartney Deep Dish Country Pie x2 380g,1.50,unit,3.95,kg
+"Sainsbury's Rice, Broccoli, Sweetcorn & Peas Microwaveable Steam Bags x4 540g",1.50,unit,2.78,kg
 Aunt Bessie's Sage & Onion Stuffing Balls 310g,1.25,unit,4.03,kg
 Dr. Oetker Ristorante Funghi Pizza 365g,2.50,unit,6.85,kg
 Sainsbury's Rainbow Ice Lollies 8x40ml,1.10,unit,34p,100ml
@@ -224,8 +223,8 @@ Young's Gastro Basa Fillets Dusted With Sea Salt & Black Pepper x2 310g,4.00,uni
 J. James Chicken Portions 2.5kg,4.00,unit,1.60,kg
 Sainsbury's New Zealand Lamb Mince 500g,3.75,unit,7.50,kg
 Sainsbury's Steamed Golden Rice 380g,1.20,unit,3.16,kg
-Sainsbury's Vanilla Ice Cream 900ml,2.00,unit,22p,100ml
 Sainsbury's Double Pepperoni Thin Pizza 339g,1.50,unit,4.42,kg
+Sainsbury's Vanilla Ice Cream 900ml,2.00,unit,22p,100ml
 Sainsbury's Chicken Tikka Masala with Pilau Rice 400g (Serves 1),1.75,unit,4.38,kg
 Sainsbury's Slow Cooked Pork Ribs in a BBQ Sauce 450g,3.00,unit,6.67,kg
 Sainsbury's Thin & Crispy Four Cheese Pizza 354g,1.50,unit,4.24,kg
@@ -236,86 +235,85 @@ Sainsbury's Seasoned Rustic Fries 900g,1.25,unit,1.39,kg
 "Sainsbury's Chunky Maris Piper Chips, Taste the Difference 1.5kg",2.75,unit,1.83,kg
 Sainsbury's Chicken Garlic Kievs x4 490g,2.50,unit,5.10,kg
 Sainsbury's Steak Cut Chips 1.5kg,1.50,unit,1.00,kg
-Sainsbury's Edamame Beans 500g,2.00,unit,4.00,kg
 Sainsbury's Fish Pie Mix 350g,2.75,unit,7.86,kg
+Sainsbury's Edamame Beans 500g,2.00,unit,4.00,kg
 Quorn Swedish Style Balls 300g,2.00,unit,6.67,kg
-Dr. Oetker Ristorante Hawaii Pizza 355g,2.50,unit,7.04,kg
 Plant Pioneers Meat Free Mince 500g,1.75,unit,3.50,kg
+Dr. Oetker Ristorante Hawaii Pizza 355g,2.50,unit,7.04,kg
 Sainsbury's Fruit Juice Lollies 8x73ml,1.10,unit,19p,100ml
 Young's Fisherman's Pie 300g,1.50,unit,5.00,kg
 "Birds Eye Battered Cod, Chips & Peas 395g",2.50,unit,6.33,kg
-Sprite Sparkling Lemon & Lime Drink 2L,1.75,unit,9p,100ml
 Sainsbury's Apple Strudel x2 600g (Serves 6),1.60,unit,27p,100g
+Sprite Sparkling Lemon & Lime Drink 2L,1.75,unit,9p,100ml
 Young's Premium Scottish Whole Scampi 220g,6.00,unit,27.27,kg
 Fanta Fruit Twist 2L,1.75,unit,9p,100ml
 McCain Quick Chips Twin Pack 2x100g,1.20,unit,6.00,kg
 Sainsbury's Vegetable Fingers x16 452g,1.75,unit,3.87,kg
 Sainsbury's Frozen Mango Chunks 500g,2.00,unit,40p,100g
 Birds Eye Sausage Rolls x4 360g,1.55,unit,43p,100g
-Hagen-Dazs Ice Cream Belgian Chocolate 460ml,4.20,unit,91p,100ml
 Sainsbury's Vegetable Pizza 390g,1.50,unit,3.85,kg
+Hagen-Dazs Ice Cream Belgian Chocolate 460ml,4.20,unit,91p,100ml
 "Yoomoo Frozen Yogurt Lollies Mixed Berry, Tropical & Strawberry 6x330ml",1.50,unit,46p,100ml
 Birds Eye Select Mixed Vegetables 690g,2.00,unit,2.90,kg
 Quorn Vegetarian Roast Sliced Chicken Fillets 140g,2.50,unit,17.86,kg
 "Sainsbury's Sweet Potato, Quinoa & Lentil Burger x4 350g",1.75,unit,5.00,kg
 Sainsbury's Pub Specials Steak & Ale Pies x2 400g,2.50,unit,63p,100g
-Birds Eye Battered Fish Fillets x4 400g,2.85,unit,7.13,kg
 Cornetto Classico Ice Cream Cones 6x90ml,3.00,unit,56p,100ml
-Sainsbury's Roast Chicken Dinner 400g (Serves 1),2.00,unit,5.00,kg
+Birds Eye Battered Fish Fillets x4 400g,2.85,unit,7.13,kg
 Quorn Vegan Smoky Ham Free Slices 100g,2.00,unit,20.00,kg
+Sainsbury's Roast Chicken Dinner 400g (Serves 1),2.00,unit,5.00,kg
 Sainsbury's Crinkle Cut Chips 900g,1.25,unit,1.39,kg
 "Sainsbury's Indulgence Ice Cream, Mint 4x110ml",1.35,unit,31p,100ml
 Birds Eye Omega 3 Fish Fingers Big Value Pack x30 840g,4.75,unit,5.65,kg
 Birds Eye Garden Peas & Sweetcorn 690g,2.00,unit,2.90,kg
 McCain Sweet Potato Fries 500g,2.60,unit,5.20,kg
 McCain Hash Browns 625g,2.00,unit,3.20,kg
-Plant Pioneers Meat Free Meatballs 380g,1.75,unit,4.61,kg
 Magnum Double Raspberry Ice Cream 3x88ml,2.00,unit,76p,100ml
+Plant Pioneers Meat Free Meatballs 380g,1.75,unit,4.61,kg
 Quorn Vegetarian Chicken Style Nuggets 475g,3.00,unit,6.30,kg
 McCain Triple Cooked Gastro Chips 700g,2.00,unit,2.86,kg
 "Sainsbury's Triple Cooked Chips, Taste the Difference 900g",2.30,unit,2.56,kg
-Sainsbury's Smoked Haddock Fillets 400g,3.25,unit,8.13,kg
-Birds Eye Fish Fingers Haddock x10 280g,2.50,unit,8.62,kg
 Sainsbury's Mozzarella Sticks x12 180g,1.50,unit,83p,100g
+Birds Eye Fish Fingers Haddock x10 280g,2.50,unit,8.62,kg
+Sainsbury's Smoked Haddock Fillets 400g,3.25,unit,8.13,kg
 Birds Eye Cod Fish Fingers Big Value Pack x30 840g,6.50,unit,7.74,kg
 Birds Eye Supersweet Sweetcorn 690g,2.00,unit,2.90,kg
 Birds Eye Steamfresh Green Medley Vegetables with a Hint of Garlic & Herbs x2 300g,1.75,unit,5.83,kg
-J. James Pollock Steaks 520g,3.20,unit,6.15,kg
 Sainsbury's Mini Indulgence Sticks 8x400ml,2.00,unit,50p,100ml
+J. James Pollock Steaks 520g,3.20,unit,6.15,kg
 "Wall's Soft Scoop Ice Cream Dessert, Light Vanilla 1.8L",2.45,unit,14p,100ml
-Amy's Kitchen Gluten Free Rice Mac & Cheese,2.50,unit,9.80,kg
 Birds Eye Crispy Chicken Grills x4 340g,3.00,unit,8.82,kg
-Birds Eye Inspirations Cod Fillets in Tomato & Rosemary Sauce x2 260g,4.50,unit,17.31,kg
 Sainsbury's Frozen Pigs in Blankets x20 400g,3.50,unit,8.75,kg
-Sainsbury's Slow Cooked Lamb Shanks with a Mint Gravy x2 750g,6.00,unit,8.00,kg
+Birds Eye Inspirations Cod Fillets in Tomato & Rosemary Sauce x2 260g,4.50,unit,17.31,kg
 Sainsbury's French Fries 1.5kg,1.50,unit,1.00,kg
+Sainsbury's Slow Cooked Lamb Shanks with a Mint Gravy x2 750g,6.00,unit,8.00,kg
 Del Monte Iced Mango Smoothie 3x90ml,2.50,unit,93p,100ml
 Oreo Ice Cream Sandwich x6 330ml,2.00,unit,61p,100ml
 Chicago Town Sub Meat Supreme Pizzas x2 (250g),1.50,unit,6.00,kg
 Sainsbury's Roast Chicken & Gravy Family Pie 700g,2.50,unit,36p,100g
-Sainsbury's Beef Lasagne 400g (Serves 1),1.75,unit,4.38,kg
 Quorn Vegetarian Smoky Bacon Rashers 150g,1.70,unit,11.33,kg
+Sainsbury's Beef Lasagne 400g (Serves 1),1.75,unit,4.38,kg
 Quorn Vegetarian Southern Style Bites 300g,1.70,unit,5.67,kg
 Young's Skinless & Boneless Atlantic Cod Chunky Fillets x360g,4.25,unit,11.81,kg
 Sainsbury's Steak Pies x4 600g,2.00,unit,33p,100g
 Chicago Town Deep Dish Ham & Pineapple Pizzas x2 (330g),2.00,unit,6.06,kg
 Birds Eye Steamfresh Golden Vegetable Rice x2 380g,1.75,unit,4.61,kg
 Sainsbury's Roast Beef Dinner 400g (Serves 1),2.00,unit,5.00,kg
-Quorn Vegetarian Chicken Style Cripsy Fillets 200g,1.70,unit,8.50,kg
 Hagen-Dazs Ice Cream Pralines & Cream 460ml,3.00,unit,65p,100ml
+Quorn Vegetarian Chicken Style Cripsy Fillets 200g,1.70,unit,8.50,kg
 Birds Eye Inspirations Salmon Fillets with Lemon & Herb Sauce x2 260g,3.50,unit,13.46,kg
 Sainsbury's Thin & Crispy Pepperoni Pizza 305g,1.00,unit,3.28,kg
+Sainsbury's Frozen Potato Mash 1.4kg,2.00,unit,1.43,kg
 Sainsbury's Woodland Fruit Strudel x2 600g (Serves 6),1.60,unit,27p,100g
 Sainsbury's Southern Fried Chicken Steak 380g,1.75,unit,4.61,kg
-Sainsbury's Frozen Potato Mash 1.4kg,2.00,unit,1.43,kg
 Quorn Vegetarian Steak Style Pies 400g,1.70,unit,4.25,kg
 Sainsbury's Cauliflower Cheese Grills x4 397g,1.75,unit,4.41,kg
 Kelly's Cornish Ice Cream Honeycomb Crunch 950ml,3.00,unit,32p,100ml
 Sainsbury's Sweet & Sour Chicken with Rice 400g (Serves 1),1.75,unit,4.38,kg
 Bisto Classic Shepherd's Pie Ready Meal 375g (Serves 1),1.40,unit,3.73,kg
 Sainsbury's Chicken Bites 190g,1.00,unit,5.26,kg
-Sainsbury's Vanilla Ice Cream Slicing Block 1L,1.10,unit,11p,100ml
 Cornetto Strawberry Ice Cream Cones 6x90ml,3.00,unit,56p,100ml
+Sainsbury's Vanilla Ice Cream Slicing Block 1L,1.10,unit,11p,100ml
 Sainsbury's Vegetable Quarter Pounders 454g,1.75,unit,3.85,kg
 Goodfella's Takeaway Classic Crust Fully Loaded Pepperoni 524g,3.50,unit,6.68,kg
 Sainsbury's Sorbet Raspberry 500ml,2.25,unit,45p,100ml
@@ -325,8 +323,8 @@ SFC Chicken Crispy Mini Fillets 300g,2.00,unit,6.67,kg
 "Viennetta Ice Cream Dessert, Mint 650ml",1.00,unit,15p,100ml
 Sainsbury's Raspberry Ripple Soft Scoop Ice Cream 2L,1.80,unit,9p,100ml
 Quorn Vegetarian Bacon Rashers 120g,1.75,unit,14.58,kg
-Stamford Street Chicken Curry 400g (Serves 1),90p,unit,2.25,kg
 Sainsbury's Breaded Plaice Fillets x2 260g,2.50,unit,9.62,kg
+Stamford Street Chicken Curry 400g (Serves 1),90p,unit,2.25,kg
 Birds Eye Stir Your Senses Spanish Chicken & Prawn Paella 350g,2.20,unit,6.29,kg
 Sainsbury's Crispy Garlic Mushrooms 300g,1.25,unit,4.17,kg
 Sainsbury's Mandarin Cheesecake Dessert 510g (serves 6),1.75,unit,35p,100g
@@ -342,12 +340,12 @@ Mr Brain's Pork Faggots x4 439g,1.40,unit,3.19,kg
 Bisto Classic Cottage Pie Ready Meal 375g (Serves 1),1.40,unit,3.73,kg
 Bisto Classic Bangers & Mash Ready Meal 375g (Serves 1),1.40,unit,3.73,kg
 Sainsbury's Chicken Korma with Pilau Rice 400g (Serves 1),1.75,unit,4.38,kg
+Sainsbury's Lincolnshire Mini Sausage Rolls x40 800g,1.80,unit,23p,100g
 Sainsbury's Baked Jacket Potatoes x4 800g,2.10,unit,2.63,kg
-Stamford Street Beef Lasagne 400g (Serves 1),90p,unit,2.25,kg
 Sainsbury's Spicy Chicken Pizza 388g,1.50,unit,3.87,kg
+Stamford Street Beef Lasagne 400g (Serves 1),90p,unit,2.25,kg
 Goodfella's Takeaway Classic Crust The Big Cheese 555g,3.50,unit,6.31,kg
 Sainsbury's Roast Potatoes 900g,1.25,unit,1.39,kg
-Sainsbury's Lincolnshire Mini Sausage Rolls x40 800g,1.80,unit,23p,100g
 Birds Eye Garlic & Herb Chicken Kievs x2 300g,3.00,unit,10.00,kg
 "Sainsbury's Mango, Papaya & Pineapple Smoothie Mix 480g",2.00,unit,42p,100g
 Sainsbury's Chicken Liver Pots 250g,60p,unit,2.40,kg
@@ -355,39 +353,39 @@ Sainsbury's Beef Quarter Pounders x4 454g,2.50,unit,5.51,kg
 "Sainsbury's Chicken, Ham Hock & Leek Pies x2 400g",2.50,unit,63p,100g
 Bisto Roast Beef Dinner Ready Meal 400g (Serves 1),2.00,unit,5.00,kg
 Young's Breaded Cod Fillets x4 440g,4.50,unit,10.23,kg
-Sainsbury's Pacific Salmon Fishcakes x2 170g,1.00,unit,5.88,kg
 Hagen-Dazs Ice Cream Strawberry Cheesecake 460ml,3.00,unit,65p,100ml
+Sainsbury's Pacific Salmon Fishcakes x2 170g,1.00,unit,5.88,kg
 Sainsbury's Irish Pork Sausages x20 1kg,2.80,unit,2.80,kg
 Magnum Salted Caramel Ice Cream 4x100ml,3.20,unit,80p,100ml
 Birds Eye Inspirations Fish Chargrills with Tomato & Herbs x2 300g,3.50,unit,11.67,kg
 Young's Chip Shop Large Haddock Fillets 440g,3.50,unit,7.96,kg
+Sainsbury's Party Chicken Goujons x10 190g,1.50,unit,7.89,kg
 Sainsbury's Pork Cocktails 555g,2.00,unit,3.60,kg
 Kelly's Cornish Vanilla Dairy Ice Cream 2L,4.00,unit,20p,100ml
-Sainsbury's Steak Family Pie 700g,2.50,unit,36p,100g
-Sainsbury's Party Chicken Goujons x10 190g,1.50,unit,7.89,kg
 Sainsbury's Cheese & Garlic Pizza Bread 281g,1.20,unit,4.27,kg
+Sainsbury's Steak Family Pie 700g,2.50,unit,36p,100g
 Bisto Roast Chicken Dinner Ready Meal 400g (Serves 1),2.00,unit,5.00,kg
 Sainsbury's Thin & Crispy Hawaiian Pizza 385g,1.50,unit,3.90,kg
-Wall's Solero Ice Cream Lollies Red Berries 3x90ml,2.50,unit,93p,100ml
 Young's Fish In Butter Sauce 560g,2.75,unit,4.91,kg
-Mr Brain's Pork Faggots x6 656g,1.80,unit,2.74,kg
+Wall's Solero Ice Cream Lollies Red Berries 3x90ml,2.50,unit,93p,100ml
 Sainsbury's Chicken Breast Nuggets 450g,1.50,unit,3.33,kg
+Mr Brain's Pork Faggots x6 656g,1.80,unit,2.74,kg
 Sainsbury's Roast Lamb Dinner 400g (Serves 1),2.00,unit,5.00,kg
-Sainsbury's Steamed Mediterranean Vegetable Rice 380g,1.20,unit,3.16,kg
-Stamford Street Chicken Hotpot 400g (Serves 1),90p,unit,2.25,kg
 Sainsbury's Tempura Prawns x8 160g,3.00,unit,18.75,kg
+Stamford Street Chicken Hotpot 400g (Serves 1),90p,unit,2.25,kg
+Sainsbury's Steamed Mediterranean Vegetable Rice 380g,1.20,unit,3.16,kg
 Birds Eye Petits Pois 545g,2.00,unit,3.67,kg
 Birds Eye Jumbo Fish Fillets in Batter x2 400g,2.75,unit,6.88,kg
 Stamford Street Minced Beef Hotpot 400g (Serves 1),90p,unit,2.25,kg
 Sainsbury's Lemon Meringue Pie Dessert 475g (Serves 6),2.20,unit,46p,100g
 Quorn Vegan Fishless Fingers x10 200g,2.50,unit,12.50,kg
 Hagen-Dazs Ice Cream Cookies & Cream 460ml,4.20,unit,91p,100ml
-Sainsbury's Frozen Berry Banana Smoothie Mix Strawberry & Banana 480g,2.00,unit,42p,100g
 The Northern Dough Co. Pizza Dough Original 2x220g,2.50,unit,5.68,kg
+Sainsbury's Frozen Berry Banana Smoothie Mix Strawberry & Banana 480g,2.00,unit,42p,100g
 Sainsbury's Mushy Peas Twinpack 300g,80p,unit,2.67,kg
 Sainsbury's Love Your Veg!  Mushroom & Spinach Bake with Rice & Mature Cheddar Cheese x4 454g,1.75,unit,3.85,kg
-Sainsbury's Sliced Carrots 1kg,1.00,unit,1.00,kg
 Birds Eye Field Fresh Country Mixed Vegetables 690g,2.00,unit,2.90,kg
+Sainsbury's Sliced Carrots 1kg,1.00,unit,1.00,kg
 Sainsbury's Ice Lollies Assorted 20x53ml,3.00,unit,28p,100ml
 Birds Eye Steamfresh Super Sunshine Mix x4 540g,1.75,unit,3.24,kg
 Ben & Jerry's Ice Cream Caramel Chew Chew 465ml,3.00,unit,65p,100ml
@@ -398,28 +396,28 @@ Sainsbury's Puff Pastry Ready Roll 375g,1.30,unit,35p,100g
 Quorn Vegan Hot & Spicy Burgers 246g,2.50,unit,9.47,kg
 Sainsbury's Deliciously Free From Cod Fish Fingers 300g,2.50,unit,8.33,kg
 Sainsbury's Butternut Squash Chunks 500g,1.50,unit,3.00,kg
+"Sainsbury's Beer Battered Onion Rings, Taste the Difference 375g",2.00,unit,5.33,kg
 Nestle Nobbly Bobbly 4x70ml,2.20,unit,79p,100ml
 Young's Boneless Pink Salmon Fillets x4 360g,4.25,unit,11.81,kg
-"Sainsbury's Beer Battered Onion Rings, Taste the Difference 375g",2.00,unit,5.33,kg
 Sainsbury's Diced Beef 500g,3.50,unit,7.00,kg
 Quorn Vegan Pieces 280g,2.50,unit,8.93,kg
 Sainsbury's Shepherd's Pie 400g (Serves 1),1.75,unit,4.38,kg
-Sainsbury's Four Berry Medley Frozen Fruit 1kg,3.50,unit,35p,100g
 Sainsbury's Hoisin Duck Spring Rolls x10 200g,1.80,unit,90p,100g
+Sainsbury's Four Berry Medley Frozen Fruit 1kg,3.50,unit,35p,100g
 The Ice Co.Super Cubes Giant Ice 1kg,1.00,unit,11p,100g
+Sainsbury's Raspberry Pavlova Dessert 310g (Serves 6),2.00,unit,65p,100g
 "Sainsbury's New Zealand Lamb Chops, Basics 800g",4.55,unit,5.69,kg
 Sainsbury's Breaded Onion Rings 800g,1.50,unit,1.88,kg
-Sainsbury's Raspberry Pavlova Dessert 310g (Serves 6),2.00,unit,65p,100g
-Weight Watchers from Heinz Chicken & Lemon Risotto Ready Meal 320g,1.75,unit,5.47,kg
 Snickers Ice Cream 4x53ml,1.50,unit,78p,100ml
+Weight Watchers from Heinz Chicken & Lemon Risotto Ready Meal 320g,1.75,unit,5.47,kg
 Jus-Rol Filo Pastry Ready Rolled Sheets x7 270g,1.50,unit,56p,100g
+Sainsbury's Satay Chicken Skewers x10 190g,2.00,unit,1.11,100g
 Chicago Town Deep Dish Mega Meaty Pizza x2 (320g),2.00,unit,6.25,kg
 Amy's Kitchen Gluten Free Vegetable Lasagne 269g,2.40,unit,9.41,kg
 Goodfella's Vegan Stonebaked Falafel Pizza 377g,2.50,unit,6.63,kg
-Sainsbury's Satay Chicken Skewers x10 190g,1.80,unit,1.00,100g
 "Birds Eye Inspirations Lightly Dusted Cod Fillets, Lemon & Cracked Black Pepper x2 280g",4.00,unit,14.29,kg
-Hagen-Dazs Salted Caramel Ice Cream Bars 3x80ml,2.50,unit,1.04,100ml
 Sainsbury's Large King Prawns 180g,3.00,unit,16.67,kg
+Hagen-Dazs Salted Caramel Ice Cream Bars 3x80ml,2.50,unit,1.04,100ml
 Birds Eye Garden Peas 1.3kg,3.15,unit,2.42,kg
 Sainsbury's Sorbet Lemon 500ml,2.20,unit,44p,100ml
 J James & Family Beef Burgers x8 397g,1.35,unit,3.40,kg
@@ -427,8 +425,8 @@ Hagen-Dazs Caramel Collection Mini Cups Ice Cream 4x95ml,3.00,unit,79p,100ml
 Quorn Vegetarian Peppered Steaks 196g,3.00,unit,15.31,kg
 Sainsbury's Deep Pan Meat Feast Pizza 379g,1.50,unit,3.96,kg
 "Goodlife Falafel with Chickpea, Cumin & Coriander x14 280g",1.80,unit,6.43,kg
-Aunt Bessie's Meat Free Toad in the Hole 190g,1.85,unit,9.74,kg
 Sainsbury's Steak Bakes x2 280g,1.00,unit,36p,100g
+Aunt Bessie's Meat Free Toad in the Hole 190g,1.85,unit,9.74,kg
 Sainsbury's Chopped Ginger 75g,1.50,unit,2.00,100g
 Sainsbury's Lightly Dusted Yellowfin Sole Fillets x2 265g,2.50,unit,9.43,kg
 Sainsbury's Vegetable Pies x4 600g,2.00,unit,33p,100g
@@ -438,12 +436,11 @@ Wall's Ice Cream Dessert Cream of Cornish Vanilla  1L,3.00,unit,30p,100ml
 Sainsbury's Chopped Parsley 50g,1.50,unit,3.00,100g
 Plant Pioneers Meat Free Burgers x8 454g,1.75,unit,3.85,kg
 Birds Eye Chicken Fingers x10 250g,1.65,unit,6.60,kg
+"Sainsbury's Toffee & Pecan Roulade Dessert, Taste the Difference 420g (serves 6)",4.00,unit,95p,100g
 Sainsbury's Triple Chocolate Gateau Dessert 600g,2.20,unit,37p,100g
 Green & Black's Organic Ice Cream Vanilla 500ml,4.20,unit,84p,100ml
 Stamford Street Cottage Pie 400g (Serves 1),90p,unit,2.25,kg
-"Sainsbury's Toffee & Pecan Roulade Dessert, Taste the Difference 420g (serves 6)",4.00,unit,95p,100g
 Sainsbury's Frozen Black Forest Fruits 500g,2.00,unit,40p,100g
-"Sainsbury's Lamb & Mint Quarter Pounder, Taste the Difference 454g",3.00,unit,6.61,kg
 Sainsbury's Cod Fishcakes x2 170g,1.00,unit,5.88,kg
 Carte D'Or Salted Caramel Ice Cream 1L,2.00,unit,20p,100ml
 Sainsbury's Large Raw King Prawns 180g,3.00,unit,16.67,kg
@@ -451,28 +448,28 @@ Birds Eye 20 Cod Fish Fingers 560g,4.00,unit,7.14,kg
 Sainsbury's Cheese & Ham Kiev 490g,2.50,unit,5.10,kg
 "Young's Gastro Cod, Spinach & Cheese Gratin 360g",2.25,unit,5.92,kg
 Valley Foods Cooked Chicken Breasts Strip 350g,2.50,unit,7.14,kg
-Mr Brain's Pork Faggots x2 222g,1.00,unit,4.50,kg
 Sainsbury's Slow Cooked Lamb Shanks with a Red Wine & Rosemary Gravy x2 750g,6.00,unit,8.00,kg
+Mr Brain's Pork Faggots x2 222g,1.00,unit,4.50,kg
 Sainsbury's Chicken Chow Mein 400g (Serves 1),1.75,unit,4.38,kg
 Carte D'Or Classic Vanilla Light Ice Cream Dessert 1L,2.00,unit,20p,100ml
-Magnum White Chocolate & Cookies Ice Cream 3 x 90ml,2.00,unit,74p,100ml
 Sainsbury's Deliciously Free From Yorkshire Puddings x8 124g,1.50,unit,12.10,kg
+Magnum White Chocolate & Cookies Ice Cream 3 x 90ml,2.00,unit,74p,100ml
 Sainsbury's Takeaway Fully Loaded Meat Feast Pizza 567g,2.00,unit,3.53,kg
 Birds Eye BBQ Chicken Grills x4 348g,3.00,unit,8.62,kg
 Sainsbury's Strawberry & Cream Ice Cream 900ml,2.00,unit,22p,100ml
 Rowntrees Watermelon Ice Lollies 4x73ml,2.20,unit,75p,100ml
-Sainsbury's Beef Burgers With Onion x8 454g,2.50,unit,5.51,kg
 The Saucy Fish Co. Salmon & Cod Fishcakes x2 270g,2.25,unit,8.33,kg
-Sainsbury's Creamy Chicken Bakes x2 280g,1.00,unit,36p,100g
+Sainsbury's Beef Burgers With Onion x8 454g,2.50,unit,5.51,kg
 Birds Eye Gluten Free Fish Fingers x12 360g,3.00,unit,8.33,kg
-Birds Eye Original Chicken Grills x4 340g,3.00,unit,8.82,kg
+Sainsbury's Creamy Chicken Bakes x2 280g,1.00,unit,36p,100g
 Quorn Picnic Eggs 180g,1.50,unit,8.33,kg
+Birds Eye Original Chicken Grills x4 340g,3.00,unit,8.82,kg
 Sainsbury's Liver & Bacon Dinner 400g (Serves 1),2.00,unit,5.00,kg
 Sainsbury's Frozen Pineapple Chunks 500g,2.00,unit,40p,100g
 UpperCrust Bakehouse Chicken & Asparagus Pie 680g,3.00,unit,44p,100g
 McCain Frozen Baked Jacket Potatoes x8 1.6kg,4.00,unit,2.50,kg
-Young's Fish in Parsley Sauce 560g,2.75,unit,4.91,kg
 Capri-Sun Orange 8 x 200ml,2.00,unit,13p,100ml
+Young's Fish in Parsley Sauce 560g,2.75,unit,4.91,kg
 Sainsbury's Deep Pan Pepperoni Pizza 374g,1.00,unit,2.67,kg
 Weight Watchers from Heinz Salmon & Broccoli Melt Ready Meal 320g,1.75,unit,5.47,kg
 Sainsbury's Beef Meatballs 500g,2.80,unit,5.60,kg
@@ -484,93 +481,93 @@ Sainsbury's Chicken & Mushroom Pies x4 600g,2.00,unit,33p,100g
 Richmond Skinless Frozen Pork Sausages x16 426g,1.75,unit,4.11,kg
 Linda McCartney Vegetarian Shredded Hoisin Duck 300g,1.85,unit,6.16,kg
 Sainsbury's Deliciously Free From Margherita Pizza 300g,2.75,unit,9.17,kg
+Carte D'Or Chocolate Ice Cream Dessert 1L,2.00,unit,20p,100ml
 Birds Eye Inspirations Fish Chargrills with Lemon & Herbs x2 300g,3.50,unit,11.67,kg
 Ben & Jerry's Blondie Brownie Core Ice Cream 465ml,3.00,unit,65p,100ml
 Sainsbury's Straight Cut Chips 1.5kg,1.25,unit,1.25,kg
 Sainsbury's Sliced Savoy Cabbage 500g,1.50,unit,3.00,kg
-Carte D'Or Chocolate Ice Cream Dessert 1L,2.00,unit,20p,100ml
 Sainsbury's Frozen Blackberries 500g,2.00,unit,40p,100g
 Sainsbury's Salmon En Croute 600g,4.50,unit,7.50,kg
+McCain Home Chips Straight 1.6kg,3.30,unit,2.06,kg
 Sainsbury's Chicken Hotpot Dinner 400g (Serves 1),2.00,unit,5.00,kg
 "Sainsbury's Cod Loins, Taste the Difference 266g",4.25,unit,15.98,kg
 Fanta Zero Fruit Twist 2L,1.75,unit,9p,100ml
-McCain Home Chips Straight 1.6kg,3.30,unit,2.06,kg
 Weight Watchers from Heinz Sweet & Sour Chicken Ready Meal 320g,1.75,unit,5.47,kg
 Goodfella's Gluten Free Pepperoni 317g,3.00,unit,9.46,kg
 Smooze! Fruit Ice Pops Coconut + Mango 5x65ml,2.50,unit,71p,100g
 Stamford Street Macaroni Cheese 400g (Serves 1),90p,unit,2.25,kg
-Birds Eye Classic Pancakes x6 240g,1.50,unit,63p,100g
 Carte D'Or Classic Ice Cream Dessert Strawberry 1L,2.00,unit,20p,100ml
+Birds Eye Classic Pancakes x6 240g,1.50,unit,63p,100g
 Weight Watchers from Heinz Penne Bolognese Ready Meal 320g,1.75,unit,5.47,kg
+Aunt Bessie's Glorious Golden Yorkshire Puddings x10 190g,1.00,unit,5.26,kg
+Mccain Home Chips Chips Crinkle 1.6kg,2.50,unit,1.56,kg
+Sainsbury's Vegetable Gyoza with a Soy & Ginger Dip x10 210g,1.80,unit,86p,100g
 Claudi & Fin Mini Greek Style Frozen Yogurt Lollies 9x30ml,3.00,unit,1.15,100ml
-Goodlife Mushroom & Spinach Kiev with a Creamy Garlic & Cheese Sauce x2 250g,2.25,unit,9.00,kg
 Sainsbury's Deep Pan BBQ Chicken Pizza 416g,1.50,unit,3.61,kg
+Goodlife Mushroom & Spinach Kiev with a Creamy Garlic & Cheese Sauce x2 250g,2.25,unit,9.00,kg
 Sainsbury's Shortcrust Pastry Ready Roll 375g,1.30,unit,35p,100g
 Sainsbury's Beef Stew Dinner 400g (Serves 1),2.00,unit,5.00,kg
-Sainsbury's Vegetable Gyoza with a Soy & Ginger Dip x10 210g,1.80,unit,86p,100g
 Sainsbury's Chicken Dippers x36 1kg,3.15,unit,3.15,kg
-Sainsbury's Chopped Red Chilli 75g,1.50,unit,2.00,100g
 Young's Gastro Tempura Battered Chunky Cod Fish Fingers x8 320g,3.00,unit,9.38,kg
-Sainsbury's Deliciously Free From Chicken Nuggets 400g,3.50,unit,8.75,kg
 "Sainsbury's Large Canadian Scallops, Taste the Difference 200g",7.50,unit,37.50,kg
-Mccain Home Chips Chips Crinkle 1.6kg,2.50,unit,1.56,kg
+Sainsbury's Chopped Red Chilli 75g,1.50,unit,2.00,100g
+Sainsbury's Deliciously Free From Chicken Nuggets 400g,3.50,unit,8.75,kg
 Young's Battered Calamari 250g,3.50,unit,14.00,kg
 The Saucy Fish Co. Smoked Haddock Fishcakes x2 270g,2.25,unit,8.33,kg
 Sainsbury's Deep Pan Cheese & Tomato Pizza 387g,1.00,unit,2.58,kg
 "Sainsbury's Breaded Chunky Cod Fillets, Be Good To Yourself x4 500g",3.60,unit,7.20,kg
 Green & Black's Organic Ice Cream Chocolate 500ml,4.20,unit,84p,100ml
-Ben & Jerry's Moo-phoria Chocolate Cookie Dough Light Ice Cream 465ml,4.80,unit,1.03,100ml
-Aunt Bessie's Glorious Golden Yorkshire Puddings x10 190g,1.00,unit,5.26,kg
 Young's Gastro Lightly Dusted Sicilian Lemon & Parsley Cod Fillets x2 300g,4.00,unit,14.81,kg
+Ben & Jerry's Moo-phoria Chocolate Cookie Dough Light Ice Cream 465ml,4.80,unit,1.03,100ml
 Birds Eye 24 Chicken Nuggets with Golden Wholegrain 379g,2.00,unit,5.28,kg
 Weight Watchers from Heinz Beef Lasagne Ready Meal 320g,1.75,unit,5.47,kg
 Aunt Bessie's Yorkshire Pudding Mix 128g,80p,unit,6.67,kg
 Sainsbury's Chopped Coriander 50g,1.50,unit,3.00,100g
-Sainsbury's Breaded Pollock Fillets x4 500g,2.50,unit,5.00,kg
 Hagen-Dazs Vanilla Collection Mini Cups Ice Cream 4x100ml,3.00,unit,79p,100ml
+Sainsbury's Tomato & Mozzarella Arancini Bites x12 240g,2.00,unit,83p,100g
+Sainsbury's Breaded Pollock Fillets x4 500g,2.50,unit,5.00,kg
 Carte D'Or Classic Mint Ice Cream Dessert 1L,2.00,unit,20p,100ml
 SFC Chicken Pop-Pops 600g,2.00,unit,3.33,kg
-Sainsbury's Tomato & Mozzarella Arancini Bites x12 240g,1.90,unit,79p,100g
 Sainsbury's Lightly Spiced Fries 900g,1.25,unit,1.39,kg
-"Sainsbury's Raw Shell On Jumbo King Prawns, Taste the Difference 600g",8.50,unit,14.17,kg
 Almondy Almond Tarta With Daim 400g Dessert (Serves 6),3.00,unit,75p,100g
+"Sainsbury's Raw Shell On Jumbo King Prawns, Taste the Difference 600g",8.50,unit,14.17,kg
 Carte D'Or Rum & Raisin Ice Cream Dessert 1L,2.00,unit,20p,100ml
-Sainsbury's Triple Chocolate Ice Cream 900ml,2.00,unit,22p,100ml
 Sainsbury's Mini Quiche Selection x12 288g?,3.00,unit,10.42,kg
+Sainsbury's Triple Chocolate Ice Cream 900ml,2.00,unit,22p,100ml
+Sainsbury's Bacon Macaroni & Cheese Bites x12 240g,1.80,unit,75p,100g
 The Greengrocer Garden Peas 850g,58p,unit,68p,kg
-Sainsbury's Bacon Macaroni & Cheese Bites x12 240g,1.60,unit,67p,100g
+"Sainsbury's Berry Meringue Roulade Dessert, Taste the Difference 450g",4.00,unit,89p,100g
+"Sainsbury's Giant Yorkshire Puddings, Taste the Difference x4 180g",1.50,unit,8.33,kg
 Birds Eye Battered Haddock Large Fillets x4 440g,4.80,unit,10.91,kg
 Weight Watchers from Heinz Chicken Tikka Masala Ready Meal 320g,1.75,unit,5.47,kg
 Chicago Town Tiger Crust Cheese Medley,3.00,unit,9.84,kg
 Bisto Roast Lamb Dinner Ready Meal 400g (Serves 1),2.00,unit,5.00,kg
-"Sainsbury's Berry Meringue Roulade Dessert, Taste the Difference 450g",4.00,unit,89p,100g
 Extreme Fresh & Fruity Raspberry with Double Cream Ice Cream Cones 4x120ml,2.50,unit,52p,100ml
 Sainsbury's Deliciously Free From Pepperoni Pizza 300g,2.75,unit,9.17,kg
-"Sainsbury's Giant Yorkshire Puddings, Taste the Difference x4 180g",1.50,unit,8.33,kg
 Sainsbury's Takeaway Stuffed Crust Four Cheese Pizza 445g,2.25,unit,5.06,kg
+Sainsbury's Profiteroles & Chocolate Sauce 260g,1.00,unit,39p,100g
 "Bernard Matthews Turkey Breast Roast, Easy Roast 450g (serves 2-3)",2.50,unit,5.56,kg
 Magnum Classic Ice Cream Tub 440ml,2.50,unit,57p,100ml
 Magnum Vegan Classic Ice Cream 3x90ml,3.50,unit,1.30,100ml
 Jus-Rol Shortcrust Pastry Blocks x2 1kg,2.60,unit,26p,100g
 Young's Gastro Tempura Battered Crispy & Golden Battered Cod Fillets x2 300g,3.75,unit,13.89,kg
-Sainsbury's Profiteroles & Chocolate Sauce 260g,1.00,unit,39p,100g
 Sainsbury's Taste the Difference 8 Chunky Haddock Fillet Fish Fingers 480g,3.50,unit,7.29,kg
 Rowntrees Push-Up Ice Lollies 6x80ml,2.20,unit,46p,100ml
-Aunt Bessie's Dumpling Mix 140g,80p,unit,5.71,kg
 Strong Roots Oven Baked Sweet Potato 500g,3.00,unit,6.00,kg
+Aunt Bessie's Dumpling Mix 140g,80p,unit,5.71,kg
 Sainsbury's Chicken Steaks In Crispy Crumb 380g,1.75,unit,4.61,kg
 Kiddyum Kids' Ready Meal Cottage Pie 200g,1.75,unit,8.75,kg
 Cornetto Made with Soy & Gluten Free Ice Cream Cone 4x90ml,3.00,unit,83p,100ml
-Sainsbury's Potato Gratin x4 400g,2.00,unit,2.00,kg
 Sainsbury's Caramel & Vanilla Ice Cream 900ml,2.00,unit,22p,100ml
+Sainsbury's Potato Gratin x4 400g,2.00,unit,2.00,kg
+Sainsbury's Vegetable Spring Rolls x10 210g,2.50,unit,11.90,kg
 Cornetto Mint Ice Cream Cones 6x90ml,3.00,unit,1.15,100ml
 Plant Pioneers Ultimate Plant Burgers x2 210g,2.00,unit,9.52,kg
 Kiddyum Kids' Ready Meal Chicken Curry 200g,1.75,unit,8.75,kg
 Magnum Vegan Almond Ice Cream 3x90ml,3.50,unit,1.30,100ml
 Bisto Classic Beef In Gravy 200g (Serves 1),1.70,unit,8.50,kg
-Sainsbury's Vegetable Spring Rolls x10 210g,2.50,unit,11.90,kg
-Carte D'Or Classic Coffee Ice Cream Dessert 1L,2.00,unit,20p,100ml
 McCain Home Chips Straight 1kg,2.30,unit,2.30,kg
+Carte D'Or Classic Coffee Ice Cream Dessert 1L,2.00,unit,20p,100ml
 Birds Eye 2 Peri Peri Chicken Chargrills 174g,1.00,unit,5.75,kg
 Sainsbury's Chopped Basil 50g,1.50,unit,3.00,100g
 Sainsbury's My Goodness! Beautiful Berries Smoothie Mix 480g,2.50,unit,52p,100g
@@ -578,24 +575,25 @@ Sainsbury's Roasted Onion & Rosemary Hash Browns 700g,1.50,unit,2.14,kg
 Sainsbury's Takeaway Stuffed Crust Pepperoni Pizza 424g,2.25,unit,5.31,kg
 Sainsbury's Raw Seafood Selection 300g,5.00,unit,16.67,kg
 Sainsbury's Chicken Dippers x16 450g,1.50,unit,3.33,kg
-Smooze! Fruit Ice Pops Simply Coconut 5x65ml,2.50,unit,71p,100g
-19 Crimes Red Wine 75cl,7.00,unit,7.00,75cl
 Brew City Halloumi Fries 150g,1.75,unit,11.66,kg
+19 Crimes Red Wine 75cl,7.00,unit,7.00,75cl
+Smooze! Fruit Ice Pops Simply Coconut 5x65ml,2.50,unit,71p,100g
 Ben & Jerry's Half Baked Ice Cream 465ml,3.00,unit,65p,100ml
 Young's Gastro Meal For One Classic Fish Pie 400g,2.25,unit,5.63,kg
 Sainsbury's Valencia Orange Ice Lollies 4x75g,2.00,unit,68p,100ml
 Ristorante Gluten Free / Lactose Free Mozzarella Pizza 370g,3.00,unit,8.11,kg
 Sainsbury's Raw Patagonian Scallops 200g,5.00,unit,25.00,kg
 Aunt Bessie's Golden Crumble Mix 400g,1.00,unit,2.50,kg
+Aunt Bessie's Crispy Homestyle Mini Roasties 700g,2.00,unit,2.86,kg
 Quorn Vegetarian Pasties 300g,1.70,unit,5.67,kg
 Schar Lactose Free Margherita Pizza 280g,2.50,unit,8.33,kg
-Aunt Bessie's Crispy Homestyle Mini Roasties 700g,2.00,unit,2.86,kg
-Sainsbury's Beef Grills x4 340g,2.00,unit,5.88,kg
-Quorn Vegetarian Steak Style Slice 167g,1.75,unit,10.48,kg
 Richmond Thick Frozen Pork Sausages x20 907g,3.00,unit,3.31,kg
+Quorn Vegetarian Steak Style Slice 167g,1.75,unit,10.48,kg
+Sainsbury's Beef Grills x4 340g,2.00,unit,5.88,kg
 Birds Eye Gluten Free Fish Fillets in Breadcrumbs x2 250g,3.00,unit,12.00,kg
-Weight Watchers from Heinz Aromatic Chicken Noodles Ready Meal 400g,2.75,unit,6.88,kg
 Linda McCartney's Vegetarian Lincolnshire Sausages x6 300g,2.20,unit,7.33,kg
+Weight Watchers from Heinz Aromatic Chicken Noodles Ready Meal 400g,2.75,unit,6.88,kg
+Sainsbury's Slow Cooked Mini Pork Ribs with a Chinese Style Marinade 340g,2.00,unit,5.88,kg
 Sainsbury's 10 Breaded Omega 3 Pollock Fillet Fish Fingers 300g,1.20,unit,4.00,kg
 Schar Gluten Free White Rolls 6x58g,2.50,unit,7.18,kg
 Jude's Salted Caramel Ice Cream 460ml,2.50,unit,54p,100ml
@@ -607,13 +605,12 @@ Capri-Sun No Added Sugar Orange 8 x 200ml,2.00,unit,13p,100ml
 Sainsbury's Alphabet Potato Letters 600g,1.25,unit,2.08,kg
 Sainsbury's Sliced Red Onions 500g,1.50,unit,3.00,kg
 Fry's Vegan Meat Free Chicken-Style Nuggets 380g,2.00,unit,5.26,kg
+"Sainsbury's Lemon Meringue Roulade, Taste the Difference 420g",4.00,unit,95p,100g
 Stamford Street Sweet & Sour Chicken 400g (Serves 1),90p,unit,2.25,kg
 Sainsbury's Takeaway Fully Loaded BBQ Pulled Pork Pizza 550g,2.00,unit,3.64,kg
-"Sainsbury's Lemon Meringue Roulade, Taste the Difference 420g",4.00,unit,95p,100g
 PACK'D Ripe and Chopped Avocado x10,3.00,unit,1.00,100g
 Sainsbury's Southern Fried Breaded Chicken Breast Pops 190g,1.00,unit,5.26,kg
 Sainsbury's Stonebaked Chargrilled Vegetable & Goats' Cheese Pizza 392g,2.00,unit,5.10,kg
-Linda McCartney's Vegetarian Beef Roast with Red Wine & Shallot Glaze 500g,3.50,unit,7.00,kg
 Ben & Jerry's Topped Salted Caramel Brownie Ice Cream 438ml,4.80,unit,1.10,100ml
 Sainsbury's Scottish Cooked Mussels In A Creamy White Wine & Garlic Sauce 500g,3.25,unit,6.50,kg
 Ben & Jerry's Moo-Phoria Caramel Cookie Fix Light Ice Cream 465ml,4.80,unit,1.03,100ml
@@ -624,14 +621,13 @@ Hagen-Dazs Mango & Raspberry Ice Cream Bars 3x80ml,2.50,unit,1.19,100ml
 Sainsbury's Super Chunky Chips 900g,1.25,unit,1.39,kg
 Aunt Bessie's 6 Homestyle Yorkshires 210g,1.70,unit,8.10,kg
 Aunt Bessie's Glorious Golden Yorkshire Puddings x18 342g,2.60,unit,7.60,kg
+"Sainsbury's British Pork Chipolatas Wrapped in Bacon, Taste the Difference x6 260g",3.50,unit,1.35,100g
 Genius Gluten Free Sausage Rolls x2,2.00,unit,10.00,kg
 Quorn Vegetarian Ham Slices 170g,2.60,unit,15.29,kg
 "Sainsbury's Chicken with Pork, Onion and Sage Stuffing 800g",5.00,unit,6.25,kg
 "Sainsbury's Maris Piper Jumbo Wedges, Taste the Difference 1kg",1.75,unit,1.75,kg
-Sainsbury's Blackforest Gateau 375g,1.50,unit,40p,100g
 Sainsbury's Battered Cod x4 500g,3.00,unit,6.00,kg
 Sainsbury's New Zealand Whole Leg of Lamb 1.8kg,15.00,unit,8.11,kg
-"Sainsbury's British Pork Chipolatas Wrapped in Bacon, Taste the Difference x6 260g",3.50,unit,1.35,100g
 Peperami Original and Cheese Snack Box 50g,1.50,unit,3.00,100g
 Ben & Jerry's Non-Dairy Chocolate Fudge Brownie Vegan Ice Cream 465ml,5.00,unit,1.08,100ml
 Ballineen Chip Shop Style Cooked Irish Sausages in a Crispy Batter x6 240g,1.00,unit,4.17,kg
@@ -639,25 +635,25 @@ Amy's Kitchen Gluten Free Chinese Noodles & Veggies in a Cashew Cream Sauce 270g
 Whole Creations Dairy & Gluten Free Roasted Tomato & Basil Sheesy Pizza 275g,3.75,unit,1.36,100g
 Young's Chip Shop 2 Extra Large Fish Fillets in our Crisp Bubbly Beer Batter 320g,2.00,unit,6.67,kg
 Aunt Bessie's Jam Roly Poly 300g,1.50,unit,50p,100g
+Jude's Vanilla Clotted Cream Dairy Ice Cream 460ml,2.50,unit,54p,100ml
 Sainsbury's Raw Squid Tubes 400g,5.25,unit,13.13,kg
 Sainsbury's Deliciously Free From Beef Lasagne 400g,2.80,unit,7.00,kg
 Sainsbury's Greek Style Mango & Passion Fruit Frozen Yogurt 328g,2.00,unit,40p,100ml
+Capri-Sun Blackcurrant 8 x 200ml,2.00,unit,13p,100ml
 Birds Eye Original Beef Burgers with Onion x10 567g,4.25,unit,7.50,kg
 Birds Eye Field Fresh Very Fine Green Beans 750g,2.00,unit,2.67,kg
-Capri-Sun Blackcurrant 8 x 200ml,2.00,unit,13p,100ml
 Birds Eye Fish Nuggets 490g,3.00,unit,6.12,kg
-Jude's Vanilla Clotted Cream Dairy Ice Cream 460ml,2.50,unit,54p,100ml
 Quorn Vegetarian Cottage Pie Ready Meal 400g,3.00,unit,7.50,kg
+Sainsbury's 10 Filo Prawns 120g,1.60,unit,13.33,kg
 Weight Watchers from Heinz Creamy King Prawn Tagliatelle Ready Meal 400g,2.75,unit,6.88,kg
 Sainsbury's 12% Fat Beef Mince 800g,4.25,unit,5.31,kg
 Oppo Low Calorie Colombian Chocolate & Hazelnut Ice Cream 475ml,4.50,unit,95p,100ml
-Sainsbury's 10 Filo Prawns 120g,1.60,unit,13.33,kg
-Birds Eye Chicken Shop Buttermilk Chicken Strips 350g,4.00,unit,11.43,kg
 Birds Eye Green Cuisine Meat-Free Burgers x2 200g,2.50,unit,12.50,kg
-Aunt Bessie's American Style Pancake & Waffle Mix 200g,1.00,unit,5.00,kg
-Whitby Breaded Scampi 400g,4.50,unit,11.25,kg
-Sainsbury's Cheese & Garlic Slices x6 200g,1.00,unit,5.00,kg
+Birds Eye Chicken Shop Buttermilk Chicken Strips 350g,4.00,unit,11.43,kg
 Albert Bartlett Rooster Homestyle Chips 1.2kg,2.50,unit,2.08,kg
+Whitby Breaded Scampi 400g,4.50,unit,11.25,kg
+Aunt Bessie's American Style Pancake & Waffle Mix 200g,1.00,unit,5.00,kg
+Sainsbury's Cheese & Garlic Slices x6 200g,1.00,unit,5.00,kg
 The Greengrocer Sweetcorn 950g,89p,unit,94p,kg
 Oppo Low Calorie Salted Caramel Ice Cream 475ml,4.50,unit,95p,100ml
 Quorn Vegetarian Tikka Masala Ready Meal 400g,3.00,unit,7.50,kg
@@ -666,50 +662,50 @@ SFC Chicken Boneless Bucket 650g,2.50,unit,3.85,kg
 Birds Eye Sweet & Sticky BBQ Chicken Chargrills x2 174g,1.00,unit,5.75,kg
 Sainsbury's Yakitori Chicken Skewers x10 180g,1.80,unit,1.00,100g
 Sainsbury's Taste the Difference 4 Melting Middle Smoked Haddock Fishcakes 580g,4.00,unit,6.90,kg
-Fanta Grape Zero 2L,1.75,unit,9p,100ml
 Magnum Tub Double Salted Caramel Ice Cream 440ml,2.50,unit,57p,100ml
+Fanta Grape Zero 2L,1.75,unit,9p,100ml
 Sainsbury's Deliciously Free From Cheddar-Style & Spring Onion Crispbakes x2 227g,2.00,unit,8.81,kg
-Quorn Vegetarian Lasagne Ready Meal 400g,3.00,unit,7.50,kg
 Judes Lower Calorie Chocolate Minis Multipack 6x50ml,3.95,unit,1.32,100ml
-Whitby Gluten Free Wholetail Scampi 220g,3.50,unit,1.59,100g
+Quorn Vegetarian Lasagne Ready Meal 400g,3.00,unit,7.50,kg
 Richmond Thick Frozen Pork Sausages x12 544g,2.00,unit,3.68,kg
+Whitby Gluten Free Wholetail Scampi 220g,3.50,unit,1.59,100g
 Cadbury Dairy Milk Luxury Ice Creams 4 x 100ml,3.20,unit,80p,100ml
 Quorn Vegan Battered Fishless Fillets 200g,3.00,unit,15.00,kg
 Ben & Jerry's Topped Chocolate Caramel Cookie Dough Ice Cream 438ml,4.80,unit,1.10,100ml
-Sainsbury's Chocolate Soft Scoop Ice Cream 2L,1.80,unit,9p,100ml
 Sainsbury's Chunky Breaded Haddock x4 500g,3.60,unit,7.20,kg
-Halo Top Sea Salt Caramel Ice Cream 473ml,5.00,unit,1.06,100ml
+Sainsbury's Chocolate Soft Scoop Ice Cream 2L,1.80,unit,9p,100ml
 Birds Eye Gluten Free Southern Fried Chicken in Breadcrumbs x2 180g,2.20,unit,1.22,100g
+Halo Top Sea Salt Caramel Ice Cream 473ml,5.00,unit,1.06,100ml
+Plant Pioneers Meat Free Mini Sausage Rolls 494g,1.75,unit,3.54,kg
 Halo Top Chocolate Chip Cookie Dough Ice Cream 473ml,5.00,unit,1.06,100ml
 Magnum Mini Classic & Mint Ice Cream 6x55ml,2.50,unit,76p,100ml
-Plant Pioneers Meat Free Mini Sausage Rolls 494g,1.75,unit,3.54,kg
 Ben & Jerry's Birthday Cake Ice Cream 465ml,3.00,unit,65p,100ml
 Sainsbury's 5% Fat Beef Mince 500g,3.50,unit,7.00,kg
+"Sainsbury's Roast Potatoes, Taste the Difference 1kg",2.50,unit,2.50,kg
 Ben & Jerry's Non-Dairy Peanut Butter & Cookies Vegan Ice Cream 465ml,5.00,unit,1.08,100ml
 Nuii Salted Caramel & Australian Macadamia 3x90ml,3.90,unit,1.44,100ml
-"Sainsbury's Roast Potatoes, Taste the Difference 1kg",2.50,unit,2.50,kg
 Sainsbury's Takeaway Fully Loaded Fiery Chicken Pizza 559g,2.00,unit,3.58,kg
 Weight Watchers from Heinz Double Chocolate Brownie 172g,1.50,unit,87p,100g
-Young's Simply Breaded 4 Large Haddock Fillets 440g,4.50,unit,10.23,kg
 Mccain Naked Oven Chips Straight 1.7kg,2.80,unit,1.65,kg
-The Coconut Collaborative Dairy Free Chocolate Dipped Snowconut Sticks 3x95ml,3.50,unit,1.23,100ml
+Young's Simply Breaded 4 Large Haddock Fillets 440g,4.50,unit,10.23,kg
+Sainsbury's Vegetable Spring Rolls x16 288g,1.80,unit,6.25,kg
 "Sainsbury's Chicken, Gravy & Vegetable Pie x4 600g",2.00,unit,33p,100g
-Sainsbury's Deliciously Free From Chicken Kievs x2,3.00,unit,11.54,kg
+The Coconut Collaborative Dairy Free Chocolate Dipped Snowconut Sticks 3x95ml,3.50,unit,1.23,100ml
 Jude's Caramel Pecan Dairy Ice Cream 460ml,2.50,unit,54p,100ml
+Sainsbury's Deliciously Free From Chicken Kievs x2,3.00,unit,11.54,kg
 Sainsbury's Sweet Potato & Maple Carrot Loaf 400g,3.00,unit,7.50,kg
-Sainsbury's Takeaway Fully Loaded American Hot Pizza 553g,2.50,unit,8.33,kg
 Birds Eye Green Cuisine Succulent Meat-Free Sausages 300g,2.50,unit,8.33,kg
+Sainsbury's Takeaway Fully Loaded American Hot Pizza 553g,3.50,unit,7.96,kg
 Birds Eye Breaded Haddock Large Fillets x4 440g,3.50,unit,7.96,kg
 Mccain Lighter Home Chips Straight 1kg,2.30,unit,2.30,kg
-Quorn Thai Vegetarian Bites 180g,2.25,unit,12.50,kg
 Quorn Vegetarian Turkey & Stuffing Slices 170g,2.60,unit,15.29,kg
-Sainsbury's Vegetable Spring Rolls x16 288g,1.50,unit,5.21,kg
+Quorn Thai Vegetarian Bites 180g,2.25,unit,12.50,kg
 Birds Eye 6 Chunky Fish Fingers Extra Large 360g,2.50,unit,6.94,kg
 Sainsbury's Chunky Battered Cod x4 500g,3.60,unit,7.20,kg
-Birds Eye Gluten Free Chicken Nuggets x22 455g,3.75,unit,8.24,kg
-Sainsbury's Red Berry Sorbet & Panna Cotta Ice Cream 900ml,2.00,unit,22p,100ml
-Jude's Low Cal Vegan Chocolate Ice Cream 460ml,4.50,unit,98p,100ml
 Sainsbury's Hot & Spicy Chicken Bites 180g,1.50,unit,8.33,kg
+Sainsbury's Red Berry Sorbet & Panna Cotta Ice Cream 900ml,2.00,unit,22p,100ml
+Birds Eye Gluten Free Chicken Nuggets x22 455g,3.75,unit,8.24,kg
+Jude's Low Cal Vegan Chocolate Ice Cream 460ml,4.50,unit,98p,100ml
 Birds Eye Crispy Pancakes Tomato & Mozzarella 266g,1.75,unit,6.58,kg
 Sainsbury's Deliciously Free From Thai-Style Haddock Fishcakes x2 170g,2.00,unit,11.76,kg
 Halo Top Peanut Butter Cup Ice Cream 473ml,5.00,unit,1.06,100ml
@@ -719,44 +715,44 @@ Sainsbury's Extra Indulgence Milk Chocolate & Salted Caramel 3 x 90ml,1.50,unit,
 Sainsbury's Be Good to Yourself Cottage Pie 350g (Serves 1),1.25,unit,3.57,kg
 Sainsbury's Coconut Pineapple & Lime Ice Lollies 4x73ml,2.00,unit,68p,100ml
 Birds Eye Inspirations Chicken Mini Fillets in Sesame Seed Breadcrumbs 250g,3.00,unit,12.00,kg
-Sainsbury's Lemon Tart 400g,1.80,unit,45p,100g
 McCain Lightly Spiced Wedges 650g,1.50,unit,2.31,kg
+Sainsbury's Lemon Tart 400g,1.80,unit,45p,100g
 Sainsbury's Be Good to Yourself Tomato & Basil Pasta 350g (Serves 1),1.25,unit,3.57,kg
-Jude's Low Cal Salted Caramel Ice Cream 460ml,4.50,unit,98p,100ml
 Little Judes Milk Lollies 8x35ml,2.50,unit,89p,100ml
+Jude's Low Cal Salted Caramel Ice Cream 460ml,4.50,unit,98p,100ml
+Sainsbury's 9 Cheese & Tomato Mini Pizza 252g,1.50,unit,5.95,kg
 Chicago Town Takeaway Cheesy Stuffed Cheese Pizza 630g,4.00,unit,6.35,kg
 Birds Eye Garlic & Herb Chicken Kievs x2 204g,1.00,unit,4.90,kg
-Sainsbury's 9 Cheese & Tomato Mini Pizza 252g,1.50,unit,5.95,kg
-Yngs Gastro Jumbo Wholetail Scampi 230g,6.00,unit,26.09,kg
-Sainsbury's Pork Sausagemeat 400g,2.00,unit,5.00,kg
 Sainsbury's New York Cheesecake 450g,2.00,unit,44p,100g
+Sainsbury's Pork Sausagemeat 400g,2.00,unit,5.00,kg
+Yngs Gastro Jumbo Wholetail Scampi 230g,6.00,unit,26.09,kg
+"Sainsbury's Salted Caramel Roulades, Taste the Difference x2 180g",2.50,unit,1.39,100g
+Sainsbury's Honey Roast Parsnips 600g,1.50,unit,2.50,kg
 Birds Eye Sweet Potato Waffles x8 464g,2.20,unit,4.74,kg
 Kelly's of Cornwall Salted Caramel 950ml,3.00,unit,32p,100ml
-"Sainsbury's Salted Caramel Roulades, Taste the Difference x2 180g",2.50,unit,1.39,100g
+McCain Roasts 700g,1.50,unit,2.15,kg
 Genius Gluten Free Shortcrust Pastry 400g,2.25,unit,5.63,kg
 Sainsbury's Cookies & Cream Ice Cream 900ml,2.00,unit,22p,100ml
 Sainsbury's Be Good to Yourself Chicken Tikka Masala 350g (Serves 1),1.25,unit,3.57,kg
 Sainsbury's Lovetts Vanilla Flavour Soft Scoop 2L,1.00,unit,5p,100ml
-McCain Roasts 700g,1.50,unit,2.15,kg
 Sainsbury's Deliciously Free From Vanilla Iced Dessert 500ml,3.50,unit,70p,100ml
 McCain Home Chips Crinkle 1kg,2.30,unit,2.30,kg
 Sainsbury's Takeaway Fully Loaded BBQ Chicken Pizza 563g,2.00,unit,3.55,kg
-Sainsbury's Honey Roast Parsnips 600g,1.50,unit,2.50,kg
 Sainsbury's Chunky Breaded Cod x4 500g,3.60,unit,7.20,kg
-Sainsbury's Battered Chicken Breast Chunks 350g,3.00,unit,8.57,kg
 "Sainsbury's Beef Lasagne, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
-Birds Eye Chicken Dippers x12 220g,1.00,unit,4.55,kg
-Sainsbury's Taste the Difference 4 Cod & Parsley Melting Middle Fishcakes 580g,4.00,unit,6.90,kg
-Sainsbury's Deliciously Free From Spiced Mexican Bean Burgers x2 227g,2.00,unit,8.81,kg
-Rowntrees Strawberry 4 x 73ml,1.50,unit,51p,100ml
-Amy's Kitchen Gluten Free Vegan Mexican Burrito Bean & Rice 156g,2.00,unit,12.82,kg
 Sainsbury's Cooked & Peeled Large King Prawns 400g,6.00,unit,15.00,kg
+Birds Eye Chicken Dippers x12 220g,1.00,unit,4.55,kg
+Sainsbury's Battered Chicken Breast Chunks 350g,3.00,unit,8.57,kg
+Sainsbury's Taste the Difference 4 Cod & Parsley Melting Middle Fishcakes 580g,4.00,unit,6.90,kg
+Rowntrees Strawberry 4 x 73ml,1.50,unit,51p,100ml
+Sainsbury's Deliciously Free From Spiced Mexican Bean Burgers x2 227g,2.00,unit,8.81,kg
+Amy's Kitchen Gluten Free Vegan Mexican Burrito Bean & Rice 156g,2.00,unit,12.82,kg
 Mccain Naked Oven Chips Straight 900g,1.80,unit,2.00,kg
 Sainsbury's Breaded Chicken Goujons x16 475g,2.00,unit,4.21,kg
 Hagen-Dazs Peanut Butter Crunch Ice Cream Bars 3x80ml,2.50,unit,1.04,100ml
 Birds Eye 2 Cheese & Ham Saucy Chicken 204g,1.00,unit,4.90,kg
-Quorn Vegetarian Chicken Style Chipotle Goujons 180g,2.50,unit,13.89,kg
 Leon Waffle Fries 550g,2.00,unit,3.64,kg
+Quorn Vegetarian Chicken Style Chipotle Goujons 180g,2.50,unit,13.89,kg
 Young's Simply Breaded Omega 3 Fish Fillets x4 400g,3.00,unit,7.50,kg
 Sainsbury's Hunter's Chicken with Potato Wedges 400g (Serves 1),1.75,unit,4.38,kg
 Quorn Vegan Pepperoni 100g,2.20,unit,22.00,kg
@@ -769,315 +765,314 @@ Hagen-Dazs 150 Calorie Caramel Swirl Gelato Ice Cream Minicup 4x100ml,5.00,unit,
 Quorn Southern Fried Poppers 60g,1.30,unit,21.67,kg
 Jude's Low Cal Vanilla Bean Ice Cream 460ml,4.50,unit,98p,100ml
 Young's Chip Shop Omega 3 Fish Fillets x4 400g,3.00,unit,7.50,kg
-"Sainsbury's Beef Bourguignon, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
-Coca-Cola Zero Cherry 2L,1.25,unit,6p,100ml
-Whole Creations Gluten Free Garlic Baguette 170g,2.00,unit,11.76,kg
 Jus-Rol Medium Vol Au Vent Pastry x18 313g,2.00,unit,64p,100g
+Coca-Cola Zero Cherry 2L,1.25,unit,6p,100ml
+"Sainsbury's Beef Bourguignon, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
 Magnum Ruby Ice Cream 3x90ml,2.00,unit,74p,100ml
-Little Jude's Fruit & Veg Rockets 6x55ml,2.95,unit,89p,100ml
+Whole Creations Gluten Free Garlic Baguette 170g,2.00,unit,11.76,kg
 Sainsbury's 20% Fat Beef Mince 800g,3.25,unit,4.06,kg
+Little Jude's Fruit & Veg Rockets 6x55ml,2.95,unit,89p,100ml
 Weight Waters from Heinz South Indian Vegetable Curry Ready Meal 400g,2.75,unit,6.88,kg
 Quorn Spinach & Red Pepper Slices 100g,2.00,unit,20.00,kg
 The Greengrocer Mixed Vegetables Steam Bags 4x135g,80p,unit,1.48,kg
 Strong Roots Mixed Root Vegetable Fries 500g,3.00,unit,6.00,kg
-Sainsbury's Spaghetti Carbonara 400g (Serves 1),1.75,unit,4.38,kg
-Nuii Dark Chocolate & Nordic Berry 3x90ml,3.90,unit,1.44,100ml
 Sainsbury's Christmas Tree Cheesecake 657g,6.00,unit,91p,100g
+Sainsbury's Large Basted Whole British Turkey 5.3-6.9kg,18.50,unit,3.03,kg
+Sainsbury's Spaghetti Carbonara 400g (Serves 1),1.75,unit,4.38,kg
+Sainsbury's Prawn Lollipops x10 170g,1.80,unit,10.58,kg
+Nuii Dark Chocolate & Nordic Berry 3x90ml,3.90,unit,1.44,100ml
 Sainsbury's Butternut Squash & Sweet Potato Mix 750g,1.50,unit,2.00,kg
 Sainsbury's Chilli Con Carne with White Rice 400g (Serves 1),1.75,unit,4.38,kg
-Chicago Town Deep Dish Chicken Club Pizzas 2 x 160g (320g),2.00,unit,5.81,kg
 Sainsbury's Greek Style Frozen Yogurt 500ml,2.00,unit,40p,100ml
-Sainsbury's Large Basted Whole British Turkey 5.3-6.9kg,18.50,unit,3.03,kg
-Sainsbury's Prawn Lollipops x10 170g,1.80,unit,10.58,kg
-Birds Eye Chicken Shop Southern Fried Chicken Wings 500g,4.00,unit,8.00,kg
-Sainsbury's Pulled Pork Mac & Cheese 400g (Serves 1),1.75,unit,4.38,kg
-Birds Eye Green Cuisine Veggie Fingers x10 284g,1.50,unit,5.28,kg
+Chicago Town Deep Dish Chicken Club Pizzas 2 x 160g (320g),2.00,unit,5.81,kg
 Magnum Salted Caramel & Glazed Almond Ice Cream 3x90ml,2.00,unit,74p,100ml
+Birds Eye Chicken Shop Southern Fried Chicken Wings 500g,4.00,unit,8.00,kg
+Birds Eye Green Cuisine Veggie Fingers x10 284g,1.50,unit,5.28,kg
+Sainsbury's Pulled Pork Mac & Cheese 400g (Serves 1),1.75,unit,4.38,kg
+Sainsbury's Butcher's Choice British Pork Cocktail Sausages x36 510g,3.50,unit,6.86,kg
 McCain Gastro Roasts 700g,3.00,unit,4.29,kg
 SFC Bargain Box 700g,3.00,unit,4.29,kg
 Chicago Town Takeaway Vegan Medium Stuffed Sticky BBQ Jackfruit Pizza 490g,3.50,unit,7.14,kg
-Sainsbury's Butcher's Choice British Pork Cocktail Sausages x36 510g,3.50,unit,6.86,kg
-Sainsbury's Cooked Cockles 200g,3.00,unit,15.00,kg
-Birds Eye Green Cuisine Meat-Free Sausage Rolls x4 360g,2.50,unit,6.94,kg
 Sainsbury's Christmas Profiterole Stack 600g,7.00,unit,1.17,100g
-Linda McCartney's Southern- Style Chicken 243g,2.20,unit,9.57,kg
-Peppa Pig Peppa Ice Cream Lollies Strawberry Flavoured 6 x 60ml,2.00,unit,56p,100ml
+Birds Eye Green Cuisine Meat-Free Sausage Rolls x4 360g,2.50,unit,6.94,kg
+Sainsbury's Cooked Cockles 200g,3.00,unit,15.00,kg
+Plant Pioneers Meatfree Wellington 500g,2.50,unit,5.00,kg
+Sainsbury's Melting Cheese Nut Roasts x2 280g,2.00,unit,7.14,kg
 Sainsbury's Classic Vegetable Base Mix 1kg,1.50,unit,1.50,kg
+Linda McCartney's Southern- Style Chicken 243g,2.20,unit,9.57,kg
 Mccain Naked Oven Chips Crinkle 1.7kg,2.80,unit,1.65,kg
+Peppa Pig Peppa Ice Cream Lollies Strawberry Flavoured 6 x 60ml,2.00,unit,56p,100ml
 Sainsbury's Hot & Spicy Breaded Firecracker Chicken Breast Chunks 350g,3.00,unit,8.57,kg
 Sainsbury's Deliciously Free From Chicken Dippers 400g,3.00,unit,75p,100g
-Sainsbury's Melting Cheese Nut Roasts x2 280g,2.00,unit,7.14,kg
-Plant Pioneers Meatfree Wellington 500g,2.50,unit,5.00,kg
 Coca-Cola Zero Sugar Vanilla 2L,1.25,unit,6p,100ml
 Ben & Jerry's Baked Alaska Ice Cream 465ml,3.00,unit,65p,100ml
-"Sainsbury's Scottish Langoustines, Taste the Difference 500g",8.50,unit,17.00,kg
 Sainsbury's Chocolate Mini Melting Puds 324g,4.00,unit,1.23,100g
-Halo Top Sea Salt Caramel Ice Cream 3 x 100ml,4.00,unit,1.33,100ml
-The Gluten Free Kitchen Apple Crumble 180g,2.30,unit,12.78,kg
-Sainsbury's Double Chocolate Gateau 350g,1.60,unit,46p,100g
-SFC The Original Chicken Poppets 190g,65p,unit,3.42,kg
-Sainsbury's Raspberry Sherry Trifle 900g,4.00,unit,44p,100g
-Birds Eye Crispy Pancakes Mozzarella 266g,1.75,unit,6.58,kg
+"Sainsbury's Brussel Sprouts with Bacon & Thyme Butter, Taste the Difference 500g",1.75,unit,3.50,kg
+"Sainsbury's Scottish Langoustines, Taste the Difference 500g",8.50,unit,17.00,kg
 Bernard Matthews Stock Basted Turkey Breast Joint 800g,7.00,unit,8.75,kg
+Sainsbury's Raspberry Sherry Trifle 900g,4.00,unit,44p,100g
+Sainsbury's Double Chocolate Gateau 350g,1.60,unit,46p,100g
+The Gluten Free Kitchen Apple Crumble 180g,2.30,unit,12.78,kg
+Halo Top Sea Salt Caramel Ice Cream 3 x 100ml,4.00,unit,1.33,100ml
+Sainsbury's Hot & Spicy Prawns x12 130g,2.00,unit,15.38,kg
+SFC The Original Chicken Poppets 190g,65p,unit,3.42,kg
+"Sainsbury's Raspberry & Lemon Meringue Wreath, Taste the Difference 450g",4.50,unit,1.00,100g
+Birds Eye Crispy Pancakes Mozzarella 266g,1.75,unit,6.58,kg
 Sainsbury's Fajita Vegetable Mix 500g,2.00,unit,4.00,kg
 Sainsbury's Garlic & Parsley Doughballs 170g,1.50,unit,8.82,kg
-itsu Chicken Gyoza 12 Dinner Dumplings 240g,3.75,unit,15.63,kg
 Jude's Vegan Salted Caramel 460ml,3.00,unit,65p,100ml
-"Sainsbury's Raspberry & Lemon Meringue Wreath, Taste the Difference 450g",4.50,unit,1.00,100g
+itsu Chicken Gyoza 12 Dinner Dumplings 240g,3.75,unit,15.63,kg
 Mccain Skin On Chips 800g,3.00,unit,3.75,kg
-Sainsbury's Hot & Spicy Prawns x12 130g,1.90,unit,14.61,kg
+Sainsbury's Vegan Sweet Chilli Caulliflower Bites 180g,1.50,unit,8.33,kg
 Linda McCartney's Vegetarian Tomato & Basil Meatballs 292g,2.20,unit,7.53,kg
-"Sainsbury's Brussel Sprouts with Bacon & Thyme Butter, Taste the Difference 500g",1.75,unit,3.50,kg
-Sainsbury's Deliciously Free From Strawberry Iced Dessert 500ml,3.50,unit,70p,100ml
 Sainsbury's Mint Chocolate Ice Cream With Chocolate Chip Tub 900ml,2.00,unit,22p,100ml
-"Sainsbury's British Pork Sausagemeat, Taste the Difference 350g",3.00,unit,8.57,kg
+Sainsbury's Deliciously Free From Strawberry Iced Dessert 500ml,3.50,unit,70p,100ml
+"Sainsbury's British Pork Cranberry & Apple Stuffing Log, Butchers Choice 360g",2.50,unit,69p,100g
+Sainsbury's Mozzarella Sticks x12 240g,2.50,unit,10.42,kg
+Sainsbury's Party Mini Chocolate Eclairs x12 140g,1.00,unit,71p,100g
+Moving Mountains Plant-Based Sausage Burgers x2 227g,4.50,unit,19.82,kg
 Capri-Sun No Added Sugar Blackcurrant & Apple x8 200ml,2.00,unit,13p,100ml
 Moving Mountains Plant-Based Hot Dogs x4 240g,4.50,unit,18.75,kg
-Moving Mountains Plant-Based Sausage Burgers x2 227g,4.50,unit,19.82,kg
 Sainsbury's Extra Indulgence White Chocolate & Raspberry 3 x 90ml,1.50,unit,56p,100ml
-Sainsbury's Deliciously Free From Breaded Chicken Steaks x4 380g,3.25,unit,86p,100g
-Sainsbury's Vegan Sweet Chilli Caulliflower Bites 180g,1.50,unit,8.33,kg
-Sainsbury's Party Mini Chocolate Eclairs x12 140g,1.00,unit,71p,100g
-Sainsbury's Scottish Raspberry Ice Lollies 4x73ml,2.00,unit,68p,100ml
-"Sainsbury's British Pork Cranberry & Apple Stuffing Log, Butchers Choice 360g",2.50,unit,69p,100g
-Aunt Bessie's Shortcrust Pastry Mix 500g,1.00,unit,2.00,kg
-Sainsbury's Tuna Steaks 250g,3.50,unit,14.00,kg
 "Sainsbury's King Prawn Selection, Taste the Difference x10 188g",4.00,unit,21.28,kg
-Goodfellas Pizza Pockets Triple Cheese x2 250g,1.50,unit,6.00,kg
 Sainsbury's Indian Snack Selection x36 810g,5.50,unit,6.79,kg
-Sainsbury's Mozzarella Sticks x12 240g,2.50,unit,10.42,kg
+Sainsbury's Deliciously Free From Breaded Chicken Steaks x4 380g,3.25,unit,86p,100g
+Sainsbury's Scottish Raspberry Ice Lollies 4x73ml,2.00,unit,68p,100ml
+Goodfellas Pizza Pockets Triple Cheese x2 250g,1.50,unit,6.00,kg
+Sainsbury's Tuna Steaks 250g,3.50,unit,14.00,kg
+Aunt Bessie's Shortcrust Pastry Mix 500g,1.00,unit,2.00,kg
+Sainsbury's Oriental Mini Selection x18 312g,2.20,unit,7.05,kg
 Brew City Cheesy Brew Bites 200g,1.75,unit,8.75,kg
 Magnum Double Chocolate Mochaccino Ice Cream Stick 3x88ml,2.00,unit,1.22,100ml
+Sainsbury's British Plain Chicken Boneless Thighs 500g,2.35,unit,4.70,kg
 Linda McCartney's Vegetarian Southern-Style Chicken Fillet Burgers x2 270g,2.20,unit,9.17,kg
 Sainsbury's Deliciously Free From Choc Iced Dessert 500ml,3.50,unit,70p,100ml
-Sainsbury's British Plain Chicken Boneless Thighs 500g,2.35,unit,4.70,kg
 Guuud Raspberry Greek Yoghurt Ice Cream 4x80ml,2.00,unit,62p,100ml
-Sainsbury's Oriental Mini Selection x18 312g,2.20,unit,7.05,kg
 Hagen-Dazs 150 Calorie Chocolate Drizzle Gelato Minicup Ice Cream 4x100ml,5.00,unit,1.32,100ml
 Sainsbury's Slim Choice Chicken Tikka Masala 500g (Serves 1),2.50,unit,5.00,kg
 Oreo Stick Sandwich 4x75ml,3.00,unit,1.00,100ml
 Cadbury Crunchie Blast with Popping Candy Fun-Filled Ice Creams 4x100ml,3.20,unit,80p,100ml
 Sainsbury's Strawberry Jam & Cream Yum Yums 2 x 70g (140g),1.40,unit,1.00,100g
-Richmond Thin Frozen Pork Sausages x16 444g,1.75,unit,3.94,kg
 Weight Watchers from Heinz Beef Hot Pot 350g,1.75,unit,5.00,kg
-Strong Roots Proper Chips 650g,3.00,unit,4.62,kg
 Goodfellas Pizza Pockets Pepperoni x2 250g,1.50,unit,6.00,kg
+Richmond Thin Frozen Pork Sausages x16 444g,1.75,unit,3.94,kg
+Strong Roots Proper Chips 650g,3.00,unit,4.62,kg
+"Sainsbury's Vanilla Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
 Sainsbury's Cheese Dough Balls x12 180g,1.50,unit,8.82,kg
 Jude's Gooey Chocolate Brownie Dairy Ice Cream 460ml,2.50,unit,54p,100ml
 Chicago Town Tiger Crust Cheesy Ham & Bacon 315g,3.00,unit,9.52,kg
-Birds Eye Inspirations 5oz Steak Burgers x2 284g,2.50,unit,8.80,kg
 Chicago Town Takeaway Large Cheesy Stuffed Pepperoni Pizza 640g,4.00,unit,6.25,kg
-"Sainsbury's Vanilla Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
-Sainsbury's Chunky Battered Haddock x4 500g,3.60,unit,7.20,kg
-Sainsbury's Slim Choice Chicken Saag 500g (Serves 1),2.50,unit,5.00,kg
-Sainsbury's Thai Green Curry with White Rice 400g (Serves 1),1.75,unit,4.38,kg
-Little Hill Farm Skinless Chicken Breast Fillets 500g,2.25,unit,4.50,kg
-Sainsbury's Sweet Potato Mash with Milk and Butter 600g,1.50,unit,2.50,kg
-"Sainsbury's Chicken Tikka Makhani, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
-Sainsbury's Winter Berry Trifle 600g,2.50,unit,42p,100g
+Birds Eye Inspirations 5oz Steak Burgers x2 284g,2.50,unit,8.80,kg
 Sainsbury's Gammon Joint 600g,4.25,unit,7.08,kg
+Sainsbury's Chunky Battered Haddock x4 500g,3.60,unit,7.20,kg
+Sainsbury's Winter Berry Trifle 600g,2.50,unit,42p,100g
+Sainsbury's Vegan No Duck Spring Rolls x10 180g,1.50,unit,8.33,kg
+Sainsbury's Slim Choice Chicken Saag 500g (Serves 1),2.50,unit,5.00,kg
+Little Hill Farm Skinless Chicken Breast Fillets 500g,2.25,unit,4.50,kg
+Sainsbury's Thai Green Curry with White Rice 400g (Serves 1),1.75,unit,4.38,kg
+"Sainsbury's Chicken Tikka Makhani, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
+"Sainsbury's Mixed Berry Cheesecake, Taste the Difference 765g",3.50,unit,46p,100g
+Sainsbury's Sweet Potato Mash with Milk and Butter 600g,1.50,unit,2.50,kg
+The Jolly Hog Pigs In Blankets 210g,3.00,unit,14.29,kg
 Fry's Meat Free Chicken-Style Burgers x4 320g,2.50,unit,7.81,kg
 Sainsbury's Taste the Difference Beef & West Country Cheddar Quarter Pounders x4 454g,3.00,unit,6.61,kg
 Kiddyum Pasta Bolognese 1 to 4 Years Stages 3 200g,1.75,unit,8.75,kg
-"Sainsbury's Mixed Berry Cheesecake, Taste the Difference 765g",3.50,unit,46p,100g
+Sainsbury's Indian Selection 354g,2.20,unit,6.21,kg
 Ben & Jerry's Netflix & Chill'd Ice Cream 465ml,3.00,unit,65p,100ml
-Sainsbury's Vegan No Duck Spring Rolls x10 180g,1.50,unit,8.33,kg
-Linda McCartney's Vegetarian Fish Goujon 252g,2.00,unit,7.93,kg
-Weight Watchers from Heinz Chicken Curry 350g,1.75,unit,5.00,kg
 Tenderstem Broccoli 180g,1.00,unit,5.56,kg
+Weight Watchers from Heinz Chicken Curry 350g,1.75,unit,5.00,kg
 Sainsbury's British Cloudy Apple Ice Lollies 4x73ml,2.00,unit,68p,100ml
+Linda McCartney's Vegetarian Fish Goujon 252g,2.00,unit,7.93,kg
 Guuud Salted Caramel Greek Yoghurt Ice Cream 4x80ml,2.00,unit,62p,100ml
 Sainsbury's Hot & Spicy Breaded Chicken Steaks x4 380g,1.75,unit,4.61,kg
 Birds Eye Green Cuisine Meat-Free Chicken Pies x4 620g,3.00,unit,4.84,kg
 Aunt Bessie's Family Apple Pie 550g,1.50,unit,27p,100g
-The Jolly Hog Pigs In Blankets 210g,3.00,unit,14.29,kg
-Ben & Jerry's Moo-phoria Chocolate Cherry Garcia Light Ice Cream 465ml,4.80,unit,1.03,100ml
 Ben & Jerry's Non-Dairy Cookies on Cookie Dough Vegan Ice Cream 465ml,5.00,unit,1.08,100ml
+Ben & Jerry's Moo-phoria Chocolate Cherry Garcia Light Ice Cream 465ml,4.80,unit,1.03,100ml
 Linda Mccartney Vegetarian Mince 500g,3.00,unit,6.00,kg
-Sainsbury's Extra Large Basted Whole British Turkey 7-8.8kg,22.50,unit,2.84,kg
+Sainsbury's Extra Large Basted Whole British Turkey 7-8.8kg,20.00,unit,2.53,kg
 Birds Eye Green Cuisine Chicken-Free Nuggets 250g,2.50,unit,10.00,kg
-Sainsbury's Indian Selection 354g,2.20,unit,6.21,kg
-"Sainsbury's Gammon Hock & Mustard Mash, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
-Lazy Vegan Tikka Masala Ready Meal 350g,3.00,unit,8.57,kg
 Sainsbury's White Chocolate & Berry Cheesecake 950g,6.00,unit,63p,100g
-Sainsbury's Mini Raspberry Cheesecake Bites 270g,4.00,unit,1.48,100g
-Sainsbury's Mini Toad in the Hole x12 240g,3.00,unit,12.50,kg
-Ben & Jerry's Non-Dairy Save Our Swirled Now Vegan Ice Cream 465ml,5.00,unit,1.08,100ml
+"Sainsbury's Gammon Hock & Mustard Mash, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
 "Sainsbury's Belgian Chocolate Roulade, Taste the Difference 557g",5.00,unit,90p,100g
 "Sainsbury's Mince Pie, Taste the Difference 480ml",1.75,unit,54p,100ml
-SFC Southern Fried Chicken Wings 600g,3.00,unit,5.00,kg
+Lazy Vegan Tikka Masala Ready Meal 350g,3.00,unit,8.57,kg
+Sainsbury's Mini Raspberry Cheesecake Bites 270g,4.00,unit,1.48,100g
 Sainsbury's American Snack Selection x36 855g,5.50,unit,7.15,kg
+Ben & Jerry's Non-Dairy Save Our Swirled Now Vegan Ice Cream 465ml,5.00,unit,1.08,100ml
 Judes Lower Calorie Salted Caramel Minis Multipack 6x50ml,3.95,unit,1.32,100ml
-Sainsbury's Slim Choice Chicken Jalfrezi 500g (Serves 1),1.50,unit,3.00,kg
+SFC Southern Fried Chicken Wings 600g,3.00,unit,5.00,kg
 Birds Eye Chicken Shop Ultimate Fillets Burgers x2 227g,3.00,unit,13.22,kg
+Sainsbury's Slim Choice Chicken Jalfrezi 500g (Serves 1),1.50,unit,3.00,kg
 Cornetto Chocolate & Orange Ice Cream Cone x4 360ml,3.00,unit,83p,100ml
 "Sainsbury's Coq Au Vin, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
-Sainsbury's Extra Extra Large Whole Basted British Turkey 8.9-10.6kg,26.00,unit,2.66,kg
-Vivera Plant Veggie Burgers 200g,2.50,unit,12.50,kg
+Sainsbury's Extra Extra Large Whole Basted British Turkey 8.9-10.6kg,24.00,unit,2.46,kg
 Goodfellas Thin Ham & Cheese Pizza 351g,1.25,unit,3.56,kg
+Vivera Plant Veggie Burgers 200g,2.50,unit,12.50,kg
+"Sainsbury's Melting Middle Chocolate Orange Pudding, Taste the Difference 630g",6.00,unit,1.00,100g
+Sainsbury's Spiced Red Cabbage 400g,1.50,unit,3.75,kg
+Viennetta Biscuit Caramel Ice Cream 650ml,1.00,unit,15p,100ml
+Sainsbury's Oriental Snack Selection x36 720g,5.50,unit,7.61,kg
+Guuud Blueberry Greek Yoghurt Ice Cream 4x80ml,2.00,unit,62p,100ml
 Sainsbury's Slim Choice Oriental Chicken Noodles 500g (Serves 1),2.50,unit,5.00,kg
 Nuii Cookies & Idaho Valley Mint 3x90ml,3.90,unit,1.44,100ml
-Guuud Blueberry Greek Yoghurt Ice Cream 4x80ml,2.00,unit,62p,100ml
-Viennetta Biscuit Caramel Ice Cream 650ml,1.00,unit,15p,100ml
 Young's Chipshop 2 Large Cod Fillets 220g,2.75,unit,12.50,kg
 Kershaws Homestyle Chicken Dinner with Roast Vegetables & Stuffing 400g,1.75,unit,4.38,kg
-Sainsbury's Oriental Snack Selection x36 720g,5.50,unit,7.61,kg
+"Sainsbury's Tarte Aux Pommes, Taste the Difference 450g",3.50,unit,78p,100g
 Nuii Ice Cream Aventure Coconut & Indian Mango  3x90ml,3.90,unit,1.44,100ml
 Halo Top Birthday Cake Ice Cream 473ml,5.00,unit,1.06,100ml
-"Sainsbury's Tarte Aux Pommes, Taste the Difference 450g",3.50,unit,78p,100g
 Magnum Mini Ruby Ice Cream 6x55ml,2.50,unit,76p,100ml
 Strong Roots Spinach Bites 308g,3.00,unit,9.74,kg
-Sainsbury's Spiced Red Cabbage 400g,1.50,unit,3.75,kg
 Kelly's of Cornwall Cherry Bakewell Ripple 950ml,3.00,unit,32p,100ml
-Pukka All Steak Shortcrust Microwave Pies x2,2.50,unit,64p,100g
 "Sainsbury's Salted Caramel & Vanilla Cheesecake, Taste the Difference 680g",3.50,unit,52p,100g
+Pukka All Steak Shortcrust Microwave Pies x2,2.50,unit,64p,100g
+"Sainsbury's Scallop Gratin, Taste the Difference 200g",3.75,unit,1.88,100g
 Sainsbury's Skinny Beef Burgers with Onion & Seasoning x4 454g,3.00,unit,6.61,kg
 Cadbury's Double Decker Ice Cream 480ml,3.00,unit,63p,100ml
-"Sainsbury's Melting Middle Chocolate Orange Pudding, Taste the Difference 630g",6.00,unit,1.00,100g
 Magnum Double Chocolate & Strawberry Ice Cream Stick 3x88ml,2.00,unit,76p,100ml
-"Sainsbury's Scallop Gratin, Taste the Difference 200g",3.75,unit,1.88,100g
 itsu 6 Hoisin Duck Bao'Buns 270g,3.75,unit,13.89,kg
 Kershaws Chip Shop Chicken Curry with Rice & Chips 460g,1.65,unit,3.59,kg
-Albert Bartlett Rooster Fries 1.2kg,2.50,unit,2.08,kg
 Sainsbury's Festive Cheese Stacks x2 280g,2.00,unit,7.14,kg
-Plant Pioneers Vegan Meat Free Lasagne 400g,2.00,unit,5.00,kg
 Magnum Mini Chocolate Orange Ice Cream 6x55ml,2.50,unit,76p,100ml
-Moving Mountains 1/4lb Plant-Based Burgers 2x113.5g,4.50,unit,19.82,kg
+Albert Bartlett Rooster Fries 1.2kg,2.50,unit,2.08,kg
 Aunt Bessie's Gluten Free Golden Yorkshire Pudding Mix 120g,1.40,unit,1.17,100g
+Plant Pioneers Vegan Meat Free Lasagne 400g,2.00,unit,5.00,kg
+Moving Mountains 1/4lb Plant-Based Burgers 2x113.5g,4.50,unit,19.82,kg
+Sainsbury's King Prawn Ring & Sweet Chilli Sauce 280g,4.00,unit,14.29,kg
+Sainsbury's Katsu Chicken Bites x16 350g,3.00,unit,8.57,kg
+Sainsbury's Banoffee Pie 500g,2.00,unit,40p,100g
 Brew City Mac N Jack Kegs 290g,1.75,unit,6.04,kg
 Weight Watchers from Heinz Cottage Pie 350g,1.75,unit,5.00,kg
 "Sainsbury's Chocolate Salted Caramel Sponge Puddings, Taste the Difference 2x155g",2.50,unit,81p,100g
-Sainsbury's Banoffee Pie 500g,2.00,unit,40p,100g
-Sainsbury's King Prawn Ring & Sweet Chilli Sauce 280g,4.00,unit,14.29,kg
-Birds Eye Green Cuisine Chicken-Free Southern Fried Strips 210g,2.50,unit,11.90,kg
-"Heat Me, Eat Me Doner Kebab 159g",1.00,unit,6.29,kg
 "Sainsbury's Petit Pois, Taste the Difference 750g",2.00,unit,2.67,kg
-Leon Gluten Free Chicken Nuggets 300g,4.00,unit,13.33,kg
+"Heat Me, Eat Me Doner Kebab 159g",1.00,unit,6.29,kg
+Birds Eye Green Cuisine Chicken-Free Southern Fried Strips 210g,2.50,unit,11.90,kg
 "Sainsbury's Belgian Chocolate Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
+Leon Gluten Free Chicken Nuggets 300g,4.00,unit,13.33,kg
 "Sainsbury's Chicken Dijon with Wild Rice, Taste the Difference 400g (Serves 1)",2.50,unit,6.25,kg
 G Hot Apple & Salted Caramel Sponge Desserts 2x82g,3.30,unit,2.01,100g
-Sainsbury's Katsu Chicken Bites x16 350g,3.00,unit,8.57,kg
 Sainsbury's British Plain Chicken Thighs 1.5kg,4.50,unit,3.00,kg
+"Sainsbury's Steak & Ale & Chicken Ham Pie Selection, Taste the Difference 360g?",4.00,unit,11.11,kg
+Sainsbury's 60 Cocktail Sausages,3.00,unit,50p,100g
 Sainsbury's Slim Choice Three Bean Chilli 500g (Serves 1),1.50,unit,3.00,kg
 Birds Eye Fish Fingers Crispy Batter 728g,4.00,unit,5.49,kg
 "Sainsbury's Salted Caramel Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
+Sainsbury's Chicken Satay Skewers x12 180g,3.00,unit,16.67,kg
 Aunt Bessie's Scrumptious Apple Crumble 500g,1.50,unit,30p,100g
 Plant Pioneers Battered Fishless Fillets x2 180g,2.50,unit,13.89,kg
 Carte D'or Brownie Ice Cream Dessert 900ml,2.00,unit,23p,100ml
-Sainsbury's Cheesy Bean Bake 4x100g,1.00,unit,25p,100g
+Plant Pioneers No Pork Belly 200g,3.00,unit,15.00,kg
 Bonne Maman Lemon Tarte 2x75g,3.00,unit,2.00,100g
+Sainsbury's Cheesy Bean Bake 4x100g,1.00,unit,25p,100g
+"Sainsbury's British Pork Chipolata Sausage & Bacon Wraps Pigs in Blankets, Butchers Choice x8 224g",2.50,unit,1.12,100g
 Jude's Vegan Cookie Dough Brownie Ice Cream 460ml,4.50,unit,98p,100ml
 Zizzi's Rustica Piccante Pizza 421g,3.50,unit,8.31,kg
-Sainsbury's Chicken Satay Skewers x12 180g,3.00,unit,16.67,kg
-Plant Pioneers No Pork Belly 200g,4.00,unit,20.00,kg
 Ben & Jerry's Cone Together Ice Cream 465ml,3.00,unit,65p,100ml
-Youngs Gastro Breaded Mini Fillets 240g,2.95,unit,12.29,kg
-"Sainsbury's Steak & Ale & Chicken Ham Pie Selection, Taste the Difference 360g?",4.00,unit,11.11,kg
-Sainsbury's 60 Cocktail Sausages,3.00,unit,50p,100g
 Sainsbury's Mini Thai Inspired Salmon Fishcakes 230g,3.00,unit,13.04,kg
-Weight Watchers from Heinz Chicken Supreme 350g,1.75,unit,5.00,kg
+Youngs Gastro Breaded Mini Fillets 240g,2.95,unit,12.29,kg
+"Sainsbury's Billionaires Roulade, Taste the Difference 566g",5.00,unit,96p,100g
+Zizzi's Rustica Margherita Pizza 408g,3.50,unit,8.58,kg
 Oumph! Kebab Spiced 280g,3.50,unit,12.50,kg
+Weight Watchers from Heinz Chicken Supreme 350g,1.75,unit,5.00,kg
 "Sainsbury's Sloe Gin & Winterberry Crumble, Taste the Difference 602g",4.00,unit,66p,100g
 "Wall's Happy Rainbow Yoghurt, Strawberry & Lime Ice Cream x5 450ml",2.00,unit,44p,100ml
 Green Grocer Berry Mix 1kg,2.50,unit,25p,100g
-Zizzi's Rustica Margherita Pizza 408g,3.50,unit,8.58,kg
 Lazy Vegan Thai Green Curry Ready Meal,3.00,unit,8.57,kg
-"Sainsbury's British Pork Chipolata Sausage & Bacon Wraps Pigs in Blankets, Butchers Choice x8 224g",3.00,unit,1.34,100g
 Itsu Classic Prawn Gyoza Dinner Dumplings x14 210g,3.75,unit,17.86,kg
 Sainsbury's Vegetable Curry with Basmati Rice 400g (Serves 1),1.60,unit,4.00,kg
-"Sainsbury's Billionaires Roulade, Taste the Difference 566g",5.00,unit,96p,100g
-Alpro 360 Passionate Mango Swirl Ice Cream 450ml,5.00,unit,1.11,100ml
-Sainsbury's Garlic & Herb Raw King Prawns 180g,3.25,unit,18.06,kg
-Sainsbury's Love Your Veg! Vegan Sweet Potato Curry with Rice 400g,2.00,unit,5.00,kg
-"Sainsbury's Blackcurrant&vanilla Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
-Strong Roots The Pumpkin & Spinach Burger x4 300g,3.00,unit,10.00,kg
 Sainsbury's Strawberry Gateau 610g,2.20,unit,36p,100g
-Sainsbury's Chilli & Coriander Raw King Prawns 180g,3.25,unit,18.06,kg
-Jude's Low Calorie Vanilla Bean And Salted Caramel Ice Cream Mini Pots 4x95ml,2.95,unit,77p,100ml
-Lazy Vegan Chicken Style Pieces 280g,4.50,unit,10.00,kg
-Extreme Brownie 4x115ml,2.50,unit,57p,100ml
-Fanta Zero Raspberry 2L,1.75,unit,9p,100ml
-Sainsbury's Toffee Cream Gateau Bar 400g,2.00,unit,50p,100g
+"Sainsbury's Blackcurrant&vanilla Ice Cream, Taste the Difference 480ml",2.50,unit,52p,100ml
+Alpro 360 Passionate Mango Swirl Ice Cream 450ml,5.00,unit,1.11,100ml
+Sainsbury's Love Your Veg! Vegan Sweet Potato Curry with Rice 400g,2.00,unit,5.00,kg
+Sainsbury's Garlic & Herb Raw King Prawns 180g,3.25,unit,18.06,kg
+Strong Roots The Pumpkin & Spinach Burger x4 300g,3.00,unit,10.00,kg
 Sainsbury's Raspberry & Cream Meringue Mess 800g,3.50,unit,44p,100g
+Jude's Low Calorie Vanilla Bean And Salted Caramel Ice Cream Mini Pots 4x95ml,2.95,unit,77p,100ml
+Sainsbury's Chilli & Coriander Raw King Prawns 180g,3.25,unit,18.06,kg
+Extreme Brownie 4x115ml,2.50,unit,57p,100ml
+Lazy Vegan Chicken Style Pieces 280g,4.50,unit,10.00,kg
+Sainsbury's Toffee Cream Gateau Bar 400g,2.00,unit,50p,100g
+Fanta Zero Raspberry 2L,1.75,unit,9p,100ml
+"Sainsbury's Chorizo Pigs In Blankets, Taste the Difference 210g",3.50,unit,1.67,100g
 Ben & Jerry's Chocolate Chip Cookie Dough Chunks Ice Cream 170g,3.00,unit,1.76,100ml
 Sainsbury's Slow Cooked Pulled Pork with a Sweet Honey BBQ Sauce 380g,3.00,unit,7.89,kg
-Sound Seafood Plaice Fillets (approx. 225g),12.00,kg,1.20,100g
 Sainsbury's Chocolate Cheesecake 425g,2.20,unit,52p,100g
+"Sainsbury's Smoked Hebridean Salmon, Taste the Difference 200g",7.50,unit,3.75,100g
+"Sainsbury's Vanilla & Raspbry Panna Cotta, Taste the Difference 2x111g",2.50,unit,1.13,100g
 Hagen-Dazs Peach & Raspberry Ice Cream 460ml,3.00,unit,65p,100ml
+Sound Seafood Plaice Fillets (approx. 225g),12.00,kg,1.20,100g
+Bernard Matthews Golden Norfolk Basted Turkey Crown 1.5--1.95kg,13.50,unit,9.00,kg
 Goodlife Nut Burger,2.00,unit,10.00,kg
 Birds Eye Green Cuisine Chicken-Free Dippers 220g,2.50,unit,11.36,kg
 Sainsbury's British Plain Chicken Drumsticks 1.5kg,3.00,unit,2.00,kg
-"Sainsbury's Vanilla & Raspbry Panna Cotta, Taste the Difference 2x111g",2.50,unit,1.13,100g
 Birds Eye Crunchy Traybake Garden Vegetables & Signature Crumb Fish Fillets 380g,3.00,unit,7.89,kg
 Somerset Valley Strawberry Jelly & Custard 3x125g,1.00,unit,27p,100g
-Sainsbury's Moroccan Style Vegetable Couscous 4x135g (540g),2.00,unit,3.70,kg
-Ben & Jerry's Moophoria Poppin Popcorn Light Ice Cream 465ml,4.80,unit,1.03,100ml
 Birds Eye Crunchy Traybake Mediterranean Vegetables with Grains & Seeded Crumb Fish Fillets 380g,3.00,unit,7.89,kg
+Ben & Jerry's Moophoria Poppin Popcorn Light Ice Cream 465ml,4.80,unit,1.03,100ml
+Sainsbury's Moroccan Style Vegetable Couscous 4x135g (540g),2.00,unit,3.70,kg
 Skittles Cooler Ice Cream Sticks 3x100ml,3.00,unit,1.00,100ml
 Birds Eye Green Cuisine Meat-Free Bolognese Mix 350g,3.00,unit,8.57,kg
 Sainsbury's Apple & Blackberry Crumble 500g,2.80,unit,56p,100g
 Plant Pioneers Vegan Meat Free Chilli Non Carne 400g,2.00,unit,5.00,kg
 Kershaws The All Day Big Breakfast 400g,1.75,unit,4.38,kg
-Bernard Matthews Golden Norfolk Basted Turkey Crown 1.5--1.95kg,13.50,unit,9.00,kg
-"Sainsbury's Chorizo Pigs In Blankets, Taste the Difference 210g",3.50,unit,1.67,100g
 Zizzi's Rustica Jackfruit Pizza 419g,4.00,unit,9.55,kg
 Young's Salmon Pie 375g,2.20,unit,5.87,kg
+"Sainsbury's Prawn Roses, Taste the Difference 180g",3.50,unit,19.44,kg
 Oppo Vanilla Pecan Praline 475ml,4.50,unit,95p,100ml
+Sainsbury's Sweetcorn Cone 200g,3.00,unit,15.00,kg
 "Heat Me, Eat Me Breakfast Wrap 160g",1.00,unit,6.25,kg
 Jude's Vegan Minis Salted Caramel 6x50ml,3.95,unit,1.41,100ml
 Oppo Caramel Chocolate Crunch Lower Calorie Ice Cream 475ml,4.50,unit,95p,100ml
 Sainsbury's Love Your Veg Pesto Vegetable Stacks with Mozzarella & Pesto Melt x2 280g,2.00,unit,7.14,kg
 Heat Me Eat Me Sausage+cheese Muffin124g,1.00,unit,8.06,kg
-"Sainsbury's Smoked Hebridean Salmon, Taste the Difference 200g",7.50,unit,3.75,100g
 Chicago Town Tomato Stuffed Crust Takeaway Chicken & Bacon Melt 640g,2.75,unit,4.30,kg
-Sainsbury's Sweetcorn Cone 200g,3.00,unit,15.00,kg
+Sainsbury's Sweet Chilli Cauliflower Bites x12 240g,3.00,unit,12.50,kg
+Bernard Matthews Basted Turkey Joint 1.6kg,10.00,unit,6.25,kg
 "Sainsbury's Chunky Maris Piper Chips, Taste the Difference 900g",1.75,unit,1.94,kg
-"Sainsbury's Prawn Roses, Taste the Difference 180g",3.50,unit,19.44,kg
+Sainsbury's Chicken Selection Pack x60 760g,5.50,unit,7.24,kg
 Deliciously Ella Apple & Black Crumble 275g,3.00,unit,10.91,kg
+Sainsbury's Mini Scallop Bisque Shells 150g,5.50,unit,36.67,kg
 Halo Top Strawberry Cheesecake 473ml,5.00,unit,1.06,100ml
 Sainsbury's Love Your Veg Katsu Curry Vegetable Stacks Aromatic Katsu Curry Melt x2 280g,2.00,unit,7.14,kg
 Rowntree's Mix Pack Ice Lollies x12,3.50,unit,40p,100ml
-Sainsbury's Sweet Chilli Cauliflower Bites x12 240g,3.00,unit,12.50,kg
 Sainsbury's Love Your Veg! Vegan Rainbow Vegetable Pasta Bake 400g,2.00,unit,5.00,kg
-Strong Roots The Bean & Beet Burger x4 300g,3.00,unit,10.00,kg
-Bernard Matthews Basted Turkey Joint 1.6kg,10.00,unit,6.25,kg
 Birds Eye Steamfresh Classic Garden Mix 540g,1.75,unit,3.24,kg
-Birds Eye Crunchy Traybake Vegetable Curry & Golden Crumb Fish Fillets 380g,3.00,unit,7.89,kg
+Strong Roots The Bean & Beet Burger x4 300g,3.00,unit,10.00,kg
 Lovetts Family Favourites Profiterole Desserts 2x80g,1.00,unit,63p,100g
 Young's Chip Shop Fish Fillet Quarter Pounders Crisp Bubbly Batter x2 227g,2.00,unit,8.81,kg
-Roar Hazelnut Chocolate Cookie 500ml,5.00,unit,1.00,100ml
+Birds Eye Crunchy Traybake Vegetable Curry & Golden Crumb Fish Fillets 380g,3.00,unit,7.89,kg
 Pukka Chicken & Gravy Shortcrust Microwave Pies x2,2.50,unit,64p,100g
+Roar Hazelnut Chocolate Cookie 500ml,5.00,unit,1.00,100ml
 Whole Creations Dairy & Gluten Free Veggeroni Sheesy Pizza 275g,3.75,unit,13.64,kg
-Sainsbury's Mediterranean Style Vegetable Bulgur Wheat 4x135g (540g),2.00,unit,3.70,kg
 Deliciously Ella Fudgy Chocolate Brownie 170g,3.00,unit,17.65,kg
-Oppo Salted Caramel Ice Cream Sticks 3x80ml,4.00,unit,1.67,100ml
-Little Jude's Vanilla Ice Cream 900ml,3.00,unit,33p,100ml
-Sainsbury's Mini Scallop Bisque Shells 150g,5.50,unit,36.67,kg
-Carte D'Or Classic Mini Cups Selection Ice Cream 4x100ml,4.00,unit,1.00,100ml
+Sainsbury's Mediterranean Style Vegetable Bulgur Wheat 4x135g (540g),2.00,unit,3.70,kg
 Plant Pioneers Chocolate & Caramel Pots 2x100g,2.00,unit,1.00,100g
+Little Jude's Vanilla Ice Cream 900ml,3.00,unit,33p,100ml
+Oppo Salted Caramel Ice Cream Sticks 3x80ml,4.00,unit,1.67,100ml
+Carte D'Or Classic Mini Cups Selection Ice Cream 4x100ml,4.00,unit,1.00,100ml
+Bc Honey & Mustard Cocktails 314g,3.00,unit,9.55,kg
 Nuii Mini's 330ml,4.00,unit,1.21,100ml
 Little Jude's Chocolate Ice Cream 900ml,3.00,unit,33p,100ml
 Young's Gastro Tempura Battered Fish Fillet with Chunky Chips 355g (Serves 1),2.25,unit,6.34,kg
 Jude's Vegan Chocolate Brownie 460ml,3.00,unit,65p,100ml
-Halo Top Blueberry Crumble 473ml,5.00,unit,1.06,100ml
 Birds Eye Edamame Beans 480g,2.30,unit,4.79,kg
-Sainsbury's Chicken Selection Pack x60 760g,5.50,unit,7.24,kg
+Halo Top Blueberry Crumble 473ml,5.00,unit,1.06,100ml
+Chinese Chicken Stir Fry,2.50,unit,3.57,kg
 Sainsbury's Breakfast Topper 350g,2.00,unit,57p,100g
 Goodlife Mighty Non Meaty Sausages 252g,2.25,unit,8.93,kg
-Bc Honey & Mustard Cocktails 314g,3.00,unit,9.55,kg
 Chicken & Bacon Creamy Pasta 700g,2.50,unit,3.57,kg
 Plant Pioneers Raspberry Desserts 2x100g,2.00,unit,1.00,100g
-Vittles Passionfruit Cheesecake 400g,5.00,unit,1.25,100g
 "Sainsbury's Choc & Caramel Panna Cotta, Taste the Difference 2x108g",2.50,unit,1.16,100g
+Vittles Passionfruit Cheesecake 400g,5.00,unit,1.25,100g
 Cadbury Caramel Tub 480ml,3.00,unit,63p,100ml
 "Heat Me, Eat Me Burger & Cips 203g",1.00,unit,4.93,kg
-Ben & Jerry's Chip Happens 465ml,3.00,unit,65p,100ml
 Sainsbury's Prawn Selection Pack 432g,5.50,unit,12.73,kg
+Ben & Jerry's Chip Happens 465ml,3.00,unit,65p,100ml
 Glenilen Farm Handmade Irish Cream Liqueur Cheesecake 600g,4.00,unit,67p,100g
 Brakes Choice Garden Peas 2.5kg,2.00,unit,80p,kg
 Halo Top Peanut Butter Swirl 3x100ml,4.00,unit,1.33,100ml
 Rule Of Crumb Chocolate Profiteroles 220g,3.00,unit,1.36,100g
-Birds Eye Lightly Dusted Cod Fillets Sea Salt & Rosemary x2 280g,4.00,unit,12.90,kg
 Goatsbridge Drumshanbo Gunpowder Irish Gin Infused Smoked Trout 100g,4.95,unit,4.95,100g
-Sainsbury's Standard Turkey 3-3.99kg,16.00,unit,5.33,kg
-"Sainsbury's Small Bronze Free Range Turkey, Taste the Difference 2-3.99kg",8.75,unit,8.75,kg
+Birds Eye Lightly Dusted Cod Fillets Sea Salt & Rosemary x2 280g,4.00,unit,12.90,kg
+"Sainsbury's Pig in Blanket Christmas Tree, Taste the Difference 333g",6.50,unit,1.95,100g
+"Sainsbury's Bronze Turky Pork, Sage,onion, Taste the Difference 2.15kg",42.50,unit,19.77,kg

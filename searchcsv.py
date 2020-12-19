@@ -6,11 +6,25 @@ import pandas as pd
 # searchValues = ['taste', 'the', 'difference', 'cookies']
 
 def searchitem(cat, categories, fileNames, searchValues):
-
+    
     # Search all categories
     if (cat == 0):
+        
+        # Create empty dataframe
+        df = pd.DataFrame({'Description': [],'Price/Unit': [],'Unit': [],'Price/Measure': [],'Measure': []})
+        
         for i in categories:
-            searchitem(i, categories, fileNames, searchValues)
+            result = searchitem(i, categories, fileNames, searchValues)
+            
+            # Concatenate dataframe from different categories
+            df = pd.concat([df, result])
+
+        # Obtain duplicated items and length
+        # duplicate = df.duplicated()
+        # print(len(df[duplicate]))
+
+        # Return list without duplicates
+        return df.drop_duplicates()
 
     # Search specific category
     else:
@@ -24,9 +38,11 @@ def searchitem(cat, categories, fileNames, searchValues):
         # Obtain filtered items
         result = data[filter]
         
-        if (result.empty):
-            print("\nNothing was found in", categories[cat])
-        else:
-            print("\nFound", len(result), "items in", categories[cat])
-            print(result)
-            
+        # Print result out to user
+        # if (result.empty):
+        #     print("\nNothing was found in", categories[cat])
+        # else:
+        #     print("\nFound", len(result), "items in", categories[cat])
+        #     print(result)
+        
+        return result     

@@ -14,12 +14,15 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 print("using pandas now")
 start_time = time.time()
-df = pd.DataFrame({'Name': [],'Age': [],'Height': [],'Weight': []})
 
-for i in range (0, 10000):
-    df.loc[i] = [i, i, i, i]
+# with open('test.csv', 'w+') as f:
+#     header = pd.DataFrame({'Name': [],'Age': [],'Height': [],'Weight': []})
+#     header.to_csv(f, mode = 'a', header = True)
 
-df.to_csv('test.csv')
+#     for i in range (0, 100):
+#         col = pd.DataFrame([i, i, i, i])
+#         row = col.T
+#         row.to_csv(f, mode='a')
 
 print("--- %s seconds ---" % (time.time() - start_time))
 
