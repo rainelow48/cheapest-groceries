@@ -4,7 +4,10 @@ from sainsvar import allcategories, allfileNames
 
 # Import required functions
 from checkvalidinput import invalidInt, validInput
-from updatecsv import updateEssentials, updateAll, updateSuccessful
+from updatecsv import updateEssentials, updateAll, updateSuccessful, lastMod
+
+# Import required libraries
+from datetime import date, timedelta
 
 # Obtain users' preferred search domain, returns True if search all, False if search essentials
 def searchDomain():
@@ -59,17 +62,19 @@ def updatecsvfile(searchall, cat):
 
         # Update required all csv files
         else:
-            # Get user confirmation to update all searchall csv files
-            confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
-
-            if (confirm.lower() == 'y'):
-                if (cat == 0):
-                    print("All csv files are updating...")
-                else:
-                    print("The csv file is updating...")
+            if (cat != 0):
+                print("The csv file is updating...")
                 update = updateAll(cat)
-            else:
-                pass
+            
+            else: 
+                # Get user confirmation to update all searchall csv files
+                confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
+
+                if (confirm.lower() == 'y'):
+                    print("All csv files are updating...")
+                    update = updateAll(cat)
+                else:
+                    pass
 
         # Update user status of csv file update
         if (update == True) :
@@ -78,3 +83,10 @@ def updatecsvfile(searchall, cat):
             print("The csv file update was unsuccessful.")
     else:
         print("No csv files will be updated.")
+
+# Check if csv files are older than 1 week, prompt user to update if true
+def oldcsv(categories, fileNames, cat):
+    today = date.today()
+    lastModDate = lastMod(categories, fileNames, cat)
+    dateDiff = today - lastModDate
+    return (dateDiff > timedelta(7))
