@@ -1,5 +1,6 @@
 # Import libraries
 import pandas as pd
+import os
 
 # Function to read csv and seach for an item 
 # eg. item = 'taste the difference cookies'
@@ -30,7 +31,7 @@ def searchitem(cat, categories, fileNames, searchValues):
     else:
         # Read csv file
         filename = fileNames[categories[cat]] + '.csv'
-        data = pd.read_csv(filename)
+        data = pd.read_csv(os.getcwd()+ '\\csv files\\' + filename)
 
         # Apply filter, case insensitive (requires values in searchValues to be lower case too)
         filter = data['Description'].apply(lambda desc: all(word in desc.lower() for word in searchValues))

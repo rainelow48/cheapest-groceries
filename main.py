@@ -21,10 +21,10 @@ categories, fileNames = setcatandfile(searchall)
 cat = searchCat(categories)
 
 # Time duration to update file, Takes 659 seconds to update all files
-# start_time = time.time()
-# # Update csv file if required
-# updatecsvfile(searchall, cat)
-# print("---- %s seconds ----" % (time.time()-start_time))
+start_time = time.time()
+# Update csv file if required
+updatecsvfile(searchall, cat)
+print("---- %s seconds ----" % (time.time()-start_time))
 
 
 # Obtain search content from user

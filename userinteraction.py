@@ -60,7 +60,7 @@ def updatecsvfile(searchall, cat):
         # Update required all csv files
         else:
             # Get user confirmation to update all searchall csv files
-            confirm = input("This might take a long while. Do you wish to proceed? (Y/N): ")
+            confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
 
             if (confirm.lower() == 'y'):
                 if (cat == 0):

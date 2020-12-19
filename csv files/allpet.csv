@@ -1,7 +1,7 @@
 Description,Price/Unit,Unit,Price/Measure,Measure
 IAMS for Vitality Kitten Food with Fresh Chicken 2kg,8.00,unit,4.00,kg
-"IAMS  Vitality Adult Cat Food, Lamb 2kg",8.00,unit,4.00,kg
-"IAMS Vitality Vitality Adult Cat, Ocean Fish 2kg",8.00,unit,4.00,kg
+"IAMS Vitality Senior & Mature Cat, Chicken 2kg",8.00,unit,4.00,kg
+IAMS for Vitality Senior Cat Food With Ocean Fish 2kg,8.00,unit,4.00,kg
 Sainsbury's Dog Poop Bags x50,1.15,unit,1.15,ea
 Felix Cat Food Fish Selection In Jelly 12 X 100G,3.00,unit,2.50,kg
 Felix As Good As It Looks Cat Food Ocean Feasts In Jelly 12x100g,3.50,unit,2.92,kg
@@ -225,7 +225,6 @@ Felix As Good As It Looks Doubly Delicious Cat Food Ocean Recipes 12 X 100g,3.50
 Pedigree Dentastix Daily Adult 1+ Small Dog Treats Dental Chews x28 Sticks,5.00,unit,11.36,kg
 Sainsbury's Farmhouse Kitchen Adult Dog Smooth Pt With Beef & Vegetables 150g,45p,unit,3.00,kg
 Sainsbury's Adult Fine Flakes 1+ Adult Cat Food with Salmon in Jelly 100g,30p,unit,3.00,kg
-"IAMS Vitality Vitality Adult Cat, Chicken 2kg",8.00,unit,4.00,kg
 Bakers Meaty Meals Adult Small Dry Dog Food Beef 1kg,3.00,unit,3.00,kg
 Bakers Meaty Twist Medium Dog Treats 180g,1.75,unit,9.72,kg
 Sainsbury's Dog Biscuit Small Bones 800g,1.70,unit,2.13,kg
@@ -282,6 +281,7 @@ RSPB Coconut Shell Suet Treats 290g,2.20,unit,2.20,ea
 Good Boy Pawsley & Co Mega Chewy Twist with Chicken Dog Treats 70g,2.00,unit,28.57,kg
 Good Boy Pawsley & Co Chewy Twists with Chicken Dog Treats 320g,7.50,unit,23.44,kg
 Wagg Low Fat Treats with Turkey & Rice 125g,70p,unit,5.60,kg
+"IAMS Vitality Senior & Mature Cat, Chicken 2kg",8.00,unit,4.00,kg
 Good Boy Pawsley & Co Hide Knotted Bone Dog Treats,1.55,unit,1.55,ea
 Encore Whole Tuna Loin Cat Treat 30g,1.60,unit,53.33,kg
 Butcher's Recipes in Gravy Dog Food Tins 6x400g,3.85,unit,1.60,kg
@@ -353,7 +353,6 @@ Sainsbury's Wild Bird Peanuts 2kg,4.50,unit,2.25,kg
 Gourmet Gold Melting Heart Cat Food Beef 8x85g,3.00,unit,4.41,kg
 Purina One Urinary Care Dry Cat Food Chicken 800g,5.50,unit,6.88,kg
 "Encore Cat Pot, Fish Selection in Broth 6x60g",5.50,unit,15.28,kg
-"IAMS Vitality Vitality Adult Cat, Ocean Fish 2kg",8.00,unit,4.00,kg
 Sainsbury's Complete Nutrition Adult Dog Food with Lamb & Poultry in Gravy 400g,45p,unit,1.13,kg
 Harringtons Rich in Turkey with Veg Adult Dog Complete 2kg,4.00,unit,2.00,kg
 Whiskas in Jelly Wet Super Senior 11+ Cat Food Pouches Fish 12x100g,3.00,unit,2.50,kg
@@ -560,6 +559,7 @@ Pooch & Mutt Health Food for Dogs Senior Complete Chicken & Superfoods for Dogs 
 Pooch & Mutt Small Dog Complete Mini Bites Chicken & Superfood Blend for Dogs 1kg,3.50,unit,3.50,kg
 Sainsbury's Adult Fine Flakes  7+ Senior Cat Food Meat & Fish Selection in Jelly 12 x 100g,2.75,unit,2.29,kg
 Petface Laser Chaser Toy,4.30,unit,4.30,ea
+IAMS for Vitality Light in Fat Cat Food With Fresh Chicken 2kg,8.00,unit,4.00,kg
 Sainsbury's Adult Fine Flakes 1+ Adult Cat Food Meat Selection in Jelly 12 x 100g,2.75,unit,2.29,kg
 Lily's Kitchen Puppy Recipe 400g,2.30,unit,5.75,kg
 Felix Mini Filetti Chicken & Salmon 30g,1.25,unit,41.67,kg
@@ -575,6 +575,7 @@ Pedigree Jumbone Medium Dog Treat with Chicken & Lamb Chews x2 180g,1.25,unit,6.
 Sainsbury's Festive Christmas Biscuit Bites for Dogs x10,3.00,unit,30p,ea
 Felix Play Tubes Chicken & Liver 50g,1.25,unit,25.00,kg
 Gourmet Nature's Creations Ocean Fish 85g,60p,unit,7.06,kg
+IAMS for Vitality Senior Cat Food With Ocean Fish 2kg,8.00,unit,4.00,kg
 "Sainsbury's Small Animal Hamster, Gerbil & Mouse Nuggets 1kg",1.50,unit,1.50,kg
 Sainsbury's 2in1 Sensitive Shampoo & Conditioner for Dogs Fragrance Free 500ml,3.00,unit,60p,100ml
 "IAMS Naturally Cat, Lamb & Rice 700g",3.50,unit,5.00,kg
@@ -596,6 +597,7 @@ Bakers Weight Control Dry Dog Food Chicken 2.85kg,6.60,unit,2.32,kg
 Bakers Small Dry Dog Food Chicken and Veg 2.85kg,6.60,unit,2.32,kg
 Crave Grain Free Dry Protein Strips Dog Treat Natural Turkey & Chicken 55g,2.00,unit,36.36,kg
 Sainsbury's Treats Snack Pockets with Chicken 200g,1.60,unit,8.00,kg
+IAMS for Vitality Kitten Food with Fresh Chicken 2kg,8.00,unit,4.00,kg
 Pooch & Mutt Puppy Complete Chicken & Superfood Blend for Dogs 1kg,3.50,unit,3.50,kg
 Sainsbury's Goldfish Flake Food 100g,2.50,unit,25.00,kg
 Petface Christmas Tree Cat Toy,3.00,unit,3.00,ea

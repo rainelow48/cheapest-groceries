@@ -1,14 +1,15 @@
 import pandas as pd
 import csv
 import time
+import os
 
 print("using csv now")
 start_time = time.time()
-csv_file = open('test.csv', 'w')
+csv_file = open(os.getcwd()+'\\test files\\test.csv', 'w')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['Name','Age','Height','Weight'])
 
-for i in range (0, 10000):
+for i in range (0, 100000):
     csv_writer.writerow([i, i, i, i])
 print("--- %s seconds ---" % (time.time() - start_time))
 

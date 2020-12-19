@@ -7,6 +7,7 @@ from sainsvar import allcategories, allfileNames, allmainurl, allurlParams    # 
 from bs4 import BeautifulSoup
 import requests
 import csv
+import os
 
 # Function to set category and filenames
 def setcatandfile(searchall):
@@ -31,7 +32,7 @@ def updateEssentials(cat):
         # Open csv file to write
         catName = esscategories[cat]
         fileName = essfileNames[catName]+'.csv'
-        csv_file = open(fileName, 'w')
+        csv_file = open(os.getcwd()+ '\\csv files\\' + fileName, 'w')
         csv_writer = csv.writer(csv_file)
         
         # Write column names into csv file
@@ -111,7 +112,7 @@ def updateAll(cat):
         # Open csv file to write
         catName = allcategories[cat]
         fileName = allfileNames[catName]+'.csv'
-        csv_file = open(fileName, 'w')
+        csv_file = open(os.getcwd()+ '\\csv files\\' + fileName, 'w')
         csv_writer = csv.writer(csv_file)
         
         # Write column names into csv file
