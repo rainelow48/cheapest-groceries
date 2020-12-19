@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import os
+from datetime import date, timedelta
 
 # Function to set category and filenames
 def setcatandfile(searchall):
@@ -19,9 +20,26 @@ def setcatandfile(searchall):
         fileNames = essfileNames
     return categories, fileNames
 
+# Function to return file's last modified date
+def lastMod(categories, fileNames, cat):
+    if (cat == 0):
+        modDate = date.today()
+        for i in categories:
+            tempDate = lastMod(categories, fileNames, i)
+            if (tempDate < modDate):
+                modDate = tempDate
+            else:
+                pass
+
+    else:
+        catName = categories[cat]
+        filename = os.getcwd() + '\\csv files\\' + fileNames[catName] + '.csv'
+        modDate = date.fromtimestamp(os.path.getmtime(filename))
+
+    return modDate
+
 # Function to update essential csv for category of choice, update all by default
 def updateEssentials(cat):
-
     # Update all categories
     if (cat == 0):
         for i in esscategories:
@@ -31,8 +49,8 @@ def updateEssentials(cat):
     else:
         # Open csv file to write
         catName = esscategories[cat]
-        fileName = essfileNames[catName]+'.csv'
-        csv_file = open(os.getcwd()+ '\\csv files\\' + fileName, 'w')
+        fileName = os.getcwd()+ '\\csv files\\' + essfileNames[catName]+'.csv'
+        csv_file = open(fileName, 'w')
         csv_writer = csv.writer(csv_file)
         
         # Write column names into csv file
@@ -111,8 +129,8 @@ def updateAll(cat):
     else:
         # Open csv file to write
         catName = allcategories[cat]
-        fileName = allfileNames[catName]+'.csv'
-        csv_file = open(os.getcwd()+ '\\csv files\\' + fileName, 'w')
+        fileName = os.getcwd()+ '\\csv files\\' + allfileNames[catName]+'.csv'
+        csv_file = open(fileName, 'w')
         csv_writer = csv.writer(csv_file)
         
         # Write column names into csv file
@@ -181,7 +199,6 @@ def updateAll(cat):
 
 # Update user csv file has been updated
 def updateSuccessful(searchall, cat):
-
     if (cat == 0):
         print("All csv files has been updated!")
 
