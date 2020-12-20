@@ -24,8 +24,7 @@ You will need to download the following files into the same folder:
 Follow the steps below to get data from Sainsbury's webpage as csv files:
 
 #### A. Get all items from Sainsbury's website
-1. Run main.py\
-Run on command prompt `C:\Users\...>python main.py` or on your IDE
+1. Run main.py: On command prompt `C:\Users\...>python main.py` or on your IDE
 2. When prompted to select category, select 'All'
 ```
 *** Welcome to Sainsbury's search function! ***
@@ -55,7 +54,7 @@ Your selection (0-14): 0
 4. When prompted for confirmation, select 'Y': 
 `This might take a long while (10-15min). Do you wish to proceed? (Y/N): y`
 
-This process will take about 10-20min
+This process will take about 10-20min.
 ```
 All csv files are updating...
 All csv files has been updated!
@@ -92,21 +91,23 @@ All csv files has been updated!
 ### 3. Customize settings
 Under main.py, you can customize the following:
 
-#### Search domain
-Set your search domain to Sainsbury's Essentials items, Sainsbury's All items or get prompted to choose your search domain every time you search
+#### A. Search domain
+Set your search domain to Sainsbury's Essentials items, Sainsbury's All items or get prompted to choose your search domain every time you search.
 ```
 searchAll = True              # Sets search domain to All items
 searchAll = False             # Sets search domain to Essential items
 searchAll = searchDomain()    # Let user set search domain
 ```
 
-#### Update csv
-Set a limit on how old your csv files can be (in days) and get prompted to update your csv files if they are too old\
-`days = 0                     # Set to 0 to get a prompt every time you run main.py`
+#### B. Update csv
+Set a limit on how old your csv files can be (in days) and get prompted to update your csv files if they are too old:
+```
+days = 0                     # Set to 0 to get a prompt every time you run main.py
+```
 
-#### Length of result
-Set your desired length of result to print
+#### C. Length of result
+Set your desired length of result to print: 
 `length = 150`
 
-### 4. Start searching!
+### 4. Start searching
 Run main.py and search for any item!
