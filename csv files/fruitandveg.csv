@@ -22,7 +22,7 @@ Sainsbury's Sweet Potatoes Loose,1.10,kg,1.10,kg
 Sainsbury's Royal Gala Apples x6,1.60,unit,27p,ea
 Sainsbury's Maris Piper Potatoes 2.5kg,1.39,unit,56p,kg
 Sainsbury's Easy Peelers 600g,80p,unit,1.33,kg
-"Sainsbury's Easy Peelers, Taste the Difference 600g",1.20,unit,2.00,kg
+Sainsbury's Easy Peelers Taste the Difference 600g,1.20,unit,2.00,kg
 Sainsbury's Baby Potatoes 1kg,1.00,unit,1.00,kg
 Sainsbury's Fairtrade Bananas x8,1.25,unit,16p,ea
 Sainsbury's Parsnips Loose,1.15,kg,1.15,kg
@@ -30,9 +30,9 @@ Sainsbury's Cauliflower,35p,unit,35p,ea
 Sainsbury's White Seedless Grapes 500g,1.75,unit,3.50,kg
 Sainsbury's Blueberries 150g,1.75,unit,11.66,kg
 Sainsbury's Braeburn Apples x6,1.60,unit,27p,ea
-"Sainsbury's Vittoria on the Vine Cherry Tomatoes, Taste the Difference 250g",1.70,unit,6.80,kg
+Sainsbury's Vittoria on the Vine Cherry Tomatoes Taste the Difference 250g,1.70,unit,6.80,kg
 Sainsbury's Iceberg Lettuce,43p,unit,43p,ea
-"Sainsbury's Jubilee Large Vine Tomatoes, Taste the Difference 450g",1.70,unit,3.78,kg
+Sainsbury's Jubilee Large Vine Tomatoes Taste the Difference 450g,1.70,unit,3.78,kg
 Sainsbury's Limes,30p,unit,30p,ea
 Sainsbury's Half Cucumber Portion,35p,unit,35p,ea
 Sainsbury's Garlic,25p,unit,25p,ea
@@ -43,17 +43,17 @@ Sainsbury's Celery,50p,unit,50p,ea
 Sainsbury's Classic Round Tomatoes x6,75p,unit,1.88,kg
 Sainsbury's Baby Leaf Spinach 100g,1.00,unit,10.00,kg
 Sainsbury's Oranges,30p,unit,30p,ea
-"Sainsbury's Carrots, SO Organic 750g",1.25,unit,1.67,kg
+Sainsbury's Carrots SO Organic 750g,1.25,unit,1.67,kg
 Sainsbury's Conference Pears x4,1.50,unit,1.50,ea
 Sainsbury's Onions 1kg,85p,unit,85p,kg
 Sainsbury's White Potatoes 2.5kg,35p,unit,14p,kg
-"Sainsbury's Pomodorino Tomatoes, Taste the Difference 250g",1.50,unit,6.00,kg
+Sainsbury's Pomodorino Tomatoes Taste the Difference 250g,1.50,unit,6.00,kg
 Sainsbury's Pink Lady Apples x6,2.60,unit,43p,ea
 Sainsbury's Aubergine,70p,unit,70p,ea
 Sainsbury's Leeks Loose,1.70,kg,1.70,kg
 Sainsbury's Tenderstem Broccoli 200g,1.20,unit,6.00,kg
 Sainsbury's Raspberries 225g,2.75,unit,12.22,kg
-"Sainsbury's Small Bananas, Fairtrade x8",1.10,unit,14p,ea
+Sainsbury's Small Bananas Fairtrade x8,1.10,unit,14p,ea
 Sainsbury's Easy Peeler Loose,1.95,kg,1.95,kg
 Sainsbury's Little Gem Lettuce x2,85p,unit,43p,ea
 Sainsbury's Baby Button Mushrooms 200g,1.10,unit,5.50,kg
@@ -62,7 +62,7 @@ Sainsbury's British Bramley Cooking Apples Loose,1.76,kg,1.76,kg
 Sainsbury's Lemons Unwaxed minimum 5,1.00,unit,20p,ea
 Sainsbury's Young Spinach 260g,1.50,unit,5.77,kg
 Sainsbury's Red & White Seedless Grapes 500g,2.00,unit,4.00,kg
-"Sainsbury's Vivaldi Baking Potatoes, Taste the Difference x4",1.60,unit,40p,ea
+Sainsbury's Vivaldi Baking Potatoes Taste the Difference x4,1.60,unit,40p,ea
 Sainsbury's Red Grapefruit,60p,unit,60p,ea
 Sainsbury's Baking Potatoes 2.5kg,2.00,unit,80p,kg
 Sainsbury's Root Ginger Loose,5.00,kg,5.00,kg
@@ -71,7 +71,7 @@ Sainsbury's Sugar Snap Peas 200g,1.35,unit,6.75,kg
 Sainsbury's Fresh Packed Bunch Coriander 30g,75p,unit,25p,10g
 Sainsbury's Courgettes 500g,1.25,unit,2.50,kg
 Sainsbury's Parsnips 500g,35p,unit,70p,kg
-"Sainsbury's Conference Pears, Ripe & Ready x4",2.00,unit,50p,ea
+Sainsbury's Conference Pears Ripe & Ready x4,2.00,unit,50p,ea
 Sainsbury's Red Chillies 60g,65p,unit,1.08,100g
 Sainsbury's Honeydew Melon,1.80,unit,1.80,ea
 Sainsbury's Oranges x5,1.00,unit,20p,ea
@@ -79,7 +79,7 @@ Sainsbury's Green Pepper,45p,unit,45p,ea
 Sainsbury's Sweetheart Cabbage,60p,unit,60p,ea
 Sainsbury's Fresh Packed Flat Leaf Parsley 30g,75p,unit,25p,10g
 Sainsbury's Oranges Large x4,1.50,unit,37p,ea
-"Sainsburys Majestic Vine Tomatoes, Taste the Difference 300g",1.70,unit,5.67,kg
+Sainsburys Majestic Vine Tomatoes Taste the Difference 300g,1.70,unit,5.67,kg
 Albert Bartlett Rooster Potatoes 2kg,2.00,unit,1.00,kg
 Sainsbury's Black Seedless Grapes 500g,2.00,unit,4.00,kg
 Sainsbury's Swede,80p,unit,80p,ea
@@ -87,14 +87,14 @@ Sainsbury's Jazz Apples x6,2.30,unit,38p,ea
 Sainsbury's Beetroot Vacuum Pack 250g,80p,unit,32p,100g
 Sainsbury's Fresh Packed Basil 30g,75p,unit,25p,10g
 Sainsbury's Savoy Cabbage,60p,unit,60p,ea
-"Sainsbury's Oranges, Taste the Difference x4",2.00,unit,50p,ea
+Sainsbury's Oranges Taste the Difference x4,2.00,unit,50p,ea
 Sainsbury's Galia Melon,1.80,unit,1.80,ea
 Sainsbury's Medium Pineapple,1.00,unit,1.00,ea
-"Sainsbury's Vivaldi Salad Potatoes, Taste the Difference 1kg",1.60,unit,1.60,kg
+Sainsbury's Vivaldi Salad Potatoes Taste the Difference 1kg,1.60,unit,1.60,kg
 Sainsbury's Charlotte Potatoes 1kg,1.10,unit,1.10,kg
-"Sainsbury's Plum Sundream Tomatoes, Taste the Difference 250g",1.65,unit,6.60,kg
-"Sainsbury's Spinach, Watercress & Rocket Salad 80g",1.30,unit,1.63,100g
-"Sainsbury's Vivaldi White Potatoes, Taste the Difference 2kg",2.60,unit,1.30,kg
+Sainsbury's Plum Sundream Tomatoes Taste the Difference 250g,1.65,unit,6.60,kg
+Sainsbury's Spinach Watercress & Rocket Salad 80g,1.30,unit,1.63,100g
+Sainsbury's Vivaldi White Potatoes Taste the Difference 2kg,2.60,unit,1.30,kg
 Sainsbury's Fresh Packed Coriander 100g,1.25,unit,13p,10g
 Sainsbury's White Cabbage Loose,35p,kg,35p,kg
 Sainsbury's Sweet Leaf Salad 250g,75p,unit,30p,100g
@@ -103,14 +103,14 @@ Sainsbury's Watercress 80g,1.00,unit,1.25,100g
 Sainsbury's Blueberries 300g,3.50,unit,11.67,kg
 Sainsbury's Leeks 500g,1.00,unit,2.00,kg
 Sainsbury's Sweet Gem Lettuce x2,1.00,unit,50p,ea
-"Sainsbury's Blueberries, SO Organic 150g",2.50,unit,16.67,kg
+Sainsbury's Blueberries SO Organic 150g,2.50,unit,16.67,kg
 Sainsbury's Conference Pear Single,37p,unit,37p,ea
-"Sainsbury's Black Sable Seedless Grapes, Taste the Difference 400g",2.50,unit,6.25,kg
-"Sainsbury's Pears, Ripe & Ready x4",2.00,unit,50p,ea
+Sainsbury's Black Sable Seedless Grapes Taste the Difference 400g,2.50,unit,6.25,kg
+Sainsbury's Pears Ripe & Ready x4,2.00,unit,50p,ea
 Sainsbury's Beetroot In Vinegar 300g,1.00,unit,33p,100g
 Sainsbury's Stringless Beans 225g,1.30,unit,5.78,kg
 Sainsbury's Greens 500g,80p,unit,1.60,kg
-"Sainsbury's Cos Lettuce, Mini Red x2",1.00,unit,50p,ea
+Sainsbury's Cos Lettuce Mini Red x2,1.00,unit,50p,ea
 Sainsbury's Closed Cup Chestnut Mushrooms 300g,1.00,unit,3.33,kg
 Sainsbury's Peach Punnet (Min x4),1.50,unit,37p,ea
 Floridian Pink Grapefruit,65p,unit,65p,ea
@@ -118,27 +118,27 @@ Sainsbury's Runner Beans 225g,1.25,unit,5.56,kg
 Sainsbury's Fresh Packed Rosemary 20g,75p,unit,38p,10g
 Sainsbury's White Grapefruit,60p,unit,60p,ea
 By Sainsburys 4 Small Ripe & Ready Avocados,2.25,unit,57p,ea
-"Sainsbury's Caesar Salad, Be Good To Yourself 265g",1.75,unit,66p,100g
-"Sainsbury's Little Gem Lettuce, SO Organic x2",1.00,unit,50p,ea
+Sainsbury's Caesar Salad Be Good To Yourself 265g,1.75,unit,66p,100g
+Sainsbury's Little Gem Lettuce SO Organic x2,1.00,unit,50p,ea
 Sainsbury's Cherry Tomatoes 500g,1.25,unit,2.50,kg
-"Sainsbury's Beetroot Vacuum Pack, SO Organic 250g",1.00,unit,40p,100g
+Sainsbury's Beetroot Vacuum Pack SO Organic 250g,1.00,unit,40p,100g
 Sainsbury's Cherry Tomatoes 250g,70p,unit,2.80,kg
-"Sainsbury's Medjool Dates, Taste the Difference 200g",2.25,unit,11.25,kg
+Sainsbury's Medjool Dates Taste the Difference 200g,2.25,unit,11.25,kg
 Sainsbury's White Turnips Loose,2.40,kg,2.40,kg
 Sainsbury's Baby Leeks 175g,2.00,unit,11.43,kg
 Sainsbury's Casserole Vegetable Selection 750g,1.00,unit,1.33,kg
 Sainsbury's Purple Sprouting Broccoli Spears 200g,1.80,unit,9.00,kg
 Sainsbury's Bunched Thyme 20g,75p,unit,38p,10g
-"Sainsbury's Watercress, SO Organic 80g",1.50,unit,1.88,100g
+Sainsbury's Watercress SO Organic 80g,1.50,unit,1.88,100g
 Sainsbury's Rhubarb 400g,3.50,unit,8.75,kg
 Sainsbury's Mixed Chillis 80g,80p,unit,10p,10g
 Sainsbury's Bunched Chives 20g,75p,unit,3.75,100g
-"Sainsbury's Sweetheart Cabbage, SO Organic",1.50,unit,1.50,ea
+Sainsbury's Sweetheart Cabbage SO Organic,1.50,unit,1.50,ea
 Sainsbury's Bistro Salad 150g,1.25,unit,83p,100g
 Sainsbury's Fresh Living Curly Parsley Pot,1.25,unit,1.25,ea
 Sainsbury's Bunched Dill 20g,65p,unit,33p,10g
 Sainsbury's Kiwi Fruit x6,85p,unit,14p,ea
-"Sainsbury's Baby Cauliflower, Taste the Difference x2",1.80,unit,90p,ea
+Sainsbury's Baby Cauliflower Taste the Difference x2,1.80,unit,90p,ea
 Sainsbury's Italian Style Salad 100g,1.25,unit,1.25,100g
 Sainsbury's British Red Potatoes 2kg,1.75,unit,88p,kg
 Sainsbury's Alstroemeria Abundance Bouquet,5.00,unit,5.00,ea

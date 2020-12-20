@@ -6,7 +6,7 @@ from searchcsv import searchItem, sortItems
 def main():
     print("\n*** Welcome to Sainsbury's search function! ***\n")    # Welcome message
 
-    searchall = True                                                # Sets search domain to all items, 
+    searchall = False                                                # Sets search domain to all items (True), essential items (False)
     # searchall = searchDomain()                                    # Use to obtain user's preferred search domain
     categories, fileNames, mainurl, urlParams = setVar(searchall)   # Set correct variables
     cat = searchCat(categories)                                     # Obtain user's preferred search category
