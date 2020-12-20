@@ -19,13 +19,13 @@ categories, fileNames, mainurl, urlParams = setVar(searchall)
 # Obtain user's preferred search category
 cat = searchCat(categories)
 
-# Time duration to update file, Takes 659 seconds to update all files
-# start_time = time.time()
-# print("---- %s seconds ----" % (time.time()-start_time))
-
 # Checks if csv file is older than ## days, update if required
 if (oldcsv(categories, fileNames, cat, 0) == True): # 0 days: last updated today 
+    
+    # Time duration to update file, Takes 659 seconds to update all files
+    start_time = time.time()
     updatefile(searchall, cat)
+    print("---- %.2f seconds ----" % (time.time()-start_time))
 else:
     pass
 
