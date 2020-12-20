@@ -36,7 +36,7 @@ Please select a category to search item:
 0 : All
 1 : Fruits and Vegetables
 2 : Meat and Fish
-3 : Dairy, eggs and Chilled
+3 : Dairy, Eggs and Chilled
 4 : Bakery
 5 : Frozen
 6 : Food Cupboard
@@ -75,7 +75,7 @@ Please select a category to search item:
 0 : All
 1 : Fruits and Vegetables
 2 : Meat and Fish
-3 : Dairy, eggs and Chilled
+3 : Dairy, Eggs and Chilled
 4 : Bakery
 5 : Frozen
 6 : Food Cupboard
