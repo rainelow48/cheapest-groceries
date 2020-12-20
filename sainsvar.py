@@ -7,7 +7,7 @@
 esscategories = {
     1 : 'Fruits and Vegetables',
     2 : 'Meat and Fish',
-    3 : 'Dairy, eggs and Chilled',
+    3 : 'Dairy, Eggs and Chilled',
     4 : 'Bakery',
     5 : 'Frozen',
     6 : 'Food Cupboard',
@@ -17,7 +17,7 @@ esscategories = {
 allcategories = {
     1 : 'Fruits and Vegetables',
     2 : 'Meat and Fish',
-    3 : 'Dairy, eggs and Chilled',
+    3 : 'Dairy, Eggs and Chilled',
     4 : 'Bakery',
     5 : 'Frozen',
     6 : 'Food Cupboard',
@@ -35,7 +35,7 @@ allcategories = {
 essfileNames = {
     'Fruits and Vegetables': 'fruitandveg',
     'Meat and Fish': 'meatandfish',
-    'Dairy, eggs and Chilled': 'dairyeggsandchilled',
+    'Dairy, Eggs and Chilled': 'dairyeggsandchilled',
     'Bakery': 'bakery',
     'Frozen': 'frozen',
     'Food Cupboard': 'foodcupboard',
@@ -46,7 +46,7 @@ essfileNames = {
 allfileNames = {
     'Fruits and Vegetables': 'allfruitandveg',
     'Meat and Fish': 'allmeatandfish',
-    'Dairy, eggs and Chilled': 'alldairyeggsandchilled',
+    'Dairy, Eggs and Chilled': 'alldairyeggsandchilled',
     'Bakery': 'allbakery',
     'Frozen': 'allfrozen',
     'Food Cupboard': 'allfoodcupboard',
@@ -102,7 +102,7 @@ allurlParams = {
 categoryIDs = {
     'Fruits and Vegetables': '474593',
     'Meat and Fish': '474595',
-    'Dairy, eggs and Chilled': '474592',
+    'Dairy, Eggs and Chilled': '474592',
     'Bakery': '474594',
     'Frozen': '474596',
     'Food Cupboard': '442361',
@@ -113,7 +113,7 @@ categoryIDs = {
 parentCatIDs = {
     'Fruits and Vegetables': '12518',
     'Meat and Fish': '13343',
-    'Dairy, eggs and Chilled': '428866',
+    'Dairy, Eggs and Chilled': '428866',
     'Bakery': '12320',
     'Frozen': '218831',
     'Food Cupboard': '12422',
