@@ -4,31 +4,53 @@ from bs4 import BeautifulSoup
 from datetime import date, datetime, timedelta
 
 
-print("using csv now")
-start_time = time.time()
-print(start_time)
-csv_file = open(os.getcwd()+'\\test files\\test.csv', 'w')
-csv_writer = csv.writer(csv_file)
-csv_writer.writerow(['Name','Age','Height','Weight'])
+data = pd.read_csv(os.getcwd()+'\\allbakery.csv')
+print (data)
+filter = data['Price/Unit'].str.contains('p')
+print(data[filter].head(20), "\n\n")
 
-for i in range (0, 100000):
-    csv_writer.writerow([i, i, i, i])
-print("--- %s seconds ---" % (time.time() - start_time))
+def containsp(price):
+    if ('p' in price):
+        newprice = int(price[:-1])/100
+        return newprice
+    else:
+        return price
 
-today = date.today()
-dtoday = today.strftime("%b %d %Y")
-print(dtoday)
-print(type(dtoday))
-# moddate = time.ctime(os.path.getmtime(os.getcwd()+"\\csv files\\bakery.csv"))
-# testmoddate = time.ctime(os.path.getmtime(os.getcwd()+"\\test files\\test.csv"))
-moddate = date.fromtimestamp(os.path.getmtime("D:\\Coding\\CPP edX\\1.CPP.txt"))
-print(today)
-print(moddate)
-datediff = today - moddate
-print(today < moddate)
-print(datediff)
-print(datediff < timedelta(7))
-print(type(moddate))
+ppu = data['Price/Unit'].apply(lambda item: containsp(item))
+data['Price/Unit'] = ppu
+
+ppm = data['Price/Measure'].apply(lambda item: containsp(item))
+data['Price/Measure'] = ppm
+
+
+print(data.sort_values(['Price/Unit', 'Price/Measure']).head(50))
+
+
+
+# print("using csv now")
+# start_time = time.time()
+# csv_file = open(os.getcwd()+'\\test files\\test.csv', 'w')
+# csv_writer = csv.writer(csv_file)
+# csv_writer.writerow(['Name','Age','Height','Weight'])
+
+# for i in range (0, 100000):
+#     csv_writer.writerow([i, str(i)+'p', i, i])
+# print("--- %s seconds ---" % (time.time() - start_time))
+
+# today = date.today()
+# dtoday = today.strftime("%b %d %Y")
+# print(dtoday)
+# print(type(dtoday))
+# # moddate = time.ctime(os.path.getmtime(os.getcwd()+"\\csv files\\bakery.csv"))
+# # testmoddate = time.ctime(os.path.getmtime(os.getcwd()+"\\test files\\test.csv"))
+# moddate = date.fromtimestamp(os.path.getmtime("D:\\Coding\\CPP edX\\1.CPP.txt"))
+# print(today)
+# print(moddate)
+# datediff = today - moddate
+# print(today < moddate)
+# print(datediff)
+# print(datediff < timedelta(7))
+# print(type(moddate))
 
 # with open('test.csv', 'w+') as f:
 #     header = pd.DataFrame({'Name': [],'Age': [],'Height': [],'Weight': []})

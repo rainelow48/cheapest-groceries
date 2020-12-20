@@ -6,7 +6,7 @@ import os
 # eg. item = 'taste the difference cookies'
 # searchValues = ['taste', 'the', 'difference', 'cookies']
 
-def searchitem(cat, categories, fileNames, searchValues):
+def searchItem(cat, categories, fileNames, searchValues):
     
     # Search all categories
     if (cat == 0):
@@ -15,7 +15,7 @@ def searchitem(cat, categories, fileNames, searchValues):
         df = pd.DataFrame({'Description': [],'Price/Unit': [],'Unit': [],'Price/Measure': [],'Measure': []})
         
         for i in categories:
-            result = searchitem(i, categories, fileNames, searchValues)
+            result = searchItem(i, categories, fileNames, searchValues)
             
             # Concatenate dataframe from different categories
             df = pd.concat([df, result])
@@ -46,4 +46,22 @@ def searchitem(cat, categories, fileNames, searchValues):
         #     print("\nFound", len(result), "items in", categories[cat])
         #     print(result)
         
-        return result     
+        return result
+
+# Function to change price from xxp to 0.xx pounds
+def toPounds(price):
+    if ('p' in price):
+        newprice = int(price[:-1])/100
+        return float(newprice)
+    else:
+        return float(price)
+
+# Function to convert all prices to pounds and sort in acending order
+def sortItems(data):
+    ppu = data['Price/Unit'].apply(lambda item: toPounds(item))     # Convert ppu to pounds
+    data['Price/Unit'] = ppu        # Replace original ppu column with pound values
+
+    ppm = data['Price/Measure'].apply(lambda item: toPounds(item))  # Convert ppm to pounds
+    data['Price/Measure'] = ppm     # Replace original ppm column with pound values
+
+    return data.sort_values(['Price/Unit', 'Price/Measure'])

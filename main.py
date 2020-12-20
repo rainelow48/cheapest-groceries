@@ -1,7 +1,7 @@
 # Import required file function
 from userinteraction import searchDomain, searchCat, updatefile, oldcsv
 from updatecsv import setVar
-from searchcsv import searchitem
+from searchcsv import searchItem, sortItems
 
 # Import library
 import time
@@ -20,7 +20,7 @@ categories, fileNames, mainurl, urlParams = setVar(searchall)
 cat = searchCat(categories)
 
 # Checks if csv file is older than ## days, update if required
-if (oldcsv(categories, fileNames, cat, 0) == True): # 0 days: last updated today 
+if (oldcsv(categories, fileNames, cat, 1) == True): # 0 days: last updated today 
     
     # Time duration to update file, Takes 659 seconds to update all files
     start_time = time.time()
@@ -34,7 +34,10 @@ query = input("\nPlease enter item to search for: ")
 searchValues = query.lower().split()
 
 # Search for item
-result = searchitem(cat, categories, fileNames, searchValues)
+searchResult = searchItem(cat, categories, fileNames, searchValues)
+
+# Sort result
+result = sortItems(searchResult)
 
 # Prints result to user
 if (len(result) == 0):
