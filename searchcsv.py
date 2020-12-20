@@ -2,10 +2,7 @@
 import pandas as pd
 import os
 
-# Function to read csv and seach for an item 
-# eg. item = 'taste the difference cookies'
-# searchValues = ['taste', 'the', 'difference', 'cookies']
-
+# Read csv and seach for an item
 def searchItem(cat, categories, fileNames, searchValues):
     
     # Search all categories
@@ -48,7 +45,7 @@ def searchItem(cat, categories, fileNames, searchValues):
         
         return result
 
-# Function to change price from xxp to 0.xx pounds
+# Change price from xxp to 0.xx pounds
 def toPounds(price):
     if ('p' in price):
         newprice = int(price[:-1])/100
@@ -56,7 +53,7 @@ def toPounds(price):
     else:
         return float(price)
 
-# Function to convert all prices to pounds and sort in acending order
+# Convert all prices to pounds and sort in acending order
 def sortItems(data):
     ppu = data['Price/Unit'].apply(lambda item: toPounds(item))     # Convert ppu to pounds
     data['Price/Unit'] = ppu        # Replace original ppu column with pound values

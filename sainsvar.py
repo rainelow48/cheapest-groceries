@@ -1,6 +1,7 @@
 # This file contains variables relevant to Sainsburys
-# ess: essentials items only
-# all: all items
+# Prefix of:
+# "ess" : essentials items only
+# "all" : all items
 
 # Dictionary of categories
 esscategories = {
