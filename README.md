@@ -10,6 +10,8 @@
 
 
 ### 1. Setting up
+The following packages are required: `bs4`, `requests`, `csv`, `datetime`, `time`, `pandas`, `os`
+
 You will need to download the following files into the same folder:
   <ul>
     <li>main.py</li>
