@@ -4,7 +4,7 @@
 <ul>
   <li>Search from more than 25,000 items from 14 different categories</li>
   <li>Get name and price details in a list: No need to scroll through many pages with images</li>
-  <li>Only get the item you search for, no sponsored/featured/recommended items</li>
+  <li>Only get the item you search for: No sponsored/featured/recommended items</li>
   <li>Order them by ascending price per unit and price per measure</li>
 </ul>
 
@@ -61,7 +61,7 @@ All csv files has been updated!
 ---- 652.82 seconds ----
 ```
 5. When all files are updated, search any item you want (or just hit enter):
-`Please enter item to search for: Bacon`
+`Please enter item to search for: crisps`
 
 #### B. Get essential items from Sainsbury's website
 In main.py, change `searchAll = True` to `searchAll = False` and repeat steps 1-3 above. This will take less than a minute.
@@ -111,3 +111,21 @@ Set your desired length of result to print:
 
 ### 4. Start searching
 Run main.py and search for any item!
+```
+Please enter item to search for: crisps
+Found  151 items in All
+                                            Description  Price/Unit  Unit  Price/Measure Measure
+32    Kiddylicious Apple Fruit Crisps Snack 12g 12 M...        0.60  unit           5.00    100g
+2639          Walkers Baked Cheese & Onion Crisps 37.5g        0.75  unit           2.00    100g
+2852            Walkers Baked Ready Salted Crisps 37.5g        0.75  unit           2.00    100g
+2383           Popchips Barbeque Potato Chip Crisps 23g        0.75  unit           3.26    100g
+7178                       Rymut Corn Sticks Crisps 80g        0.80  unit           1.00    100g
+...                                                 ...         ...   ...            ...     ...
+1488              Walkers Classic Variety Crisps 24x25g        3.00  unit           0.50    100g
+4112                Walkers Meaty Variety Crisps 24x25g        3.00  unit           0.50    100g
+576                    Hula Hoops Variety Crisps 12x24g        3.00  unit           1.04    100g
+1764                  Hula Hoops Original Crisps 12x24g        3.00  unit           1.04    100g
+1769          Pom-Bear Original Multipack Crisps 12x13g        3.00  unit           1.92    100g
+
+[151 rows x 5 columns]
+```
