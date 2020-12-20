@@ -1,7 +1,7 @@
 Description,Price/Unit,Unit,Price/Measure,Measure
-"IAMS Vitality Vitality Adult Cat, Chicken 2kg",8.00,unit,4.00,kg
-"IAMS Vitality Senior & Mature Cat, Chicken 2kg",8.00,unit,4.00,kg
-IAMS for Vitality Light in Fat Cat Food With Fresh Chicken 2kg,8.00,unit,4.00,kg
+IAMS Vitality Vitality Adult Cat Chicken 2kg,8.00,unit,4.00,kg
+IAMS for Vitality Senior Cat Food With Ocean Fish 2kg,8.00,unit,4.00,kg
+IAMS  Vitality Adult Cat Food Lamb 2kg,8.00,unit,4.00,kg
 Sainsbury's Dog Poop Bags x50,1.15,unit,1.15,ea
 Felix Cat Food Fish Selection In Jelly 12 X 100G,3.00,unit,2.50,kg
 Felix As Good As It Looks Cat Food Ocean Feasts In Jelly 12x100g,3.50,unit,2.92,kg
@@ -38,7 +38,7 @@ Gourmet Perle Cat Food Chefs Collection Mixed 12X85g,4.00,unit,3.92,kg
 Whiskas Dry Adult 1+ Cat Food Biscuits with Chicken 2kg,4.50,unit,2.25,kg
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Tuna in Jelly 85g,75p,unit,8.82,kg
 Pedigree Dentastix Daily Adult 1+ Small Dog Treat Dental Chew Sticks x7,1.00,unit,9.09,kg
-"Sainsbury's Dog Treats, Gravy Bones 400g",90p,unit,2.25,kg
+Sainsbury's Dog Treats Gravy Bones 400g,90p,unit,2.25,kg
 Gourmet Perle Cat Food Pouches Ocean Delicacies 12x85g,4.00,unit,3.92,kg
 Sainsbury's Complete Nutrition Adult Dog Food Meat Selection in Gravy 12 x 400g,4.75,unit,99p,kg
 Febreze Cotton Fresh Air Freshener 300ml,2.00,unit,6.67,ltr
@@ -51,10 +51,10 @@ Gourmet Mon Petit Cat Food Pouches Fish 6 X 50g,1.60,unit,5.33,kg
 Felix Cat Food Mixed Selection In Gravy 12 X 100g,3.00,unit,2.50,kg
 Bakers Sizzlers Dog Treats Bacon 90g,1.40,unit,15.56,kg
 Sainsbury's Cat Treat Deli Cat Sticks Salmon & Trout x10,90p,unit,18.00,kg
-"Webbox Cats Delight, Salmon & Trout Sticks x6",1.00,unit,33.33,kg
+Webbox Cats Delight Salmon & Trout Sticks x6,1.00,unit,33.33,kg
 Go-Cat Adult Dry Cat Food Chicken And Duck 2kg,4.50,unit,2.25,kg
-"Webbox Lick-e-lix Cat Treat, Chicken 5x15g",1.00,unit,13.33,kg
-"Glade Shake 'n' Vac, Citrus Blossom 500g",1.00,unit,1.00,ea
+Webbox Lick-e-lix Cat Treat Chicken 5x15g,1.00,unit,13.33,kg
+Glade Shake 'n' Vac Citrus Blossom 500g,1.00,unit,1.00,ea
 Felix As Good As It Looks Senior Cat Food Fish 12x100g,3.50,unit,2.92,kg
 Pedigree in Jelly Wet Adult 1+ Dog Food Tin Mixed Selection 12x385g,7.60,unit,1.65,kg
 Pedigree Biscrok Gravy Bones Original Adult 1+ Treat  Biscuits 400g,2.00,unit,5.00,kg
@@ -71,18 +71,18 @@ Felix As Good As It Looks Cat Food Favourites 12X100g,3.50,unit,2.92,kg
 Dreamies Mix Adult 1+ Cat Treat Biscuits with Cheese and Beef 60g,95p,unit,15.83,kg
 Felix As Good As It Looks Cat Food Ocean Feasts 40 X 100g,11.50,unit,2.88,kg
 Felix As Good As It Looks Doubly Delicious Senior Cat Food Meat 12 X 100g,3.50,unit,2.92,kg
-"Encore Cat Tin, Tuna & Shrimp in Broth 70g",1.00,unit,14.29,kg
+Encore Cat Tin Tuna & Shrimp in Broth 70g,1.00,unit,14.29,kg
 Gourmet Solitaire Tinned Cat Food With Turkey 85g,60p,unit,7.06,kg
-"Sainsbury's Dog Treats, Mini Log Bones x4",1.00,unit,5.56,kg
+Sainsbury's Dog Treats Mini Log Bones x4,1.00,unit,5.56,kg
 Sheba Prime Cuts Wet Adult 1+  Cat Food Dome Tuna 80g,1.00,unit,12.50,kg
 Go-Cat Adult Dry Cat Food Tuna Herring And Veg 825g,2.50,unit,3.03,kg
 Dreamies Adult 1+ Cat Treat Biscuits with Salmon 60g,95p,unit,15.83,kg
 Felix As Good As It Looks Cat Food Veg 12 X 100g,3.50,unit,2.92,kg
 Sainsbury's Farmhouse Kitchen Adult Dog Smooth Pt With Beef & Vegetables 300g,55p,unit,1.83,kg
-"Webbox Cats Delight Tasty Sticks, Chicken & Liver x6 30g",1.00,unit,33.33,kg
+Webbox Cats Delight Tasty Sticks Chicken & Liver x6 30g,1.00,unit,33.33,kg
 Sainsbury's Dental Sticks for Large Dogs x14 540g,2.00,unit,3.70,kg
 Bonio The Original Biscuits Dog Food 1.2kg,3.20,unit,2.67,kg
-"Encore Cat Pouch, Tuna with Whitebait in Broth 70g",1.00,unit,14.29,kg
+Encore Cat Pouch Tuna with Whitebait in Broth 70g,1.00,unit,14.29,kg
 Gourmet Perle Connoisseurs Cat Food Mixed 12x85g,4.00,unit,3.92,kg
 Sainsbury's Complete Nutrition 7+ Senior Cat Food Meat & Fish Selection in Jelly 12x100g,2.25,unit,1.88,kg
 Sainsbury's Dental Sticks for Small Dogs x14 220g,1.50,unit,6.82,kg
@@ -91,15 +91,15 @@ Felix Cat Food Meaty Selection In Jelly 12 X 100g,3.00,unit,2.50,kg
 Bio-Catolet Paper Cat Litter 12L,6.00,unit,50p,ltr
 Pedigree Dentastix Daily Adult 1+  Large Dog Treats Dental Chew Sticks x7,1.50,unit,5.56,kg
 Felix Goody Bag Cat Treats Seaside Mix 60g,90p,unit,15.00,kg
-"Webbox Lick-e-lix Cat Treat, Salmon 5x15g",1.00,unit,13.33,kg
+Webbox Lick-e-lix Cat Treat Salmon 5x15g,1.00,unit,13.33,kg
 Whiskas in Jelly Wet Adult 1+ Mixed Cat Food Tin Fish 6x390g,4.50,unit,1.92,kg
 Gourmet Perle Cat Food Pouches Country Medley 12X85g,4.00,unit,3.92,kg
 Purina One Adult Dry Cat Food Chicken & Wholegrains 800g,5.50,unit,6.88,kg
-"Webbox Cats Delight, Turkey & Lamb Sticks x6",1.00,unit,33.33,kg
+Webbox Cats Delight Turkey & Lamb Sticks x6,1.00,unit,33.33,kg
 Pedigree Dentastix Daily Adult 1+ Medium Dog Dental Treat Dental Chews Sticks x28,5.00,unit,6.94,kg
 Felix Cat Food Mixed Selection Meaty Loaf 12 X 100g,3.00,unit,2.50,kg
 Pedigree in Gravy Wet Adult 1+ Dog Food Tin Mixed Selection 12x400g,7.60,unit,1.58,kg
-"Sainsbury's Dog Treats, Meaty Rolls x15",1.00,unit,7.41,kg
+Sainsbury's Dog Treats Meaty Rolls x15,1.00,unit,7.41,kg
 Felix Goody Bag Cat Treats Mixed Grill 60g,90p,unit,15.00,kg
 Whiskas Temptations Adult 1+ Cat Treat with Salmon 60g,1.00,unit,16.67,kg
 Gourmet Gold Tinned Cat Food Chicken And Liver In Gravy 85g,45p,unit,5.29,kg
@@ -108,8 +108,8 @@ Sainsbury's Adult Dog Complete Nutrition in Jelly with Chicken 1.2kg,1.25,unit,1
 Sainsbury's Cat Litter Liners x6,1.25,unit,1.25,ea
 Dreamies Mix Adult 1+ Cat Treat Biscuits with Chicken and Duck 60g,95p,unit,15.83,kg
 Felix As Good As It Looks Cat Food Ocean 12 X 100g,3.50,unit,2.92,kg
-"Whiskas Cat Milk, Cat Treat Bottles 3x200ml",3.40,unit,5.67,ltr
-"Sainsbury's Dog Treats, Deli Tripe Sticks x15",1.60,unit,17.78,kg
+Whiskas Cat Milk Cat Treat Bottles 3x200ml,3.40,unit,5.67,ltr
+Sainsbury's Dog Treats Deli Tripe Sticks x15,1.60,unit,17.78,kg
 Sainsbury's Complete Nutrition Kitten Food Meat & Fish Selection in Jelly 12x100g,2.25,unit,1.88,kg
 Sheba Fine Flakes in Jelly Wet Adult 1+ Cat Food Tray with Chicken 85g,55p,unit,6.47,kg
 Sainsbury's Farmhouse Kitchen Adult Dog Smooth Pt Selection 12 x 150g,3.95,unit,2.19,kg
@@ -126,7 +126,7 @@ Pedigree in Gravy Wet Adult 1+ Dog Food Pouches Mixed Selection 12x100g,4.15,uni
 Gourmet Perle Cat Food Pouches Seaside Duo 12x85g,4.00,unit,3.92,kg
 Felix Goody Bag Cat Treats Original Mix 60g,90p,unit,15.00,kg
 Pedigree Markies Mini Adult 1+ Dog Treats Biscuits 500g,2.00,unit,4.00,kg
-"Naturo Adult Dog, Grain Free Chicken 400g",1.10,unit,2.75,kg
+Naturo Adult Dog Grain Free Chicken 400g,1.10,unit,2.75,kg
 Sainsbury's Complete Nutrition 1+ Adult Cat Food Fish Selection in Jelly 6x400g,2.60,unit,1.08,kg
 Go-Cat Crunchy And Tender Dry Cat Food Salmon 800g,2.50,unit,3.13,kg
 Gourmet Mon Petit Cat Food Pouches Fish 6 X 50g,1.60,unit,5.33,kg
@@ -144,7 +144,7 @@ Bakers Dental Delicious Medium Dog Chews Chicken 200g,1.75,unit,8.75,kg
 Pedigree Mixer Dry Adult 1+ Medium Dog Food Original 1.5kg,3.25,unit,2.17,kg
 Whiskas Dry Adult 1+ Cat Food Biscuits with Chicken 825g,3.00,unit,3.64,kg
 Purina One Adult Dry Cat Food Salmon & Wholegrain 800g,5.50,unit,6.88,kg
-"Encore Cat Pouch, Chicken with Brown Rice in Broth 70g",1.00,unit,14.29,kg
+Encore Cat Pouch Chicken with Brown Rice in Broth 70g,1.00,unit,14.29,kg
 Frank's Cat Litter 10L,1.55,unit,16p,ltr
 Gourmet Gold Senior Tinned Cat Food Pate With Fish 85g,45p,unit,5.29,kg
 Sainsbury's Complete Nutrition Adult Dog Food with Chicken in Jelly 400g,45p,unit,1.13,kg
@@ -158,10 +158,10 @@ Felix Cat Food Poultry Selection In Jelly 12 X 100g,3.00,unit,2.50,kg
 Pedigree in Jelly Wet Adult 1+ Dog Food Pouches Mixed Selection 12x100g,4.15,unit,3.46,kg
 Bakers Dental Delicious Large Dog Chews Chicken  270g,2.00,unit,7.41,kg
 Sainsbury's Complete Nutrition Adult Dog Food Meat Selection in Jelly 6 x 400g,2.50,unit,1.04,kg
-"Sainsbury's Dog Treats, Log Bones x2",1.00,unit,5.00,kg
+Sainsbury's Dog Treats Log Bones x2,1.00,unit,5.00,kg
 Sainsbury's Dog Biscuit Bone Selection 650g,1.40,unit,2.15,kg
 Whiskas Dry Senior 7+ Cat Food Biscuits with Chicken 825g,3.00,unit,3.64,kg
-"Sainsbury's Doggy Donuts, With Chicken 200g",1.00,unit,5.00,kg
+Sainsbury's Doggy Donuts With Chicken 200g,1.00,unit,5.00,kg
 Winalot Shapes Dog Treat Biscuits 1.8kg,3.50,unit,1.94,kg
 Felix As Good As It Looks Cat Food Meat Selection 12 X 100g,3.50,unit,2.92,kg
 Sainsbury's Complete Nutrition Adult Dog Food Meat Selection in Gravy 6 x 400g,2.50,unit,1.04,kg
@@ -173,16 +173,16 @@ Whiskas Dentabites Cat Treats with Chicken 50g,1.00,unit,20.00,kg
 Pedigree in Gravy Wet Adult 1+ Dog Food Tin Mixed Country Casseroles 6x400g,4.00,unit,1.67,kg
 Sainsbury's Cat Treat Snack Pockets with Catnip 65g,80p,unit,12.31,kg
 Misfits Wonky Chomp Adult 1+ Large Liver Dog Treats Sticks Chews x2,1.00,unit,5.89,kg
-"Classic Cat Can, Meat 6x400g",3.20,unit,1.33,kg
+Classic Cat Can Meat 6x400g,3.20,unit,1.33,kg
 Felix As Good As It Looks Senior Cat Food Mixed 40 X 100g,11.50,unit,2.88,kg
 Good Boy Pawsley & Co Crunchy Chicken & Calcium Bones Dog Treats 100g,2.25,unit,22.50,kg
 Sainsbury's Cat Treat Snack Pockets with Salmon 65g,80p,unit,12.31,kg
 Pedigree Markies Adult 1+ Mini Dog Treats Biscuits with Marrowbone 500g,2.00,unit,4.00,kg
-"Naturo Adult Dog, Variety Pack 6x400g",5.85,unit,2.44,kg
-"Encore Cat Tin, Chicken Breast in Broth 70g",1.00,unit,14.29,kg
-"Neutradol Air Freshner Spray, Odour Destroyer 300ml",1.80,unit,6.00,ltr
+Naturo Adult Dog Variety Pack 6x400g,5.85,unit,2.44,kg
+Encore Cat Tin Chicken Breast in Broth 70g,1.00,unit,14.29,kg
+Neutradol Air Freshner Spray Odour Destroyer 300ml,1.80,unit,6.00,ltr
 Sainsbury's Complete Nutrition Adult Dog Food with Chicken & Vegetables 5kg,4.00,unit,80p,kg
-"Encore Cat Pouch, Tuna Fillet with Prawn in Broth 70g",1.00,unit,14.29,kg
+Encore Cat Pouch Tuna Fillet with Prawn in Broth 70g,1.00,unit,14.29,kg
 Go-Cat Indoor Cat Dry Cat Food Chicken And Garden Greens 825g,2.50,unit,3.03,kg
 Felix Goody Bag Cat Treats Cheezy Mix 60g,90p,unit,15.00,kg
 Whiskas in Gravy Wet Adult 1+ Mixed Cat Food Tin Meat 6x400g,4.50,unit,1.88,kg
@@ -216,13 +216,14 @@ Nature's Feast Feeder Supreme 1kg,2.20,unit,2.20,kg
 Good Boy Pawsley & Co Small Chewy Braid Dog Treats 1 Pack,1.50,unit,27.27,kg
 Sainsbury's Wild Bird Seed Mix 4kg,3.50,unit,88p,kg
 Sainsbury's Complete Nutrition Adult Dog Food with Chicken & Vegetables 2.5kg,2.50,unit,1.00,kg
-"Harringtons Dry Dog Food, Turkey & Vegetable 5kg",9.00,unit,1.80,kg
+Harringtons Dry Dog Food Turkey & Vegetable 5kg,9.00,unit,1.80,kg
 Felix As Good As It Looks Doubly Delicious Cat Food Ocean Recipes 12 X 100g,3.50,unit,2.92,kg
-"Oust Odour Eliminator, Clean Scent 300ml",1.75,unit,5.83,ltr
-"Sainsbury's Cat Treat Snack Pockets with Turkey, Beef & Duck 65g",80p,unit,12.31,kg
+Oust Odour Eliminator Clean Scent 300ml,1.75,unit,5.83,ltr
+Sainsbury's Cat Treat Snack Pockets with Turkey Beef & Duck 65g,80p,unit,12.31,kg
 Pedigree Dentastix Daily Adult 1+ Small Dog Treats Dental Chews x28 Sticks,5.00,unit,11.36,kg
 Sainsbury's Farmhouse Kitchen Adult Dog Smooth Pt With Beef & Vegetables 150g,45p,unit,3.00,kg
 Sainsbury's Adult Fine Flakes 1+ Adult Cat Food with Salmon in Jelly 100g,30p,unit,3.00,kg
+IAMS Vitality Vitality Adult Cat Chicken 2kg,8.00,unit,4.00,kg
 Bakers Meaty Meals Adult Small Dry Dog Food Beef 1kg,3.00,unit,3.00,kg
 Pedigree Tasty Minis Puppy 2-12 Months Dog Treats with Chicken 125g,1.00,unit,8.00,kg
 Sainsbury's Dog Biscuit Small Bones 800g,1.70,unit,2.13,kg
@@ -237,9 +238,9 @@ Go-Cat Senior Dry Cat Food Chicken Rice And Veg 825g,2.50,unit,3.03,kg
 Felix As Good As It Looks Kitten Cat Food Fish In Selection 12X100g,3.50,unit,2.92,kg
 Felix Goody Bag Cat Treats Picnic Mix 60g,90p,unit,15.00,kg
 Sainsbury's Complete Nutrition 1+ Adult Cat Food with Salmon in Jelly 400g,45p,unit,1.13,kg
-"Wagg Training Treats with Chicken, Beef & Lamb 125g",70p,unit,5.60,kg
-"Encore Dog Tin, Chicken Breast in Broth 156g",1.50,unit,9.62,kg
-"Thrive Cat Treats, 100% Chicken 27g",3.10,unit,124.00,kg
+Wagg Training Treats with Chicken Beef & Lamb 125g,70p,unit,5.60,kg
+Encore Dog Tin Chicken Breast in Broth 156g,1.50,unit,9.62,kg
+Thrive Cat Treats 100% Chicken 27g,3.10,unit,124.00,kg
 Sheba Classic Soups Wet Adult 1+ Cat Food Pouches with Chicken Fillets 4x40g,1.75,unit,10.94,kg
 Sainsbury's Dog Biscuit Milky Bones for Small Dogs 400g,1.40,unit,3.50,kg
 Felix Sensations Extras Cat Food Meaty 12 X 100g,3.75,unit,3.13,kg
@@ -249,10 +250,10 @@ Go-Cat Kitten Dry Cat Food Chicken Milk And Veg 825g,2.50,unit,3.03,kg
 Bakers Meaty Meals Adult Dry Dog Food Beef 2.7kg,6.80,unit,2.52,kg
 Purina One Senior 7+ Cat Food Chicken And Beef 8x85g,4.25,unit,6.25,kg
 Good Boy Pawsley & Co Large Chewy Braid Dog Treats 1 Pack,2.50,unit,27.78,kg
-"Encore Cat Pouches, Fish Selection in Jelly 5x50g",3.90,unit,15.60,kg
-"IAMS Vitality Adult Cat, Ocean Fish 800g",4.80,unit,6.00,kg
+Encore Cat Pouches Fish Selection in Jelly 5x50g,3.90,unit,15.60,kg
+IAMS Vitality Adult Cat Ocean Fish 800g,4.80,unit,6.00,kg
 Butcher's Recipes in Jelly Dog Food Tins 6x400g,3.85,unit,1.60,kg
-"Wagg Working Dog Complete Dry Dog Food, Chicken & Vegetables 16kg",10.75,unit,67p,kg
+Wagg Working Dog Complete Dry Dog Food Chicken & Vegetables 16kg,10.75,unit,67p,kg
 Purina One Light Dry Cat Food Chicken & Wheat 800g,5.50,unit,6.88,kg
 Felix As Good As It Looks Doubly Delicious Cat Food Country Recipes 12 X 100g,3.50,unit,2.92,kg
 Pedigree Dry Complete Adult 1+ Dog Food with Chicken 2.6kg,5.75,unit,2.21,kg
@@ -260,11 +261,11 @@ Purina One Adult Cat Food Chicken And Beef 8x85g,4.25,unit,6.25,kg
 Sainsbury's Wild Bird Sunflower Hearts 1kg,2.50,unit,2.50,kg
 Gourmet Soup Cat Food With Tuna And Shrimp 4X40g,2.00,unit,12.50,kg
 Gourmet Gold Melting Heart Cat Food Chicken 85g,45p,unit,5.29,kg
-"Classic Cat Cans, Variety 12x400g",6.00,unit,1.25,kg
+Classic Cat Cans Variety 12x400g,6.00,unit,1.25,kg
 Butcher's Recipes in Jelly Dog Food Tins 12x400g,7.25,unit,1.51,kg
 Purina One Adult Dry Cat Food Chicken 200g,1.60,unit,8.00,kg
-"Wagg Complete Dry Dog Food, Chicken & Vegetables 2kg",3.50,unit,1.75,kg
-"IAMS Vitality Small to Medium Adult Dry Dog Food, Chicken 2kg",7.00,unit,3.50,kg
+Wagg Complete Dry Dog Food Chicken & Vegetables 2kg,3.50,unit,1.75,kg
+IAMS Vitality Small to Medium Adult Dry Dog Food Chicken 2kg,7.00,unit,3.50,kg
 Lily's Kitchen Proper Food for Dogs Sunday Lunch 150g,95p,unit,6.33,kg
 Purina Dentalife Small Dog Dental Chew X 7 115g,1.30,unit,11.30,kg
 Butcher's Lean & Tasty Low Fat Dog Food Tins 6x400g,3.85,unit,1.60,kg
@@ -275,11 +276,10 @@ Sainsbury's Delicious Recipes 1+ Adult Cat Food Chicken Collection 6 x 85g,3.75,
 IAMS Small to Medium Adult Dry Dog Food 800g,2.50,unit,3.13,kg
 Lily's Kitchen Proper Food for Dogs Organic Chicken Supper with Carrots & Peas 150g,1.05,unit,7.00,kg
 RSPB Coconut Shell Suet Treats 290g,2.20,unit,2.20,ea
-"Harringtons Dry Dog Food, Lamb & Rice 5kg",9.00,unit,1.80,kg
+Harringtons Dry Dog Food Lamb & Rice 5kg,9.00,unit,1.80,kg
 Good Boy Pawsley & Co Mega Chewy Twist with Chicken Dog Treats 70g,2.00,unit,28.57,kg
 Good Boy Pawsley & Co Chewy Twists with Chicken Dog Treats 320g,7.50,unit,23.44,kg
 Wagg Low Fat Treats with Turkey & Rice 125g,70p,unit,5.60,kg
-"IAMS Vitality Senior & Mature Cat, Chicken 2kg",8.00,unit,4.00,kg
 Good Boy Pawsley & Co Hide Knotted Bone Dog Treats,1.55,unit,1.55,ea
 Encore Whole Tuna Loin Cat Treat 30g,1.60,unit,53.33,kg
 Butcher's Recipes in Gravy Dog Food Tins 6x400g,3.85,unit,1.60,kg
@@ -294,7 +294,7 @@ Felix Soup Mixed Variety Fish 6x48g,1.90,unit,6.60,kg
 Lily's Kitchen Proper Food for Dogs Chicken & Turkey Casserole 150g,95p,unit,6.33,kg
 Sainsbury's Cat Treat Snack Pockets with Cheese 65g,80p,unit,1.23,100g
 Sainsbury's Fresh Breath Dental Sticks for Medium Dogs x14 360g,1.60,unit,4.44,kg
-"Harringtons Dry Dog Food, Salmon & Potato 2kg",4.00,unit,2.00,kg
+Harringtons Dry Dog Food Salmon & Potato 2kg,4.00,unit,2.00,kg
 Purina One Coat And Hairball Dry Cat Food Chicken 800g,5.50,unit,6.88,kg
 Naturo Senior Turkey Rice & Vegetable 400g,1.10,unit,2.75,kg
 Purina One Adult Dry Cat Food Salmon And Wholegrain 3kg,12.00,unit,4.00,kg
@@ -337,7 +337,7 @@ Sheba Select Slices in Gravy Mixed Wet Adult 1+ Cat Food Tray Poultry 12x85g,4.0
 Good Boy Pawsley & Co Chicken Filled Bone Dog Treats,1.80,unit,12.00,kg
 Pedigree Schmackos Dog Treats Chews Meat Variety Sticks x20,1.75,unit,12.15,kg
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Tuna Whole Loin with Shrimp 70g,70p,unit,10.00,kg
-"Naturo Adult Dog, Lamb Vegetable & Rice 400g",1.10,unit,2.75,kg
+Naturo Adult Dog Lamb Vegetable & Rice 400g,1.10,unit,2.75,kg
 Lily's Kitchen Proper Food for Dogs Slow Cooked Lamb Hotpot 400g,2.30,unit,5.75,kg
 Sainsbury's Complete Nutrition 7+ Senior Cat Food with Chicken 1kg,1.15,unit,1.15,kg
 Pedigree Dentastix Fresh Adult 1+ Large Dog Treats Dental Chews x28 Sticks,7.50,unit,6.94,kg
@@ -346,13 +346,13 @@ Whiskas Dry Senior 7+ Cat Food Biscuits with Chicken 1.9kg,4.50,unit,2.37,kg
 Sainsbury's Complete Nutrition Adult Dog Food Loaf with Tripe Selection 6 x 400g,2.50,unit,1.04,kg
 Naturo Adult Dog Grain & Gluten Free 6 x 390g,5.25,unit,2.24,kg
 Petface No Mess Puppy Pads x14,6.30,unit,45p,ea
-"Naturo Adult Dog Grain & Gluten Free Chicken with Sweet Potato, Mixed Peppers & Green Beans 390g",1.00,unit,2.56,kg
+Naturo Adult Dog Grain & Gluten Free Chicken with Sweet Potato Mixed Peppers & Green Beans 390g,1.00,unit,2.56,kg
 Sainsbury's Wild Bird Peanuts 2kg,4.50,unit,2.25,kg
 Gourmet Gold Melting Heart Cat Food Beef 8x85g,3.00,unit,4.41,kg
 Purina One Urinary Care Dry Cat Food Chicken 800g,5.50,unit,6.88,kg
 Whiskas in Jelly Wet Super Senior 11+ Cat Food Pouches Fish 12x100g,3.00,unit,2.50,kg
-"Encore Cat Pot, Fish Selection in Broth 6x60g",5.50,unit,15.28,kg
-"IAMS Vitality Vitality Adult Cat, Ocean Fish 2kg",8.00,unit,4.00,kg
+Encore Cat Pot Fish Selection in Broth 6x60g,5.50,unit,15.28,kg
+IAMS Vitality Vitality Adult Cat Ocean Fish 2kg,8.00,unit,4.00,kg
 Harringtons Rich in Turkey with Veg Adult Dog Complete 2kg,4.00,unit,2.00,kg
 Sainsbury's Complete Nutrition Adult Dog Food with Lamb & Poultry in Gravy 400g,45p,unit,1.13,kg
 Sainsbury's Fresh Breath Dental Sticks for Large Dogs x14 540g,2.00,unit,3.70,kg
@@ -376,7 +376,7 @@ Sainsbury's Complete Nutrition Senior Dog Food Meat Selection in Gravy 6 x 400g,
 Pedigree Senior in Jelly 7+ Dog Food Pouches Mixed Selection 12x100g,4.15,unit,3.46,kg
 Purina One Senior 7+ Dry Cat Food Chicken 3kg,12.00,unit,4.00,kg
 Sainsbury's Complete Nutrition Puppy Food Meat Selection in Jelly 6 x 400g,2.50,unit,1.04,kg
-"Encore Cat Tins, Finest Selection in Broth 12x70g",11.00,unit,13.10,kg
+Encore Cat Tins Finest Selection in Broth 12x70g,11.00,unit,13.10,kg
 Sainsbury's Wild Bird Peanut Fat Feast 280g,1.10,unit,3.93,kg
 Sainsbury's Dog Grooming Wipes x15,2.15,unit,14p,ea
 Sainsbury's Complete Nutrition 7+ Senior Cat Food Fish Selection in Jelly 12 x 100g,2.25,unit,1.88,kg
@@ -398,19 +398,19 @@ Felix As Good As It Looks Doubly Delicious Cat Food Meaty 40x100g,11.50,unit,2.8
 Sainsbury's Complete Nutrition 1+ Adult Cat Food Meat Selection in Jelly 12 x 100g,2.25,unit,1.88,kg
 Sainsbury's Small Animal Rabbit Nuggets with Mint 2kg,2.50,unit,1.25,kg
 Sainsbury's Complete Nutrition Adult Dog Food Loaf with Tripe 400g,50p,unit,1.25,kg
-"Encore Cat Tins, Fish Selection in Broth 12x70g",11.00,unit,13.10,kg
+Encore Cat Tins Fish Selection in Broth 12x70g,11.00,unit,13.10,kg
 Sainsbury's Complete Nutrition 1+ Adult Cat Food Adult Meat Selection in Jelly 6 x 400g,2.60,unit,1.08,kg
-"Aquarian Goldfish Food, Flakes 50g",3.50,unit,70.00,kg
+Aquarian Goldfish Food Flakes 50g,3.50,unit,70.00,kg
 Cesar Country Kitchen Gravy Wet Adult 1+ Dog Food Tray Mixed 4x150g,3.15,unit,5.25,kg
 Butcher's Lean & Tasty Low Fat Dog Food Trays 12x150g,5.75,unit,3.19,kg
 Winalot Perfect Portions Dog Food Mixed In Gravy 24X100g,5.50,unit,2.29,kg
-"Sainsbury's Festive Cat Treats with Chicken, Duck and Cranberries 65g",80p,unit,12.31,kg
+Sainsbury's Festive Cat Treats with Chicken Duck and Cranberries 65g,80p,unit,12.31,kg
 Tetra Pond Fish Food Sticks 100g,2.75,unit,27.50,kg
 Butcher's Tripe Dog Food Tins 6x400g,3.85,unit,1.60,kg
 Lily's Kitchen Adult Classic Chicken Wet Complete Cat Food 85g,70p,unit,8.23,kg
 Pedigree Dentastix Low Fat Small & Medium Dog Dental Treat Chew x1 40g,1.25,unit,31.25,kg
-"Harringtons Small Dog Dry Dog Food, Lamb & Rice 1.75kg",3.75,unit,2.14,kg
-"IAMS Delights Senior & Mature Cat, Chicken 12x85g",4.90,unit,4.80,kg
+Harringtons Small Dog Dry Dog Food Lamb & Rice 1.75kg,3.75,unit,2.14,kg
+IAMS Delights Senior & Mature Cat Chicken 12x85g,4.90,unit,4.80,kg
 Good Boy Pawsley & Co Chewy Chicken Strips Dog Treats 100g,2.50,unit,25.00,kg
 Good Boy Pawsley & Co Pigs Ears Dog Treats 10 Pieces,7.00,unit,7.00,ea
 Dreamies Mega Pack Adult 1+ Cat Treat with Chicken 350g,4.50,unit,12.86,kg
@@ -418,7 +418,7 @@ Sainsbury's Complete Nutrition 1+ Adult Cat Food with Trout 2kg,2.00,unit,1.00,k
 Bakers Adult Dry Dog Food Beef And Veg 12kg,21.50,unit,1.79,kg
 Sainsbury's Complete Nutrition Senior Dog Food with Chicken & Rice 2.5kg,2.50,unit,1.00,kg
 Forthglade Adult 1 Yr+ Duck with Potato & Vegetables Complete Meal 395g,1.30,unit,3.29,kg
-"Encore Dog Tins, Chicken Selection in Broth 5x156g",7.00,unit,8.97,kg
+Encore Dog Tins Chicken Selection in Broth 5x156g,7.00,unit,8.97,kg
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Chicken Breast 70g,70p,unit,10.00,kg
 Perfect Fit Dry Adult 1+ Advanced Nutrition Dry Cat Food with Chicken 750g,4.00,unit,5.33,kg
 Petface Cat Litter Scoop,1.00,unit,1.00,ea
@@ -429,21 +429,20 @@ Dreamies Cat Treats Biscuits with Cheese Mega Pack 200g,2.75,unit,13.75,kg
 Sainsbury's Farmhouse Kitchen Senior Dog Food Pt 6 x 150g,2.30,unit,2.56,kg
 Lily's Kitchen Adult Hunter's Hotpot Wet Complete Cat Food 85g,70p,unit,8.23,kg
 Purina Dentalife For Cats Chicken 40g,1.25,unit,31.25,kg
-"IAMS  Vitality Adult Cat Food, Lamb 2kg",8.00,unit,4.00,kg
 Sainsbury's Complete Nutrition Kitten Food with Chicken 1kg,1.15,unit,1.15,kg
-"Encore Cat Tins, Chicken Selection in Brothh 12x70g",11.00,unit,13.10,kg
+Encore Cat Tins Chicken Selection in Brothh 12x70g,11.00,unit,13.10,kg
 Whiskas Dry Kitten 2-12 Months Cat Food Biscuits with Chicken 825g,3.00,unit,3.64,kg
 Purina Dentalife Large Dog Dental Chew X 4 142g,1.30,unit,9.15,kg
 Sainsbury's Farmhouse Kitchen Puppy Food Pt with Chicken and Turkey 150g,45p,unit,3.00,kg
 Go-Cat Adult Dry Cat Food Chicken And Duck 4kg,7.50,unit,1.88,kg
 Sainsbury's Complete Nutrition Adult Small Dry Dog Food with Chicken & Vegetables 2.5kg,2.50,unit,1.00,kg
 Price's Chef's Candle Jar,5.00,unit,5.00,ea
-"IAMS Naturally Cat, Land & Sea Selection In Gravy 12x85g",4.50,unit,4.41,kg
+IAMS Naturally Cat Land & Sea Selection In Gravy 12x85g,4.50,unit,4.41,kg
 Bakers Small Dry Dog Food Beef and Veg 2.85kg,6.60,unit,2.32,kg
 Bakers Home Classics Pouches Dog Food Mixed Flavours 10x100g,3.75,unit,3.75,kg
 Misfits Twistos Dog Treats Chews with Beef 105g,1.00,unit,9.52,kg
 Felix Kitten Cat Food Mixed Selection In Jelly 12X100g,3.00,unit,2.50,kg
-"Encore Dog Tins, Finest Selection in Broth 5x156g",7.00,unit,8.97,kg
+Encore Dog Tins Finest Selection in Broth 5x156g,7.00,unit,8.97,kg
 IAMS Small to Medium Puppy & Junior Dry Dog Food 2kg,7.00,unit,3.50,kg
 Gourmet Mon Petit Cat Food With Chicken And Turkey 12X50g,3.00,unit,5.00,kg
 HiLife FEED ME! Complete Nutrition with Turkey & Chicken Flavoured with Bacon & Vegetables 2kg,5.00,unit,2.50,kg
@@ -451,7 +450,7 @@ Sainsbury's Hypoallergenic Recipe Adult Dog Terrine with Fresh Lamb & Vegetables
 Pedigree Dentastix Advanced Low Fat Small Dog Treats Dental Chew 40g,1.50,unit,18.75,kg
 Vet's Kitchen Little Stars Smart+ Treats Chicken 85g,1.50,unit,17.65,kg
 Purina Dentalife Salmon 40g,1.25,unit,31.25,kg
-"Encore Dry Cat Food, Chicken 800g",5.85,unit,7.31,kg
+Encore Dry Cat Food Chicken 800g,5.85,unit,7.31,kg
 Dreamies Cat Treats Biscuits with Tuna Mega Pack 200g,2.75,unit,13.75,kg
 Felix As Good As It Looks Gravy Lover Fish Selection in Even More Gravy 12x100g,3.50,unit,2.92,kg
 Sainsbury's Complete Nutrition Adult Dog Food Meat Selection in Gravy 12 x 100g,2.40,unit,2.00,kg
@@ -462,17 +461,17 @@ Winalot Perfect Portions Dog Food Mixed In Jelly 24X100g,5.50,unit,2.29,kg
 Pedigree Dentastix Fresh Adult 1+ Small Dog Treats Dental Chews x28 Sticks,6.50,unit,14.77,kg
 Good Boy Pawsley & Co Chewy Lamb Strips Dog Treats 80g,2.00,unit,25.00,kg
 Forthglade Adult 1 Yr+ Salmon with Potato & Vegetables Complete Meal 395g,1.30,unit,3.29,kg
-"Encore Dog Pouch, Finest Selection in Jelly 5x100g",5.25,unit,10.50,kg
+Encore Dog Pouch Finest Selection in Jelly 5x100g,5.25,unit,10.50,kg
 Sainsbury's Complete Nutrition Puppy Food with Chicken & Rice 2.5kg,2.50,unit,1.00,kg
 Winalot Perfect Portions Dog Food Mixed In Jelly 12X100g,3.00,unit,2.50,kg
 Pedigree Tasty Minis Dog Treats Chewy Cubes with Chicken & Duck 130g,1.00,unit,7.69,kg
 Dreamies Mega Pack Cheese Adult 1+ Cat Treat 350g,4.50,unit,12.86,kg
-"Encore Dog Trays, Pt Fresh Selection 5x150g",4.40,unit,5.87,kg
+Encore Dog Trays Pt Fresh Selection 5x150g,4.40,unit,5.87,kg
 Bakers Meaty Meals Adult Dry Dog Food Chicken 2.7kg,6.80,unit,2.52,kg
 Bakers Senior Dry Dog Food Chicken and Veg 2.85kg,6.60,unit,2.32,kg
 Burgess Excel Rabbit Nuggets 1.5kg,3.50,unit,2.33,kg
-"Encore Cat Pouches, Finest Selection in Broth 10x70g",9.00,unit,12.86,kg
-"Pedigree Senior Complete Dry Dog Food with Chicken, Rice & Vegetables 2.5kg",5.75,unit,2.30,kg
+Encore Cat Pouches Finest Selection in Broth 10x70g,9.00,unit,12.86,kg
+Pedigree Senior Complete Dry Dog Food with Chicken Rice & Vegetables 2.5kg,5.75,unit,2.30,kg
 Felix Agail Gravy Lover Country 12x100g,3.50,unit,2.92,kg
 Sainsbury's Adult Fine Flakes 1+ Adult Cat Food Meat & Fish Selection in Jelly 6 x 100g,1.50,unit,2.50,kg
 Good Boy Real Meat Dog Stocking,5.00,unit,5.00,ea
@@ -480,9 +479,9 @@ Perfect Fit Dry Adult 1+ Advanced Nutrition Dry Cat Food with Salmon 750g,4.00,u
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Fish Collection 12 x 85g,7.20,unit,7.06,kg
 Dreamies Cat Treats Biscuits with Turkey 60g,95p,unit,15.83,kg
 Webbox Premium Natural Mixed Fish & Meat Selection in Jelly 12 x 100g,4.00,unit,3.33,kg
-"Harringtons Dry Dog Food, Turkey & Vegetable 15kg",24.00,unit,1.60,kg
+Harringtons Dry Dog Food Turkey & Vegetable 15kg,24.00,unit,1.60,kg
 Bakers Dry Dog Food Beef and Veg 3kg,6.60,unit,2.20,kg
-"Encore Cat Pouches, Fish Selection in Broth 10x70g",9.00,unit,12.86,kg
+Encore Cat Pouches Fish Selection in Broth 10x70g,9.00,unit,12.86,kg
 Naturo Adult Dog Lamb & Rice with Vegetables 150g,80p,unit,5.33,kg
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Sardine and Tuna 70g,70p,unit,10.00,kg
 Webbox Premium Natural Meat Selection in Gravy 12 x 100g,4.00,unit,3.33,kg
@@ -493,12 +492,12 @@ Lily's Kitchen Proper Food for Dogs Complete Nutrition Adult Chicken and Duck 1k
 Butcher's Tripe Recipes in Jelly 6x400g,3.80,unit,1.58,kg
 Pedigree Jumbone Medium Dog Treat with Beef & Poultry Chews x2 180g,1.25,unit,6.94,kg
 Felix Cat Food Fish Selection In Jelly 40 X 100g,9.90,unit,2.48,kg
-"Aquarian Tropical Fish Food, Flakes 50g",4.50,unit,90.00,kg
+Aquarian Tropical Fish Food Flakes 50g,4.50,unit,90.00,kg
 Sainsbury's Complete Nutrition Adult Dry Dog Food Weight Control with Turkey & Rice 2.5kg,2.50,unit,1.00,kg
-"Encore Dry Cat Food, Chicken with Salmon 800g",5.85,unit,7.31,kg
+Encore Dry Cat Food Chicken with Salmon 800g,5.85,unit,7.31,kg
 Purina One Dualnature Dry Cat Food Chicken 750g,5.50,unit,7.33,kg
 Go-Cat Crunchy & Tender Senior Dry Cat Food Chicken 800g,2.50,unit,3.13,kg
-"Encore Cat Pots, Finest Selection in Broth 10x60g",8.00,unit,13.33,kg
+Encore Cat Pots Finest Selection in Broth 10x60g,8.00,unit,13.33,kg
 Burgess Excel Guinea Pig Nuggets 1.5kg,4.00,unit,2.67,kg
 Pedigree Schmackos Dog Treats Chews with Poultry Sticks x20,1.75,unit,12.15,kg
 Sainsbury's Adult Fine Flakes 1+ Adult  Cat Food Selection in Broth 12 x 100g,2.75,unit,2.29,kg
@@ -507,17 +506,17 @@ Go-Cat Crunchy And Tender Kitten Dry Cat Food Chicken 800g,2.50,unit,3.13,kg
 Good Boy Pawsley & Co Chewy Chicken Variety Pack Dog Treats 320g,7.50,unit,23.44,kg
 Sainsbury's Delicious Recipes 1+ Adult Cat Food Ocean Fish 70g,70p,unit,10.00,kg
 Forthglade Adult 1Yr+ Chicken with Butternut Squash & Vegetables 4 x 150g,2.75,unit,4.58,kg
-"Encore Dog Tins, Beef Selection in Gravy 5x156g",7.00,unit,8.97,kg
-"Bob Martin Spot On Flea & Tick 24 Week Protection, For Cats & Kittens 12+ Weeks",9.00,unit,1.50,ea
+Encore Dog Tins Beef Selection in Gravy 5x156g,7.00,unit,8.97,kg
+Bob Martin Spot On Flea & Tick 24 Week Protection For Cats & Kittens 12+ Weeks,9.00,unit,1.50,ea
 Sainsbury's Adult Hypoallergenic Recipe Complete Dry with Fresh Salmon 1+ Adult 800g,3.00,unit,3.75,kg
 Sainsbury's Complete Nutrition Senior Dog Food Meat Selection in Gravy 12 x 100g,2.40,unit,2.00,kg
 HiLife It's Only Natural The Jelly Selection 5 x 100g (500g),4.75,unit,9.50,kg
 Gourmet Gold Pate 7+ Years 8x85g (680g),3.00,unit,4.41,kg
-"Bob Martin Flea Tablets, Cats & Dogs Under 11kg x3",6.00,unit,2.00,ea
+Bob Martin Flea Tablets Cats & Dogs Under 11kg x3,6.00,unit,2.00,ea
 Bakers Small Dry Dog Food Beef and Veg 1.1kg,3.00,unit,2.73,kg
 Petface Cat Bowl,1.20,unit,1.20,ea
 Sainsbury's Complete Nutrition Puppy Food Meat Selection in Gravy 12 x 100g,2.40,unit,2.00,kg
-"Petface Cat Litter Tray, Small",5.35,unit,5.35,ea
+Petface Cat Litter Tray Small,5.35,unit,5.35,ea
 Pedigree Jumbone Small Dog Treats with Beef & Poultry Mini Chews  x4 160g,1.25,unit,7.81,kg
 Felight Ultimate Performance Cat Litter Unscented 10L,5.50,unit,55p,ltr
 Bakers Home Classics Dog Food Mixed Flavours 10x100g,3.75,unit,3.75,kg
@@ -535,7 +534,7 @@ Sainsbury's 2in1 Gentle Shampoo & Conditioner for Dogs Mixed Coats 500ml,3.00,un
 Gourmet Gold Gravy Collection Chunks In Gravy 8x85g (680g),3.00,unit,4.41,kg
 Vet's Kitchen Little Hearts Crunchy Chicken and Duck Treats 60g,1.00,unit,16.67,kg
 Vet's Kitchen Adult 1+ Years Chicken & Brown Rice 3kg,12.00,unit,4.00,kg
-"Bob Martin Spot On Dewormer, Cats & Kittens x4",9.00,unit,2.25,ea
+Bob Martin Spot On Dewormer Cats & Kittens x4,9.00,unit,2.25,ea
 Sainsbury's Complete Nutrition Adult Dog Food Meat Selection in Gravy 48 x 100g,8.00,unit,1.67,kg
 Pedigree Jumbone Small Dog Treats with Chicken & Lamb Mini Chews x4 160g,1.25,unit,7.81,kg
 Sainsbury's Adult Fine Flakes 1+ Adult Cat Food Fish Selection in Jelly 12 x 100g,2.75,unit,2.29,kg
@@ -552,10 +551,10 @@ Bakers Puppy Dry Dog Food Chicken and Veg 1.1kg,3.00,unit,2.73,kg
 Felix Play Tubes Turkey & Ham 50g,1.25,unit,25.00,kg
 Sainsbury's Dog Biscuits 500g,5.00,unit,10.00,kg
 Bob Martin Cats & Kittens Flea Repel Collar,4.00,unit,4.00,ea
-"Vet's Kitchen Little Hearts Chicken & Duck, Hunter's Game, Salmon & Trout 60g",1.00,unit,16.67,kg
+Vet's Kitchen Little Hearts Chicken & Duck Hunter's Game Salmon & Trout 60g,1.00,unit,16.67,kg
 Vet's Kitchen Little Hearts Finest Salmon and Trout Treats 60g,1.00,unit,16.67,kg
 Aquarian Fish Food Feeding Block 28g,3.00,unit,10.71,100g
-"IAMS Naturally Cat, Salmon & Rice 700g",3.50,unit,5.00,kg
+IAMS Naturally Cat Salmon & Rice 700g,3.50,unit,5.00,kg
 Sainsbury's Adult Fine Flakes  7+ Senior Cat Food Meat & Fish Selection in Jelly 12 x 100g,2.75,unit,2.29,kg
 Pooch & Mutt Health Food for Dogs Senior Complete Chicken & Superfoods for Dogs Aged 7+ 1kg,3.50,unit,3.50,kg
 Pooch & Mutt Small Dog Complete Mini Bites Chicken & Superfood Blend for Dogs 1kg,3.50,unit,3.50,kg
@@ -577,11 +576,11 @@ Gourmet Nature's Creations Ocean Fish 85g,60p,unit,7.06,kg
 Bob Martin 2 in 1 Dewormer Tablets x2,6.25,unit,3.13,tblt
 Felix Play Tubes Chicken & Liver 50g,1.25,unit,25.00,kg
 IAMS for Vitality Senior Cat Food With Ocean Fish 2kg,8.00,unit,4.00,kg
-"Sainsbury's Small Animal Hamster, Gerbil & Mouse Nuggets 1kg",1.50,unit,1.50,kg
+Sainsbury's Small Animal Hamster Gerbil & Mouse Nuggets 1kg,1.50,unit,1.50,kg
 Sainsbury's 2in1 Sensitive Shampoo & Conditioner for Dogs Fragrance Free 500ml,3.00,unit,60p,100ml
 Gourmet Nature's Creations Chicken 85g,60p,unit,7.06,kg
 Lily's Kitchen Proper Food For Dogs Complete Nutrition Adult 8+ Salmon & Trout 1kg,6.20,unit,6.20,kg
-"IAMS Naturally Cat, Lamb & Rice 700g",3.50,unit,5.00,kg
+IAMS Naturally Cat Lamb & Rice 700g,3.50,unit,5.00,kg
 Vet's Kitchen Adult Sensitive Grain-Free Pork & Potato 2.2kg,12.50,unit,5.68,kg
 Bakers Christmas Edition 386g,4.00,unit,10.47,kg
 Lily's Kitchen The Best Ever Beef Mini Burgers Dog Treats 70g,2.00,unit,28.57,kg
@@ -589,7 +588,7 @@ Petface Rat Attack,2.75,unit,2.75,ea
 Good Boy Pawsley & Co Chewy Chicken with Carrot Sticks Dog Treats 90g,2.25,unit,25.00,kg
 IAMS Vitality ProActive Health Dog Food for Overweight Dogs for All Breeds 2kg,7.00,unit,3.50,kg
 Bakers Dry Dog Food Chicken and Veg 3kg,6.60,unit,2.20,kg
-"Harringtons Dry Dog Food, Lamb & Rice 15kg",24.00,unit,1.60,kg
+Harringtons Dry Dog Food Lamb & Rice 15kg,24.00,unit,1.60,kg
 Crave Grain Free Dry Turkey & Chicken Dry Natural Dog Food 1kg,5.00,unit,5.00,kg
 Lily's Kitchen Chomp-Away Chicken Bites Dog Treats 70g,2.00,unit,28.57,kg
 Pedigree Tasty Minis Dog Treats Chewy Slices with Beef & Poultry 155g,1.00,unit,6.45,kg
@@ -611,7 +610,7 @@ Felix Tasty Shreds Meat In Gravy 12x80g,4.00,unit,4.17,kg
 HiLife It's Only Natural The Sauce Assortment 5 x 100g (500g),4.75,unit,9.50,kg
 Pedigree Biscrok Adult Dog Treat Biscuits Original 500g,2.50,unit,5.00,kg
 Forthglade 2 Months+ Cold Pressed Chicken with Vegetables 1kg,5.50,unit,5.50,kg
-"IAMS Vitality Dry Cat Food for Senior Cats with Ocean Fish, 800g",4.80,unit,6.00,kg
+IAMS Vitality Dry Cat Food for Senior Cats with Ocean Fish 800g,4.80,unit,6.00,kg
 Pooch & Mutt Turkey & Chicken 375g,1.25,unit,3.34,kg
 IAMS ProActive Health Dog Food with Chicken for Large Breeds 2kg,7.00,unit,3.50,kg
 Sainsbury's Festive Mince Pies For Dogs x2 68g,2.50,unit,1.25,ea
@@ -633,14 +632,14 @@ IAMS Vitality Adult Cat Food With Fresh Chicken 800g,4.80,unit,6.00,kg
 Good Boy Beef Wellington Dog Treats 70g,2.50,unit,35.72,kg
 Good Boy Pawsley & Co. Chewy Chicken with Sweet Potato Sticks 90g,2.00,unit,22.22,kg
 Harringtons Adult Cat Salmon 800g,1.62,unit,2.02,kg
-"Petface Flared Ceramic Cat Bowl, Red Hearts",4.35,unit,4.35,ea
+Petface Flared Ceramic Cat Bowl Red Hearts,4.35,unit,4.35,ea
 HiLife Chicken Breast Treats 10g,1.00,unit,100.00,kg
 Burgess Excel Gnaw Sticks 90g,2.00,unit,22.22,kg
 Meowee! Meaty Stocking 75g,4.00,unit,4.00,ea
 Pedigree Schmackos Dog Treats Chews Meat Variety Sticks x110,6.50,unit,8.23,kg
 Good Boy Xmas Crinkles Dog Treats 60g,2.50,unit,41.67,kg
 Lily's Kitchen Woofbrush Medium Natural Dental Dog Chew x7 196g,5.50,unit,28.06,kg
-"Forthglade Complete Meal Adult 1Yr+, 6x395g",6.00,unit,2.53,kg
+Forthglade Complete Meal Adult 1Yr+ 6x395g,6.00,unit,2.53,kg
 Good Boy Pawsley & Co Mega Chewy Twist with Duck Dog Treats 70g,2.00,unit,28.57,kg
 Crave Grain Free Dry Protein Chunks Dog Treat Natural Chicken 55g,2.00,unit,36.36,kg
 Crave Grain Free Dry Natural Cat Food Kibble with Turkey & Chicken 750g,5.00,unit,6.67,kg
@@ -672,9 +671,9 @@ Denzel's Nut Butter Dog Chew 55g,2.50,unit,45.45,kg
 Good Boy Pawsley & Co Tender Duck Fillets Dog Treats 320g,7.50,unit,23.44,kg
 Petface Little Freddi & Lulu Cord Toys,4.00,unit,4.00,ea
 Dentalife Sticks Small Dog Chews x30 490g,4.30,unit,8.78,kg
-"Encore Cat Pouches, Chicken Selection in Broth 5x50g",3.90,unit,15.60,kg
-"Encore Cat Pouches, Fish Selection in Broth 5x50g",3.90,unit,15.60,kg
-"Petface Scoop Bowl, Small",2.70,unit,2.70,ea
+Encore Cat Pouches Chicken Selection in Broth 5x50g,3.90,unit,15.60,kg
+Encore Cat Pouches Fish Selection in Broth 5x50g,3.90,unit,15.60,kg
+Petface Scoop Bowl Small,2.70,unit,2.70,ea
 Sainsbury's Joint Aid Sticks For Dogs x14 350g,4.00,unit,11.43,kg
 Thrive PremiumPlus Grain-Free Cat Food Chicken 1.5kg,10.30,unit,6.87,kg
 Beyond Simply Dry Cat Food Rich In Salmon 850g,6.00,unit,7.06,kg
@@ -684,12 +683,12 @@ Crave Grain Free Dry Protein Chew Dog Treat Natural Beef Liver 110g,3.00,unit,27
 Vax Steam Detergent Pet 1L,10.00,unit,10.00,ea
 Beaphar Toothbrush & Toothpaste,5.00,unit,5.00,ea
 Natures Menu Country Hunter 80% Farm Reared Turkey with Superfoods 400g,2.30,unit,5.75,kg
-"Encore Cat Tins, Fish Selection in Broth 4x70g",3.90,unit,13.93,kg
+Encore Cat Tins Fish Selection in Broth 4x70g,3.90,unit,13.93,kg
 Natures Menu Country Hunter 80% Pheasant & Goose with Superfoods 400g,2.30,unit,5.75,kg
 Pedigree Good Chew Adult 1+ Low Fat Medium Dog Treat Beef 88g,2.50,unit,28.41,kg
 Vet's Kitchen 80% Chicken 2 Weeks Complete Natural Cat Food 770g,7.00,unit,9.09,kg
 Natures Menu Country Hunter 80% Wild Venison with Superfoods 400g,2.30,unit,5.75,kg
-"Encore Cat Tins, Chicken Selection in Broth 4x70g",3.90,unit,13.93,kg
+Encore Cat Tins Chicken Selection in Broth 4x70g,3.90,unit,13.93,kg
 Lily's Kitchen Proper Food for Cats Everyday Favourites Pat 8x85g,6.00,unit,8.82,kg
 Pooch & Mutt Chicken Pumpkin & Pea x6,10.50,unit,4.67,kg
 Harringtons Rich in Salmon with Sweet Potato & Veg 2kg,6.50,unit,3.25,kg
@@ -703,7 +702,7 @@ Edgard & Cooper Grain Free Dry Food for Adult Dogs with Free-Run Chicken 0.7kg,4
 Harringtons Adult Cat Chicken 2kg,6.00,unit,3.00,kg
 Thrive PremiumPlus Grain-Free Cat Food Salmon & Herring 1.5kg,10.30,unit,6.87,kg
 Good Earth Bold English Breakfast Tea Bags x15,2.00,unit,4.88,100g
-"Forthglade Cold Pressed Chicken with Vegetables 2Months+, 2.5kg",10.00,unit,4.00,kg
+Forthglade Cold Pressed Chicken with Vegetables 2Months+ 2.5kg,10.00,unit,4.00,kg
 Bob Martin Clear Plus Spot-On Solution Medium Dogs 134mg,10.00,unit,10.00,ea
 Bob Martin Clear 3 in 1 Wormer 150/144/5mg Tablets for Dogs 2 Tablets,7.00,unit,3.50,ea
 Aquarian Tap Water Safe 118ml,2.50,unit,2.12,100ml
@@ -711,8 +710,8 @@ Sainsbury's Home Pet Bowl Small,4.00,unit,4.00,ea
 Sainsbury's Home Pet Hair Brush,3.00,unit,3.00,ea
 Vet's Kitchen Adult Cat Fresh Salmon 770g,7.00,unit,9.09,kg
 IAMS Adult Cat Food With Salmon 800g,4.80,unit,6.00,kg
-"Edgard & Cooper Hypoallergenic, Grain Free Dry Food for Adult Dogs with Fresh Salmon 0.7kg",4.45,unit,6.36,kg
-"Edgard & Cooper Hypoallergenic, Grain Free Dry Food for Adult Dogs with Venison & Free-Run Duck 0.7kg",4.45,unit,6.36,kg
+Edgard & Cooper Hypoallergenic Grain Free Dry Food for Adult Dogs with Fresh Salmon 0.7kg,4.45,unit,6.36,kg
+Edgard & Cooper Hypoallergenic Grain Free Dry Food for Adult Dogs with Venison & Free-Run Duck 0.7kg,4.45,unit,6.36,kg
 Petface Super Tennis Balls Dog Toys x3 6cm,3.00,unit,1.00,ea
 Petface Squeaky Doggy Bone Dog Toy,4.00,unit,4.00,ea
 Meowing Heads Paw Lickin' Chicken Complete Cat Food Adult 450g,4.00,unit,8.89,kg
@@ -762,7 +761,7 @@ Petface Plush Snake Dog Toy Large,10.00,unit,10.00,ea
 Petface Walk Me Cherry/White Dots Dog Lead Medium,5.00,unit,5.00,ea
 Petface Walk Me Cherry/White Dots Dog Collar Medium,4.50,unit,4.50,ea
 Petface Large Latex Chicken Dog Toy with Squeaker,6.00,unit,6.00,ea
-"Purr & Miaow Grainfree Salmon and Herring with Apple, Cranberry and Blueberry Food 1.5kg",9.50,unit,6.33,kg
+Purr & Miaow Grainfree Salmon and Herring with Apple Cranberry and Blueberry Food 1.5kg,9.50,unit,6.33,kg
 Petface Furry Carrot Dog Toy,4.00,unit,4.00,ea
 Petface Walk Me Cherry/White Dots Dog Collar Small,4.00,unit,4.00,ea
 Petface Toyz Nylon Treat Bone Refill x3 12cm,3.00,unit,3.00,ea

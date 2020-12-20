@@ -85,11 +85,11 @@ def updatefile(searchall, cat):
         # Update required csv files
         if (searchall == True and cat == 0):    # Checks if all searchall csv files need to be updated
             # Get user confirmation again
-            confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
+            confirm = input("This might take a long while (10-20min). Do you wish to proceed? (Y/N): ")
 
             if (confirm.lower() == 'y'):
                 print("All csv files are updating...")
-                start_time = time.time()    # Time duration to update file, Takes 600-900 seconds to update all files
+                start_time = time.time()    # Time duration to update file, Takes 600-1200 seconds to update all files
                 update = updatecsvFiles(searchall, cat)
 
             else:
