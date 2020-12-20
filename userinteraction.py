@@ -74,9 +74,9 @@ def updatefile(searchall, cat):
     else:
         print("No csv files will be updated.")
 
-# Check if csv files are older than 1 week, prompt user to update if true
-def oldcsv(categories, fileNames, cat):
+# Check if csv files are older than n days (default 2 days), prompt user to update if true
+def oldcsv(categories, fileNames, cat, days = 2):
     today = date.today()
     lastModDate = lastMod(categories, fileNames, cat)
     dateDiff = today - lastModDate
-    return (dateDiff > timedelta(7))
+    return (dateDiff >= timedelta(days))

@@ -23,8 +23,8 @@ cat = searchCat(categories)
 # start_time = time.time()
 # print("---- %s seconds ----" % (time.time()-start_time))
 
-# Checks if csv file is old, update if required
-if (oldcsv == True):
+# Checks if csv file is older than ## days, update if required
+if (oldcsv(categories, fileNames, cat, 0) == True): # 0 days: last updated today 
     updatefile(searchall, cat)
 else:
     pass
