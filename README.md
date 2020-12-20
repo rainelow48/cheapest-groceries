@@ -54,7 +54,7 @@ Your selection (0-14): 0
 3. When prompted to update csv files, select 'Y': 
 `Do you wish to update csv files? (Y/N): y`
 4. When prompted for confirmation, select 'Y': 
-`This might take a long while (10-15min). Do you wish to proceed? (Y/N): y`
+`This might take a long while (10-20min). Do you wish to proceed? (Y/N): y`
 
 This process will take about 10-20min.
 ```
