@@ -33,6 +33,7 @@ Run on command prompt `C:\Users\...>python main.py` or on your IDE
 This process will take about 10-20min
   <li>When all files are updated, search anything you want (or just hit enter)</li>
 </ol>
+
 #### Get essential items from Sainsbury's website
 In main.py, change `searchAll = True` to `searchAll = False` and repeat steps 1-3 above. This will take less than a minute.
 
@@ -40,11 +41,11 @@ In main.py, change `searchAll = True` to `searchAll = False` and repeat steps 1-
 Under main.py, you can customize the following:
   <ul>
     <li>Search domain</li>
-    Set your search domain to Sainsbury's Essentials items or Sainsbury's All items [OR] Get prompted to choose your search domain using searchDomain() function
+Set your search domain to Sainsbury's Essentials items or Sainsbury's All items [OR] Get prompted to choose your search domain using searchDomain() function
     <li>Update csv</li>
-    Set a limit on how old your csv files can be [OR] Get prompted to update your csv files if they are too old
+Set a limit on how old your csv files can be [OR] Get prompted to update your csv files if they are too old
     <li>Length of result</li>
-    Set your desired length of result to print
+Set your desired length of result to print
 
 
 ### 4. Start searching!
