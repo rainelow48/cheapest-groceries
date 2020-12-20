@@ -10,7 +10,7 @@ import csv
 import os
 from datetime import date, timedelta
 
-# Function to set variables (category, filenames, mainurl, urlParams)
+# Set variables (category, filenames, mainurl, urlParams)
 def setVar(searchall):
     if (searchall == True):
         categories = allcategories
@@ -24,7 +24,7 @@ def setVar(searchall):
         urlParams = essurlParams
     return categories, fileNames, mainurl, urlParams
 
-# Function to return file's last modified date
+# Return file's last modified date
 def lastMod(categories, fileNames, cat):
     if (cat == 0):
         modDate = date.today()
@@ -38,11 +38,13 @@ def lastMod(categories, fileNames, cat):
     else:
         catName = categories[cat]
         filename = os.getcwd() + '\\csv files\\' + fileNames[catName] + '.csv'
-        modDate = date.fromtimestamp(os.path.getmtime(filename))
-
+        try:
+            modDate = date.fromtimestamp(os.path.getmtime(filename))
+        except:
+            modDate = date.today()
     return modDate
 
-# Function to check if folder does not exists, else makes folder
+# Check if folder does not exists, else makes folder
 def folderExist(directory, folder):
     if not os.path.exists(directory + folder):
         os.makedirs(directory + folder)
@@ -61,7 +63,12 @@ def updateSuccessful(searchall, cat):
         fileName = fileNames[catName]+'.csv'
         print(fileName, 'has been updated successfully.')
 
-# Function to update essential csv for category of choice, update all by default
+# Format text (get rids of empty space, non-ascii character and comma)
+def formatText(text):
+    newText = text.strip().encode('ascii', 'ignore').decode().replace(',', '')
+    return newText
+
+# Update essential csv for category of choice, update all by default
 def updatecsvFiles(searchall, cat):
 
     # Set variables
@@ -112,20 +119,20 @@ def updatecsvFiles(searchall, cat):
 
                 try:
                     # Obtain name of item, remove non ASCII characters
-                    name = griditem.h3.a.text.strip().encode('ascii', 'ignore').decode()
+                    name = formatText(griditem.h3.a.text)
 
                     # Obtain price details of item
                     price = griditem.find('div', class_='pricing')
                     
                     # Find price per unit, remove non ASCII characters
-                    ppu = price.find('p', class_='pricePerUnit').text.strip().encode('ascii', 'ignore').decode()
+                    ppu = formatText(price.find('p', class_='pricePerUnit').text)
                     
                     # Split into price and unit
                     ppusplit = ppu.split('/')
                     
                     # Find price per measure, remove non ASCII characters
-                    ppm = price.find('p', class_='pricePerMeasure').text.strip().encode('ascii', 'ignore').decode()
-                    
+                    ppm = formatText(price.find('p', class_='pricePerMeasure').text)
+
                     # Split into price and measure
                     ppmsplit = ppm.split('/')
                     
