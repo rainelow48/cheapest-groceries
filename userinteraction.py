@@ -3,11 +3,42 @@ from sainsvar import esscategories, essfileNames
 from sainsvar import allcategories, allfileNames
 
 # Import required functions
-from checkvalidinput import invalidInt, validInput
 from updatecsv import updatecsvFiles, updateSuccessful, lastMod
 
 # Import required libraries
 from datetime import date, timedelta
+import time
+
+# Checks if userInput is invalid(not an integer), returns True if invalid
+def invalidInt(userInput):
+    broken = False
+    try:
+        int(userInput)
+    except ValueError:
+        broken = True
+    
+    return broken
+
+# Returns category number (0 if invalid input)
+def validInput(userInput, categories):
+
+    if (invalidInt(userInput) == True):
+        print("\nYou have input a non-integer.\nAll categories will be selected.\n")
+        cat = 0
+
+    else:
+        cat = int(userInput)
+        if (cat > len(categories) or cat < 0):
+            print("\nYou have input an out of range integer.\nAll categories will be selected.\n")
+            cat = 0
+
+        elif (cat == 0):
+            print("\nYou have selected: All")
+
+        else:
+            print("\nYou have selected:", categories[int(userInput)])
+
+    return cat
 
 # Obtain users' preferred search domain, returns True if search all, False if search essentials
 def searchDomain():
@@ -58,12 +89,15 @@ def updatefile(searchall, cat):
 
             if (confirm.lower() == 'y'):
                 print("All csv files are updating...")
+                start_time = time.time()    # Time duration to update file, Takes 600-900 seconds to update all files
                 update = updatecsvFiles(searchall, cat)
+
             else:
                 pass
 
         else:   # Update either all/one essential csv files or one searchall csv file
             print("Updating file(s)...")
+            start_time = time.time()
             update = updatecsvFiles(searchall, cat)
 
         # Update user status of csv file update
@@ -71,6 +105,8 @@ def updatefile(searchall, cat):
             updateSuccessful(searchall, cat)
         else:
             print("The csv file update was unsuccessful.")
+
+        print("---- %.2f seconds ----" % (time.time()-start_time))
     else:
         print("No csv files will be updated.")
 
@@ -80,3 +116,20 @@ def oldcsv(categories, fileNames, cat, days = 2):
     lastModDate = lastMod(categories, fileNames, cat)
     dateDiff = today - lastModDate
     return (dateDiff >= timedelta(days))
+
+# Print result to user
+def printResult(result, cat, categories, length = 150):
+    if (len(result) == 0):
+        print("No items were found")
+
+    else:
+        if (cat == 0):
+            print("Found ", len(result), "items in All")
+        else:
+            print("Found ", len(result), "items in", categories[cat])
+        
+        # If result is length items, print all to user, else print shortened table
+        if (len(result) > length):
+            print(result)
+        else:
+            print(result.to_string())
