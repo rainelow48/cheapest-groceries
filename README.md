@@ -24,13 +24,21 @@ You will need to download the following files into the same folder:
 Follow the steps below to get data from Sainsbury's webpage as csv files:
 
 #### A. Get all items from Sainsbury's website
-1. Run main.py
-Run on command prompt `C:\Users\...>python main.py` or on your IDE
-2. When prompted to select category, select 'All' (enter 0)
-3. When prompted to update csv files, select 'Y' (enter y)
-4. When prompted for confirmation, select 'Y' (enter y)
-This process will take about 10-20min
-5. When all files are updated, search anything you want (or just hit enter)
+1. Run main.py\
+Run on command prompt `C:\Users\...>python main.py` or on your IDE\
+2. When prompted to select category, select 'All' (enter 0)\
+`Do you wish to update csv files? (Y/N): y`\
+3. When prompted to update csv files, select 'Y' (enter y)\
+`This might take a long while (10-15min). Do you wish to proceed? (Y/N): y`\
+4. When prompted for confirmation, select 'Y' (enter y)\
+This process will take about 10-20min\
+```
+All csv files are updating...
+All csv files has been updated!
+---- 652.82 seconds ----
+```
+5. When all files are updated, search anything you want (or just hit enter)\
+`Please enter item to search for:`
 
 #### B. Get essential items from Sainsbury's website
 In main.py, change `searchAll = True` to `searchAll = False` and repeat steps 1-3 above. This will take less than a minute.
