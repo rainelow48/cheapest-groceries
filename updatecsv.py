@@ -38,6 +38,13 @@ def lastMod(categories, fileNames, cat):
 
     return modDate
 
+# Function to check if folder does not exists, else makes folder
+def folderExist(directory, folder):
+    if not os.path.exists(directory + folder):
+        os.makedirs(directory + folder)
+    else:
+        pass
+
 # Function to update essential csv for category of choice, update all by default
 def updateEssentials(cat):
     # Update all categories
@@ -49,6 +56,7 @@ def updateEssentials(cat):
     else:
         # Open csv file to write
         catName = esscategories[cat]
+        folderExist(os.getcwd(), '\\csv files\\')
         fileName = os.getcwd()+ '\\csv files\\' + essfileNames[catName]+'.csv'
         csv_file = open(fileName, 'w')
         csv_writer = csv.writer(csv_file)
@@ -129,6 +137,7 @@ def updateAll(cat):
     else:
         # Open csv file to write
         catName = allcategories[cat]
+        folderExist(os.getcwd(), '\\csv files\\')
         fileName = os.getcwd()+ '\\csv files\\' + allfileNames[catName]+'.csv'
         csv_file = open(fileName, 'w')
         csv_writer = csv.writer(csv_file)
