@@ -4,7 +4,7 @@ from sainsvar import allcategories, allfileNames
 
 # Import required functions
 from checkvalidinput import invalidInt, validInput
-from updatecsv import updateEssentials, updateAll, updateSuccessful, lastMod
+from updatecsv import updatecsvFiles, updateSuccessful, lastMod
 
 # Import required libraries
 from datetime import date, timedelta
@@ -47,34 +47,24 @@ def searchCat(categories):
     return validInput(selection, categories)
 
 # Check if user wants to update csv files, update only if user enters Y/y
-def updatecsvfile(searchall, cat):
+def updatefile(searchall, cat):
     update = input("Do you wish to update csv files? (Y/N): ")
     
     if (update.lower() == 'y'):
+        # Update required csv files
+        if (searchall == True and cat == 0):    # Checks if all searchall csv files need to be updated
+            # Get user confirmation again
+            confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
 
-        # Update required essentials csv files
-        if (searchall == False):
-            if (cat == 0):
+            if (confirm.lower() == 'y'):
                 print("All csv files are updating...")
+                update = updatecsvFiles(searchall, cat)
             else:
-                print("The csv file is updating...")
-            update = updateEssentials(cat)
+                pass
 
-        # Update required all csv files
-        else:
-            if (cat != 0):
-                print("The csv file is updating...")
-                update = updateAll(cat)
-            
-            else: 
-                # Get user confirmation to update all searchall csv files
-                confirm = input("This might take a long while (10-15min). Do you wish to proceed? (Y/N): ")
-
-                if (confirm.lower() == 'y'):
-                    print("All csv files are updating...")
-                    update = updateAll(cat)
-                else:
-                    pass
+        else:   # Update either all/one essential csv files or one searchall csv file
+            print("Updating file(s)...")
+            update = updatecsvFiles(searchall, cat)
 
         # Update user status of csv file update
         if (update == True) :
