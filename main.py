@@ -1,6 +1,6 @@
 # Import required file function
-from userinteraction import searchDomain, searchCat, updatecsvfile, oldcsv
-from updatecsv import setcatandfile
+from userinteraction import searchDomain, searchCat, updatefile, oldcsv
+from updatecsv import setVar
 from searchcsv import searchitem
 
 # Import library
@@ -14,7 +14,7 @@ print("\n*** Welcome to Sainsbury's search function! ***\n")
 searchall = True # Sets search domain to all items
 
 # Set correct categories and filenames
-categories, fileNames = setcatandfile(searchall)
+categories, fileNames, mainurl, urlParams = setVar(searchall)
 
 # Obtain user's preferred search category
 cat = searchCat(categories)
@@ -25,7 +25,7 @@ cat = searchCat(categories)
 
 # Checks if csv file is old, update if required
 if (oldcsv == True):
-    updatecsvfile(searchall, cat)
+    updatefile(searchall, cat)
 else:
     pass
 
