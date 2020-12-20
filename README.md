@@ -25,7 +25,7 @@ Follow the steps below to get data from Sainsbury's webpage as csv files:
 
 #### A. Get all items from Sainsbury's website
 1. Run main.py\
-Run on command prompt `C:\Users\...>python main.py` or on your IDE\
+Run on command prompt `C:\Users\...>python main.py` or on your IDE
 2. When prompted to select category, select 'All'
 ```
 *** Welcome to Sainsbury's search function! ***
@@ -50,17 +50,18 @@ Please select a category to search item:
 
 Your selection (0-14): 0
 ```
-3. When prompted to update csv files, select 'Y'\
+3. When prompted to update csv files, select 'Y': 
 `Do you wish to update csv files? (Y/N): y`
-4. When prompted for confirmation, select 'Y'\
+4. When prompted for confirmation, select 'Y': 
 `This might take a long while (10-15min). Do you wish to proceed? (Y/N): y`
+
 This process will take about 10-20min
 ```
 All csv files are updating...
 All csv files has been updated!
 ---- 652.82 seconds ----
 ```
-5. When all files are updated, search any item you want (or just hit enter)\
+5. When all files are updated, search any item you want (or just hit enter):
 `Please enter item to search for: Bacon`
 
 #### B. Get essential items from Sainsbury's website
@@ -100,7 +101,7 @@ searchAll = searchDomain()    # Let user set search domain
 ```
 
 #### Update csv
-Set a limit on how old your csv files can be (in days) and get prompted to update your csv files if they are too old
+Set a limit on how old your csv files can be (in days) and get prompted to update your csv files if they are too old\
 `days = 0                     # Set to 0 to get a prompt every time you run main.py`
 
 #### Length of result
