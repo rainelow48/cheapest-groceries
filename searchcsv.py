@@ -31,7 +31,7 @@ def searchItem(cat, categories, fileNames, searchValues):
         data = pd.read_csv(os.getcwd()+ '\\csv files\\' + filename)
 
         # Apply filter, case insensitive (requires values in searchValues to be lower case too)
-        filter = data['Description'].apply(lambda desc: all(word in desc.lower() for word in searchValues))
+        filter = data['Description'].apply(lambda desc: all(word in str(desc).lower() for word in searchValues))
         
         # Obtain filtered items
         result = data[filter]
